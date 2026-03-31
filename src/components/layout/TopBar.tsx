@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
+import { basePath } from "@/lib/basepath";
 
 export default function TopBar() {
   return (
@@ -22,8 +22,9 @@ export default function TopBar() {
           rel="noopener noreferrer"
           className="flex items-center"
         >
-          <Image
-            src="/images/ardc-logo.png"
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={`${basePath}/images/ardc-logo.png`}
             alt="ARDC"
             width={80}
             height={28}
@@ -36,8 +37,9 @@ export default function TopBar() {
           rel="noopener noreferrer"
           className="flex items-center"
         >
-          <Image
-            src="/images/ds-logo.png"
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={`${basePath}/images/ds-logo.png`}
             alt="Digital Science"
             width={100}
             height={28}

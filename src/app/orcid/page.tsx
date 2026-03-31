@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import MetricCard from "@/components/content/MetricCard";
 import { Globe, Landmark, Newspaper, FlaskConical, Building2 } from "lucide-react";
+import { basePath } from "@/lib/basepath";
 
 interface CountryData {
   country: string;
@@ -17,7 +18,7 @@ export default function OrcidOverview() {
   const [australia, setAustralia] = useState<CountryData | null>(null);
 
   useEffect(() => {
-    fetch("/data/orcid/country-adoption.json")
+    fetch(`${basePath}/data/orcid/country-adoption.json`)
       .then((r) => r.json())
       .then((data: CountryData[]) => {
         const au = data.find(

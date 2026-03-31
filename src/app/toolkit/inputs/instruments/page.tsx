@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import dynamic from "next/dynamic";
 import ChartContainer from "@/components/charts/ChartContainer";
 import MetricCard from "@/components/content/MetricCard";
+import { basePath } from "@/lib/basepath";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -25,7 +26,7 @@ export default function InstrumentsPage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/data/inputs/instruments.json")
+    fetch(`${basePath}/data/inputs/instruments.json`)
       .then((r) => r.json())
       .then((d: InstrumentRecord[]) => {
         setData(d);

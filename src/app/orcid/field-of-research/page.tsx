@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import dynamic from "next/dynamic";
 import ScatterPlot, { type ScatterDataPoint } from "@/components/charts/ScatterPlot";
 import ChartContainer from "@/components/charts/ChartContainer";
+import { basePath } from "@/lib/basepath";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -50,7 +51,7 @@ export default function OrcidFieldOfResearchPage() {
   const [highlightEntity, setHighlightEntity] = useState<string | undefined>();
 
   useEffect(() => {
-    fetch("/data/orcid/subject-category.json")
+    fetch(`${basePath}/data/orcid/subject-category.json`)
       .then((r) => r.json())
       .then((d: SubjectCategoryRow[]) => {
         setAllData(d);

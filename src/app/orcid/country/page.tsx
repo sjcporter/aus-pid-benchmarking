@@ -3,6 +3,7 @@
 import { useState, useEffect, useMemo } from "react";
 import ScatterPlot, { type ScatterDataPoint } from "@/components/charts/ScatterPlot";
 import ChartContainer from "@/components/charts/ChartContainer";
+import { basePath } from "@/lib/basepath";
 
 interface CountryAdoptionRow {
   entity: string;
@@ -38,7 +39,7 @@ export default function OrcidCountryPage() {
   const [highlightEntity, setHighlightEntity] = useState<string | undefined>();
 
   useEffect(() => {
-    fetch("/data/orcid/country-adoption.json")
+    fetch(`${basePath}/data/orcid/country-adoption.json`)
       .then((r) => r.json())
       .then((d) => {
         setData(d);

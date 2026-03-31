@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import dynamic from "next/dynamic";
 import ScatterPlot, { type ScatterDataPoint } from "@/components/charts/ScatterPlot";
 import ChartContainer from "@/components/charts/ChartContainer";
+import { basePath } from "@/lib/basepath";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -37,8 +38,8 @@ export default function OrcidPublisherPage() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/data/orcid/publisher-engagement.json").then((r) => r.json()),
-      fetch("/data/orcid/publisher-year.json").then((r) => r.json()),
+      fetch(`${basePath}/data/orcid/publisher-engagement.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/orcid/publisher-year.json`).then((r) => r.json()),
     ])
       .then(([engagement, yearData]: [PublisherEngagement[], PublisherYear[]]) => {
         setEngagementData(engagement);

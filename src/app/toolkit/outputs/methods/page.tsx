@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import dynamic from "next/dynamic";
 import ChartContainer from "@/components/charts/ChartContainer";
 import MetricCard from "@/components/content/MetricCard";
+import { basePath } from "@/lib/basepath";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -40,9 +41,9 @@ export default function MethodsPage() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/data/outputs/protocols-year.json").then((r) => r.json()),
-      fetch("/data/outputs/protocol-journals.json").then((r) => r.json()),
-      fetch("/data/outputs/datacite-protocols.json").then((r) => r.json()),
+      fetch(`${basePath}/data/outputs/protocols-year.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/outputs/protocol-journals.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/outputs/datacite-protocols.json`).then((r) => r.json()),
     ])
       .then(([yearData, journals, dcProtocols]: [ProtocolYear[], ProtocolJournal[], DataCiteProtocol[]]) => {
         setData(yearData.sort((a, b) => a.year - b.year));

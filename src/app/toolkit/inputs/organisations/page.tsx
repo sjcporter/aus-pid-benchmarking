@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import dynamic from "next/dynamic";
 import ChartContainer from "@/components/charts/ChartContainer";
 import MetricCard from "@/components/content/MetricCard";
+import { basePath } from "@/lib/basepath";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -38,10 +39,10 @@ export default function OrganisationsPage() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/data/inputs/ror-assertions-by-year.json").then((r) => r.json()),
-      fetch("/data/inputs/ror-publishers.json").then((r) => r.json()),
-      fetch("/data/inputs/missing-organisations.json").then((r) => r.json()),
-      fetch("/data/inputs/ror-field-of-research.json").then((r) => r.json()),
+      fetch(`${basePath}/data/inputs/ror-assertions-by-year.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/inputs/ror-publishers.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/inputs/missing-organisations.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/inputs/ror-field-of-research.json`).then((r) => r.json()),
     ])
       .then(([yearly, publishers, missing, forResearch]) => {
         setYearData(yearly);

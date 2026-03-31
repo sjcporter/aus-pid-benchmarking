@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import ScatterPlot, { type ScatterDataPoint } from "@/components/charts/ScatterPlot";
 import ChartContainer from "@/components/charts/ChartContainer";
 import type { FunderAdoptionRow } from "@/types/adoption";
+import { basePath } from "@/lib/basepath";
 
 type SortField = "funder" | "country" | "region" | "research_pool" | "percentage_orcid" | "orcid_completeness";
 type SortDir = "asc" | "desc";
@@ -22,7 +23,7 @@ export default function FunderPage() {
   const [sortDir, setSortDir] = useState<SortDir>("desc");
 
   useEffect(() => {
-    fetch("/data/orcid/funder-adoption.json")
+    fetch(`${basePath}/data/orcid/funder-adoption.json`)
       .then((r) => r.json())
       .then((d) => {
         setData(d);

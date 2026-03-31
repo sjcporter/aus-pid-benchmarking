@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import dynamic from "next/dynamic";
 import ChartContainer from "@/components/charts/ChartContainer";
 import MetricCard from "@/components/content/MetricCard";
+import { basePath } from "@/lib/basepath";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -36,9 +37,9 @@ export default function SamplesPage() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/data/inputs/igsn-samples.json").then((r) => r.json()),
-      fetch("/data/inputs/igsn-affiliations.json").then((r) => r.json()),
-      fetch("/data/inputs/igsn-relationships.json").then((r) => r.json()),
+      fetch(`${basePath}/data/inputs/igsn-samples.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/inputs/igsn-affiliations.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/inputs/igsn-relationships.json`).then((r) => r.json()),
     ])
       .then(([samples, affiliations, relationships]: [SampleYear[], IgsnAffiliation[], IgsnRelationship[]]) => {
         setData(samples.sort((a, b) => a.year - b.year));

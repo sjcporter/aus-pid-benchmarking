@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import dynamic from "next/dynamic";
 import ChartContainer from "@/components/charts/ChartContainer";
 import MetricCard from "@/components/content/MetricCard";
+import { basePath } from "@/lib/basepath";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -17,7 +18,7 @@ export default function NtrosPage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/data/outputs/ntros.json")
+    fetch(`${basePath}/data/outputs/ntros.json`)
       .then((r) => r.json())
       .then((d: NtroRow[]) => {
         setData(d.sort((a, b) => b.works - a.works));

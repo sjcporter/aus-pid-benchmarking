@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { basePath } from "@/lib/basepath";
 import { ChevronRight, PanelLeftClose, PanelLeft } from "lucide-react";
 import { navigation, type NavItem } from "@/lib/navigation";
 
@@ -86,7 +87,7 @@ export default function Sidebar() {
       </nav>
       <div className="p-3 border-t border-brand-border text-xs text-brand-muted">
         <a
-          href="/docs/AUSPIDBenchmarkingFinal.pdf"
+          href={`${basePath}/docs/AUSPIDBenchmarkingFinal.pdf`}
           target="_blank"
           className="hover:text-brand-primary"
         >

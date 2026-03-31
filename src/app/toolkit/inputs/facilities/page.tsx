@@ -3,6 +3,7 @@
 import { useState, useEffect, useMemo } from "react";
 import ChartContainer from "@/components/charts/ChartContainer";
 import MetricCard from "@/components/content/MetricCard";
+import { basePath } from "@/lib/basepath";
 
 interface Facility {
   ror_id: string;
@@ -32,8 +33,8 @@ export default function FacilitiesPage() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/data/inputs/facilities.json").then((r) => r.json()),
-      fetch("/data/inputs/facilities-dimensions.json").then((r) => r.json()),
+      fetch(`${basePath}/data/inputs/facilities.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/inputs/facilities-dimensions.json`).then((r) => r.json()),
     ])
       .then(([facilities, dimFacilities]: [Facility[], DimensionsFacility[]]) => {
         setData(facilities);

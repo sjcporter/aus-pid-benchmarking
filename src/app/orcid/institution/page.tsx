@@ -3,6 +3,7 @@
 import { useState, useEffect, useMemo } from "react";
 import ScatterPlot, { type ScatterDataPoint } from "@/components/charts/ScatterPlot";
 import ChartContainer from "@/components/charts/ChartContainer";
+import { basePath } from "@/lib/basepath";
 
 interface InstitutionAdoptionRow {
   entity: string;
@@ -27,7 +28,7 @@ export default function OrcidInstitutionPage() {
   const [highlightEntity, setHighlightEntity] = useState<string | undefined>();
 
   useEffect(() => {
-    fetch("/data/orcid/institution-adoption-aus.json")
+    fetch(`${basePath}/data/orcid/institution-adoption-aus.json`)
       .then((r) => r.json())
       .then((d: InstitutionAdoptionRow[]) => {
         setData(d);

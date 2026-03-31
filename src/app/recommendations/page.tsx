@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useMemo } from "react";
+import { basePath } from "@/lib/basepath";
 
 interface Recommendation {
   id: string;
@@ -51,7 +52,7 @@ export default function RecommendationsPage() {
   const [activeFilter, setActiveFilter] = useState<FilterCategory>("all");
 
   useEffect(() => {
-    fetch("/data/meta/recommendations.json")
+    fetch(`${basePath}/data/meta/recommendations.json`)
       .then((r) => r.json())
       .then((d: Recommendation[]) => {
         setData(d);

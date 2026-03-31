@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import dynamic from "next/dynamic";
 import ChartContainer from "@/components/charts/ChartContainer";
 import MetricCard from "@/components/content/MetricCard";
+import { basePath } from "@/lib/basepath";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -66,8 +67,8 @@ export default function ReportsPage() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/data/outputs/reports.json").then((r) => r.json()),
-      fetch("/data/outputs/reports-au-orcid-ror.json").then((r) => r.json()),
+      fetch(`${basePath}/data/outputs/reports.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/outputs/reports-au-orcid-ror.json`).then((r) => r.json()),
     ])
       .then(([reports, auOrcidRor]: [ReportRow[], ReportOrcidRorRow[]]) => {
         setData(reports.sort((a, b) => b.reports - a.reports));

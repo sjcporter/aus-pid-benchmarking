@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import dynamic from "next/dynamic";
 import ChartContainer from "@/components/charts/ChartContainer";
 import MetricCard from "@/components/content/MetricCard";
+import { basePath } from "@/lib/basepath";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -28,8 +29,8 @@ export default function GrantsPage() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/data/inputs/grants-crossref.json").then((r) => r.json()),
-      fetch("/data/inputs/grants-timeseries.json").then((r) => r.json()),
+      fetch(`${basePath}/data/inputs/grants-crossref.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/inputs/grants-timeseries.json`).then((r) => r.json()),
     ])
       .then(([grantRows, timeseries]: [GrantRow[], GrantTimeseries[]]) => {
         setData(grantRows.sort((a, b) => b.grants - a.grants));

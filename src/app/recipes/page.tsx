@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useMemo } from "react";
+import { basePath } from "@/lib/basepath";
 
 interface ToolkitQuery {
   id: number | string;
@@ -33,7 +34,7 @@ export default function RecipesPage() {
   const [expandedId, setExpandedId] = useState<number | string | null>(null);
 
   useEffect(() => {
-    fetch("/data/meta/toolkit-queries.json")
+    fetch(`${basePath}/data/meta/toolkit-queries.json`)
       .then((r) => r.json())
       .then((d: ToolkitQuery[]) => {
         setQueries(d);

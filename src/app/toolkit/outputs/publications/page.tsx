@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import dynamic from "next/dynamic";
 import ChartContainer from "@/components/charts/ChartContainer";
 import MetricCard from "@/components/content/MetricCard";
+import { basePath } from "@/lib/basepath";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -44,11 +45,11 @@ export default function PublicationsPage() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/data/outputs/oa-ratio.json").then((r) => r.json()),
-      fetch("/data/outputs/works-no-pid-global.json").then((r) => r.json()),
-      fetch("/data/outputs/works-no-pid-au.json").then((r) => r.json()),
-      fetch("/data/outputs/dblp-conferences.json").then((r) => r.json()),
-      fetch("/data/outputs/no-pid-heatmap.json").then((r) => r.json()),
+      fetch(`${basePath}/data/outputs/oa-ratio.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/outputs/works-no-pid-global.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/outputs/works-no-pid-au.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/outputs/dblp-conferences.json`).then((r) => r.json()),
+      fetch(`${basePath}/data/outputs/no-pid-heatmap.json`).then((r) => r.json()),
     ])
       .then(([oa, global, au, dblp, heatmap]: [OaRatio[], WorksNoPid[], WorksNoPid[], DblpConference[], NoPidHeatmapRow[]]) => {
         setOaData(oa.sort((a, b) => a.year - b.year));
