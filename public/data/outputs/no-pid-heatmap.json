@@ -1,0 +1,548 @@
+[
+  {
+    "field_of_research": "Law and Legal Studies",
+    "work_type": "article",
+    "no_doi": 25,
+    "total": 1223,
+    "pct_no_doi": 2.04
+  },
+  {
+    "field_of_research": "Physical Sciences",
+    "work_type": "preprint",
+    "no_doi": 1,
+    "total": 142,
+    "pct_no_doi": 0.7
+  },
+  {
+    "field_of_research": "Engineering",
+    "work_type": "preprint",
+    "no_doi": 1,
+    "total": 320,
+    "pct_no_doi": 0.31
+  },
+  {
+    "field_of_research": "Information and Computing Sciences",
+    "work_type": "preprint",
+    "no_doi": 1,
+    "total": 410,
+    "pct_no_doi": 0.24
+  },
+  {
+    "field_of_research": "Biological Sciences",
+    "work_type": "preprint",
+    "no_doi": 3,
+    "total": 1638,
+    "pct_no_doi": 0.18
+  },
+  {
+    "field_of_research": "Philosophy and Religious Studies",
+    "work_type": "article",
+    "no_doi": 2,
+    "total": 1095,
+    "pct_no_doi": 0.18
+  },
+  {
+    "field_of_research": "Health Sciences",
+    "work_type": "article",
+    "no_doi": 30,
+    "total": 18171,
+    "pct_no_doi": 0.17
+  },
+  {
+    "field_of_research": "Creative Arts and Writing",
+    "work_type": "article",
+    "no_doi": 1,
+    "total": 814,
+    "pct_no_doi": 0.12
+  },
+  {
+    "field_of_research": "History, Heritage and Archaeology",
+    "work_type": "article",
+    "no_doi": 1,
+    "total": 1043,
+    "pct_no_doi": 0.1
+  },
+  {
+    "field_of_research": "Biomedical and Clinical Sciences",
+    "work_type": "article",
+    "no_doi": 31,
+    "total": 34870,
+    "pct_no_doi": 0.09
+  },
+  {
+    "field_of_research": "Education",
+    "work_type": "article",
+    "no_doi": 3,
+    "total": 3286,
+    "pct_no_doi": 0.09
+  },
+  {
+    "field_of_research": "Agricultural, Veterinary and Food Sciences",
+    "work_type": "article",
+    "no_doi": 3,
+    "total": 4221,
+    "pct_no_doi": 0.07
+  },
+  {
+    "field_of_research": "Information and Computing Sciences",
+    "work_type": "article",
+    "no_doi": 4,
+    "total": 6816,
+    "pct_no_doi": 0.06
+  },
+  {
+    "field_of_research": "Language, Communication and Culture",
+    "work_type": "article",
+    "no_doi": 1,
+    "total": 1694,
+    "pct_no_doi": 0.06
+  },
+  {
+    "field_of_research": "Chemical Sciences",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 5785,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Human Society",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 5594,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Commerce, Management, Tourism and Services",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 5130,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Psychology",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 5403,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Built Environment and Design",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 2197,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Engineering",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 16419,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Physical Sciences",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 4210,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Law and Legal Studies",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 199,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Human Society",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 292,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Health Sciences",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 968,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Earth Sciences",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 267,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Psychology",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 405,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Commerce, Management, Tourism and Services",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 292,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Education",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 80,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Economics",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 259,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Engineering",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 2003,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Physical Sciences",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 385,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Information and Computing Sciences",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 3486,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Earth Sciences",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 140,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Agricultural, Veterinary and Food Sciences",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 220,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Creative Arts and Writing",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 333,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Commerce, Management, Tourism and Services",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 595,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Built Environment and Design",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 387,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Engineering",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 1081,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Biological Sciences",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 448,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Earth Sciences",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 214,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Chemical Sciences",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 83,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Physical Sciences",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 120,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Chemical Sciences",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 271,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Psychology",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 221,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Built Environment and Design",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 196,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Biological Sciences",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 64,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Mathematical Sciences",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 118,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Human Society",
+    "work_type": "monograph",
+    "no_doi": 0,
+    "total": 55,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Language, Communication and Culture",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 431,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Commerce, Management, Tourism and Services",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 267,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Health Sciences",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 108,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Mathematical Sciences",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 62,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Economics",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 1718,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Education",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 741,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Mathematical Sciences",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 1712,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Chemical Sciences",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 113,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Language, Communication and Culture",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 52,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Human Society",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 57,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Education",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 169,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Creative Arts and Writing",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 84,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Information and Computing Sciences",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 1563,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Law and Legal Studies",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 402,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Biomedical and Clinical Sciences",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 698,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Environmental Sciences",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 5079,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Biological Sciences",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 10284,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Earth Sciences",
+    "work_type": "article",
+    "no_doi": 0,
+    "total": 3994,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Biomedical and Clinical Sciences",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 1885,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Agricultural, Veterinary and Food Sciences",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 252,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Environmental Sciences",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 410,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Biomedical and Clinical Sciences",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 445,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Human Society",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 707,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Health Sciences",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 552,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Philosophy and Religious Studies",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 248,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Environmental Sciences",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 349,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "History, Heritage and Archaeology",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 171,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Economics",
+    "work_type": "chapter",
+    "no_doi": 0,
+    "total": 92,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Philosophy and Religious Studies",
+    "work_type": "preprint",
+    "no_doi": 0,
+    "total": 60,
+    "pct_no_doi": 0.0
+  },
+  {
+    "field_of_research": "Language, Communication and Culture",
+    "work_type": "proceeding",
+    "no_doi": 0,
+    "total": 60,
+    "pct_no_doi": 0.0
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "client_id": "unsw.repo",
+    "repository": "University of New South Wales",
+    "dissertations": 3568,
+    "with_orcid": 860,
+    "with_ror": 0,
+    "pct_orcid": 24.1,
+    "pct_ror": 0.0
+  },
+  {
+    "client_id": "jcu.repo",
+    "repository": "James Cook University",
+    "dissertations": 421,
+    "with_orcid": 293,
+    "with_ror": 406,
+    "pct_orcid": 69.6,
+    "pct_ror": 96.4
+  },
+  {
+    "client_id": "ardcx.uc",
+    "repository": "University of Canberra Research Portal",
+    "dissertations": 53,
+    "with_orcid": 0,
+    "with_ror": 9,
+    "pct_orcid": 0.0,
+    "pct_ror": 17.0
+  },
+  {
+    "client_id": "cdu.repo",
+    "repository": "Charles Darwin University",
+    "dissertations": 29,
+    "with_orcid": 0,
+    "with_ror": 28,
+    "pct_orcid": 0.0,
+    "pct_ror": 96.6
+  },
+  {
+    "client_id": "ardcx.griffith",
+    "repository": "Griffith University Research Data Repository",
+    "dissertations": 2,
+    "with_orcid": 0,
+    "with_ror": 0,
+    "pct_orcid": 0.0,
+    "pct_ror": 0.0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "client_id": "psu.dmr-first",
+    "name": "2DCC - DMR-FIRST",
+    "instruments": 61
+  },
+  {
+    "client_id": "uniwa.repo",
+    "name": "The University of Western Australia",
+    "instruments": 60
+  },
+  {
+    "client_id": "tib.hzb",
+    "name": "Helmholtz-Zentrum Berlin f\u00fcr Materialien und Energie GmbH",
+    "instruments": 24
+  },
+  {
+    "client_id": "cos.osf",
+    "name": "Open Science Framework",
+    "instruments": 16
+  },
+  {
+    "client_id": "todn.hcsvci",
+    "name": "DTU EIS",
+    "instruments": 13
+  },
+  {
+    "client_id": "pawsey.repo",
+    "name": "Pawsey Supercomputing Centre",
+    "instruments": 7
+  },
+  {
+    "client_id": "pqip.devices",
+    "name": "HZDR-DEVICES",
+    "instruments": 3
+  },
+  {
+    "client_id": "upenn.repo",
+    "name": "Univ. of Pennsylvania Repository",
+    "instruments": 2
+  },
+  {
+    "client_id": "uq.repo",
+    "name": "The University of Queensland",
+    "instruments": 1
+  },
+  {
+    "client_id": "tib.iow",
+    "name": "Leibniz-Institut fuer Ostseeforschung Warnemuende",
+    "instruments": 1
+  },
+  {
+    "client_id": "ardcx.curtin",
+    "name": "Curtin University Research Data Collection",
+    "instruments": 1
+  },
+  {
+    "client_id": "iu.bl",
+    "name": "Indiana University Bloomington Libraries",
+    "instruments": 1
+  },
+  {
+    "client_id": "usc.gateway",
+    "name": "Gateway to Global Aging Data",
+    "instruments": 1
+  }
+]

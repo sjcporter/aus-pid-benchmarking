@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2014,
+    "total_works": 182679,
+    "works_no_pid": 47062,
+    "pct_no_pid": 25.76
+  },
+  {
+    "year": 2015,
+    "total_works": 195156,
+    "works_no_pid": 47137,
+    "pct_no_pid": 24.15
+  },
+  {
+    "year": 2016,
+    "total_works": 206111,
+    "works_no_pid": 45429,
+    "pct_no_pid": 22.04
+  },
+  {
+    "year": 2017,
+    "total_works": 210847,
+    "works_no_pid": 42987,
+    "pct_no_pid": 20.39
+  },
+  {
+    "year": 2018,
+    "total_works": 222946,
+    "works_no_pid": 41579,
+    "pct_no_pid": 18.65
+  },
+  {
+    "year": 2019,
+    "total_works": 228707,
+    "works_no_pid": 36889,
+    "pct_no_pid": 16.13
+  },
+  {
+    "year": 2020,
+    "total_works": 231839,
+    "works_no_pid": 28298,
+    "pct_no_pid": 12.21
+  },
+  {
+    "year": 2021,
+    "total_works": 241576,
+    "works_no_pid": 26698,
+    "pct_no_pid": 11.05
+  },
+  {
+    "year": 2022,
+    "total_works": 224389,
+    "works_no_pid": 21067,
+    "pct_no_pid": 9.39
+  },
+  {
+    "year": 2023,
+    "total_works": 206496,
+    "works_no_pid": 15825,
+    "pct_no_pid": 7.66
+  }
+]

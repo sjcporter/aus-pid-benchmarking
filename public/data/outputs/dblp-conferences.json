@@ -1,0 +1,102 @@
+[
+  {
+    "conference": "NeurIPS",
+    "papers": 4494,
+    "with_doi": 0
+  },
+  {
+    "conference": "AAAI",
+    "papers": 2866,
+    "with_doi": 2866
+  },
+  {
+    "conference": "CVPR",
+    "papers": 2715,
+    "with_doi": 2715
+  },
+  {
+    "conference": "ICASSP",
+    "papers": 2679,
+    "with_doi": 2679
+  },
+  {
+    "conference": "ICML",
+    "papers": 2610,
+    "with_doi": 0
+  },
+  {
+    "conference": "IGARSS",
+    "papers": 2589,
+    "with_doi": 2589
+  },
+  {
+    "conference": "ICCCNT",
+    "papers": 2463,
+    "with_doi": 2463
+  },
+  {
+    "conference": "ICLR",
+    "papers": 2260,
+    "with_doi": 0
+  },
+  {
+    "conference": "ICRA",
+    "papers": 1760,
+    "with_doi": 1760
+  },
+  {
+    "conference": "IJCNN",
+    "papers": 1645,
+    "with_doi": 1645
+  },
+  {
+    "conference": "IROS",
+    "papers": 1581,
+    "with_doi": 1581
+  },
+  {
+    "conference": "LREC/COLING",
+    "papers": 1555,
+    "with_doi": 0
+  },
+  {
+    "conference": "EMBC",
+    "papers": 1386,
+    "with_doi": 1386
+  },
+  {
+    "conference": "EMNLP",
+    "papers": 1269,
+    "with_doi": 1269
+  },
+  {
+    "conference": "ACM Multimedia",
+    "papers": 1237,
+    "with_doi": 1237
+  },
+  {
+    "conference": "BIBM",
+    "papers": 1159,
+    "with_doi": 1159
+  },
+  {
+    "conference": "IEEE Big Data",
+    "papers": 1147,
+    "with_doi": 1147
+  },
+  {
+    "conference": "CDC",
+    "papers": 1107,
+    "with_doi": 1107
+  },
+  {
+    "conference": "INTERSPEECH",
+    "papers": 1065,
+    "with_doi": 1020
+  },
+  {
+    "conference": "CHI",
+    "papers": 1057,
+    "with_doi": 1057
+  }
+]

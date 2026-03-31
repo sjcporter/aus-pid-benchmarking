@@ -1,0 +1,698 @@
+[
+  {
+    "id": 1,
+    "label": "toolkit:roraustCoverage",
+    "title": "Number of Australian Institutions with a ROR id",
+    "category": "inputs",
+    "pid_type": "ROR",
+    "open_data": false,
+    "tables": [
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "dimensions-ai.data_analytics.publications",
+      "dimensions-ai.data_analytics.organizations"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1RjWSoTwPZ2TXXAzLN4YlLkTCDsDXuYIB",
+    "description": "This query calculates the potential number of Australian research organizations that could be represented in ROR by identifying all Australian organizations that have authored publications between 2020 and 2024.",
+    "subcategory": "Research Partners"
+  },
+  {
+    "id": 2,
+    "label": "toolkit:roraustaffiliaitons",
+    "title": "Directly asserted affiliations by year for Australian institutions",
+    "category": "inputs",
+    "pid_type": "ROR",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.crossref_metadata",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1RjWSoTwPZ2TXXAzLN4YlLkTCDsDXuYIB",
+    "description": "This query measures the direct adoption of ROR identifiers by publishers for Australian affiliations, counting the number of times a ROR ID has been explicitly included in Crossref metadata.",
+    "subcategory": "Research Partners"
+  },
+  {
+    "id": 3,
+    "label": "toolkit:roraustaffiliaitonsPublisher",
+    "title": "Support for ROR ids is concentrated in specific publishers",
+    "category": "inputs",
+    "pid_type": "ROR",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.crossref_metadata",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1RjWSoTwPZ2TXXAzLN4YlLkTCDsDXuYIB",
+    "description": "This query identifies which publishers are actively asserting ROR IDs for Australian affiliations in their publication metadata.",
+    "subcategory": "Research Partners"
+  },
+  {
+    "id": 4,
+    "label": "toolkit:assertionsbyFieldOfResearch",
+    "title": "Asserted Australian affiliations by field of research",
+    "category": "inputs",
+    "pid_type": "ROR",
+    "open_data": false,
+    "tables": [
+      "aus_pid_data.crossref_metadata",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "dimensions-ai.data_analytics.publications"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1RjWSoTwPZ2TXXAzLN4YlLkTCDsDXuYIB",
+    "description": "This query analyzes the uptake of ROR assertions across different fields of research, comparing Crossref assertions to total Australian publications in Dimensions.",
+    "subcategory": "Research Partners"
+  },
+  {
+    "id": 5,
+    "label": "toolkit:DataCiteRORAffiliations",
+    "title": "ROR Assertions in DataCite records 2020-2024",
+    "category": "inputs",
+    "pid_type": "ROR",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1RjWSoTwPZ2TXXAzLN4YlLkTCDsDXuYIB",
+    "description": "This query assesses the adoption of ROR identifiers in non-publication outputs registered in DataCite (datasets, software, etc.).",
+    "subcategory": "Research Partners"
+  },
+  {
+    "id": 6,
+    "label": "toolkit:ROR_DataCite_affiliations_repositories",
+    "title": "Compare ROR-based affiliations (Australian vs global assertions)",
+    "category": "inputs",
+    "pid_type": "ROR",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "aus_pid_data.DataCite_clients"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1RjWSoTwPZ2TXXAzLN4YlLkTCDsDXuYIB",
+    "description": "This query identifies which DataCite repositories are likely associated with specific Australian institutions by analyzing ROR affiliations.",
+    "subcategory": "Research Partners"
+  },
+  {
+    "id": 7,
+    "label": "toolkit:number_RAIDS",
+    "title": "Number of RAiDs created as at January 2025",
+    "category": "inputs",
+    "pid_type": "RAiD",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1i5A5isnq4OsDKa1AuuD-k8GpnW31TF7t",
+    "description": "This query counts the number of registered Research Activity IDs (RAiDs) to measure the initial uptake of the identifier.",
+    "subcategory": "Research Projects"
+  },
+  {
+    "id": 8,
+    "label": "toolkit:grantsinCrossrefdirect",
+    "title": "Grant DOIs registered in Crossref by funder",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.crossref_metadata",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1KV2RgwKsWZyfw8KkQtnUeRUOdyysCGYe",
+    "description": "This query assesses the current state of grant registration in Crossref, counting grant DOIs per funder and analyzing metadata richness.",
+    "subcategory": "Grants"
+  },
+  {
+    "id": 9,
+    "label": "toolkit:grantCount",
+    "title": "Total pool of active Australian grants",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": false,
+    "tables": [
+      "dimensions-ai.data_analytics.grants",
+      "dimensions-ai.data_analytics.publications",
+      "dimensions-ai.data_analytics.grid"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1KV2RgwKsWZyfw8KkQtnUeRUOdyysCGYe",
+    "description": "This query estimates the total pool of active Australian grants to provide a baseline for PID adoption using Dimensions.",
+    "subcategory": "Grants"
+  },
+  {
+    "id": 10,
+    "label": "toolkit:AutralianPubGrants",
+    "title": "Percentage of publications with valid grant IDs in funding metadata",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": false,
+    "tables": [
+      "aus_pid_data.crossref_metadata",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "dimensions-ai.data_analytics.publications",
+      "dimensions-ai.data_analytics.grid"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1KV2RgwKsWZyfw8KkQtnUeRUOdyysCGYe",
+    "description": "This query compares two methods of linking publications to grants: structured Crossref metadata versus text mining of acknowledgements in Dimensions.",
+    "subcategory": "Grants"
+  },
+  {
+    "id": 11,
+    "label": "toolkit:FacilitiesInROR",
+    "title": "Australian research facilities registered in ROR",
+    "category": "inputs",
+    "pid_type": "ROR",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.ror_data_schema_v2_2025_08_07"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1tI2YfOz4MFWuN9AH4fI2VXyqFHxA6hGV",
+    "description": "This query provides a count of how many Australian research facilities are registered in ROR.",
+    "subcategory": "Research Facilities"
+  },
+  {
+    "id": 12,
+    "label": "toolkit:facilityAssertionsalgo",
+    "title": "Facility Assertions 2020-2024",
+    "category": "inputs",
+    "pid_type": "ROR",
+    "open_data": false,
+    "tables": [
+      "dimensions-ai.data_analytics.publications",
+      "dimensions-ai.data_analytics.organizations"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1tI2YfOz4MFWuN9AH4fI2VXyqFHxA6hGV",
+    "description": "This query measures the research output of Australian facilities by algorithmically linking publications to them based on author affiliations.",
+    "subcategory": "Research Facilities"
+  },
+  {
+    "id": 13,
+    "label": "toolkit:FacilitiesDirectlyAsserted",
+    "title": "Facilities directly asserted vs algorithmically linked",
+    "category": "inputs",
+    "pid_type": "ROR",
+    "open_data": false,
+    "tables": [
+      "aus_pid_data.crossref_metadata",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "dimensions-ai.data_analytics.publications",
+      "dimensions-ai.data_analytics.organizations"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1tI2YfOz4MFWuN9AH4fI2VXyqFHxA6hGV",
+    "description": "This query compares publications linked to facilities via direct ROR assertions in Crossref versus algorithmic linking in Dimensions.",
+    "subcategory": "Research Facilities"
+  },
+  {
+    "id": 14,
+    "label": "toolkit:DataCitedatasetsOverview",
+    "title": "Australian repository landscape in DataCite",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "aus_pid_data.DataCite_providers",
+      "aus_pid_data.DataCiteTypesRemap"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1wLY3462BXmVGshoJfrNITQlE1MHICpBo",
+    "description": "This comprehensive query maps the Australian repository landscape within DataCite using ROR affiliations, provider country codes, and domain name analysis.",
+    "subcategory": "Research Data"
+  },
+  {
+    "id": 15,
+    "label": "toolkit:re3data",
+    "title": "PID systems in use as registered in re3data",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.repositories_re3data"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1wLY3462BXmVGshoJfrNITQlE1MHICpBo",
+    "description": "This query inspects re3data.org data to identify which persistent identifier systems are reportedly used by Australian repositories.",
+    "subcategory": "Research Data"
+  },
+  {
+    "id": 16,
+    "label": "toolkit:countryRepositoryOutput",
+    "title": "Repository outputs by country 2020-2024",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "aus_pid_data.DataCite_providers"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1wLY3462BXmVGshoJfrNITQlE1MHICpBo",
+    "description": "This query aggregates DataCite repository outputs by country to rank national contributions.",
+    "subcategory": "Research Data"
+  },
+  {
+    "id": 17,
+    "label": "toolkit:repositorydetails",
+    "title": "Repository details and PID adoption metrics",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "aus_pid_data.DataCite_providers"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1wLY3462BXmVGshoJfrNITQlE1MHICpBo",
+    "description": "This query provides a detailed profile for each DataCite repository including country, institutional owner, and key PID metrics.",
+    "subcategory": "Research Data"
+  },
+  {
+    "id": 18,
+    "label": "toolkit:globaldatacitationrates",
+    "title": "Global data citation rates 2024",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": false,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "dimensions-ai.data_analytics.publications",
+      "aus_pid_data.DataCite_sentence_matches_confirmed_remapped"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1wLY3462BXmVGshoJfrNITQlE1MHICpBo",
+    "description": "This query measures the rate of dataset citation in scholarly articles by field of research.",
+    "subcategory": "Research Data"
+  },
+  {
+    "id": 19,
+    "label": "toolkit:datacitationCountry",
+    "title": "Data citation percentage by country",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": false,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "dimensions-ai.data_analytics.publications",
+      "aus_pid_data.DataCite_sentence_matches_confirmed_remapped"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1wLY3462BXmVGshoJfrNITQlE1MHICpBo",
+    "description": "This query breaks down dataset citation rate by country and field of research for international comparison.",
+    "subcategory": "Research Data"
+  },
+  {
+    "id": 20,
+    "label": "toolkit:datacitationComparativeEnagement",
+    "title": "Data citation comparative engagement",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": false,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "dimensions-ai.data_analytics.publications",
+      "aus_pid_data.DataCite_sentence_matches_confirmed_remapped"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1wLY3462BXmVGshoJfrNITQlE1MHICpBo",
+    "description": "This query calculates a comparative engagement ratio for data citation by country and field.",
+    "subcategory": "Research Data"
+  },
+  {
+    "id": 21,
+    "label": "toolkit:percentageAustralianSamplesByYear",
+    "title": "Australian IGSN samples by year",
+    "category": "inputs",
+    "pid_type": "IGSN",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.DataCitesnapshot2024"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1H6cPKSnA7NAAXmWro7Qv2f1v9DHMeZMf",
+    "description": "This query measures Australia's contribution to global registration of physical samples using IGSN.",
+    "subcategory": "Samples & Observations"
+  },
+  {
+    "id": 22,
+    "label": "toolkit:igsnpersonAffiliationlinks",
+    "title": "Affiliation and person linkages in Australian IGSN records",
+    "category": "inputs",
+    "pid_type": "IGSN",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.DataCitesnapshot2024"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1H6cPKSnA7NAAXmWro7Qv2f1v9DHMeZMf",
+    "description": "This query assesses metadata richness of Australian IGSN records by measuring links to people (ORCID) and organizations (ROR).",
+    "subcategory": "Samples & Observations"
+  },
+  {
+    "id": 23,
+    "label": "toolkit:igsnobjectlinks",
+    "title": "Object relationships in Australian IGSN records",
+    "category": "inputs",
+    "pid_type": "IGSN",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.DataCitesnapshot2024"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1H6cPKSnA7NAAXmWro7Qv2f1v9DHMeZMf",
+    "description": "This query analyzes how well IGSN sample records are linked to other research objects (e.g., IsCitedBy, IsSupplementTo).",
+    "subcategory": "Samples & Observations"
+  },
+  {
+    "id": 24,
+    "label": "toolkit:linkedIdentifiers",
+    "title": "IGSN linked identifiers analysis",
+    "category": "inputs",
+    "pid_type": "IGSN",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.DataCitesnapshot2024"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1H6cPKSnA7NAAXmWro7Qv2f1v9DHMeZMf",
+    "description": "This query assesses metadata richness of Australian IGSN records, measuring integration into the wider PID graph.",
+    "subcategory": "Samples & Observations"
+  },
+  {
+    "id": 25,
+    "label": "toolkit:instuments",
+    "title": "Research instruments registered in DataCite",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "aus_pid_data.DataCite_providers",
+      "aus_pid_data.DataCiteTypesRemap"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/15Kv_tGH1pKtyJAzjd254q3ltXsZ2dP7Y",
+    "description": "This query identifies and counts research instruments registered with a persistent identifier in DataCite.",
+    "subcategory": "Instruments"
+  },
+  {
+    "id": 26,
+    "label": "toolkit:institutionsROR",
+    "title": "Links between instruments and affiliations",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.DataCitesnapshot2024"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/15Kv_tGH1pKtyJAzjd254q3ltXsZ2dP7Y",
+    "description": "This query examines metadata of registered instruments from key Australian repositories for PID graph connectivity.",
+    "subcategory": "Instruments"
+  },
+  {
+    "id": 27,
+    "label": "toolkit:instrumentLinks",
+    "title": "Links between instruments and DataCite records",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.DataCitesnapshot2024"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/15Kv_tGH1pKtyJAzjd254q3ltXsZ2dP7Y",
+    "description": "This query measures the reuse or citation of registered instruments within the DataCite ecosystem.",
+    "subcategory": "Instruments"
+  },
+  {
+    "id": 28,
+    "label": "toolkit:instrumentcitations",
+    "title": "Instrument citations in scholarly publications",
+    "category": "inputs",
+    "pid_type": "DOI",
+    "open_data": false,
+    "tables": [
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_sentence_matches_confirmed_remapped"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/15Kv_tGH1pKtyJAzjd254q3ltXsZ2dP7Y",
+    "description": "This query identifies when registered instruments are cited in the full text of scholarly publications.",
+    "subcategory": "Instruments"
+  },
+  {
+    "id": 29,
+    "label": "toolkit:reports",
+    "title": "Reports by repository",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "aus_pid_data.DataCite_providers",
+      "aus_pid_data.DataCiteTypesRemap"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1cFWJbqIUYPCds5JD9VWEx2rZYxj18BZd",
+    "description": "This query identifies and ranks repositories based on the number of research reports registered in DataCite.",
+    "subcategory": "Research Reports"
+  },
+  {
+    "id": 30,
+    "label": "toolkit:reportsOCRIDROR",
+    "title": "Reports interoperability with ORCID and ROR",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.DataCiteTypesRemap"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1cFWJbqIUYPCds5JD9VWEx2rZYxj18BZd",
+    "description": "This query assesses metadata quality of research reports from Australian repositories for ORCID and ROR linkage.",
+    "subcategory": "Research Reports"
+  },
+  {
+    "id": 31,
+    "label": "toolkit:reportcitations",
+    "title": "Report citations and altmetric impact",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": false,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients",
+      "altmetric.data.research_outputs",
+      "aus_pid_data.DataCite_sentence_matches_confirmed_remapped"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1cFWJbqIUYPCds5JD9VWEx2rZYxj18BZd",
+    "description": "This query measures the impact of reports from Australian repositories through formal citations and Altmetric mentions.",
+    "subcategory": "Research Reports"
+  },
+  {
+    "id": 32,
+    "label": "toolkit:protocolsByYearDimensions",
+    "title": "Articles published in protocol journals by year",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": false,
+    "tables": [
+      "dimensions-ai.data_analytics.publications"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1_NwUUu3Bv_1oLe6Ccb8Bzkwi13MucdrZ",
+    "description": "This query tracks the volume of protocol-focused articles published over time.",
+    "subcategory": "Research Methods"
+  },
+  {
+    "id": 33,
+    "label": "toolkit:protocolJournals",
+    "title": "Protocol journals ranked by volume",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": false,
+    "tables": [
+      "dimensions-ai.data_analytics.publications"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1_NwUUu3Bv_1oLe6Ccb8Bzkwi13MucdrZ",
+    "description": "This query identifies the primary venues for publishing research protocols.",
+    "subcategory": "Research Methods"
+  },
+  {
+    "id": 34,
+    "label": "toolkit:ProtocolsDataCite",
+    "title": "Protocols registered in DataCite",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1_NwUUu3Bv_1oLe6Ccb8Bzkwi13MucdrZ",
+    "description": "This query searches for protocols registered in DataCite, categorized by repository and resource type.",
+    "subcategory": "Research Methods"
+  },
+  {
+    "id": 35,
+    "label": "toolkit:ntrOutputs",
+    "title": "Non-Traditional Research Outputs in DataCite",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": false,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "aus_pid_data.DataCite_providers",
+      "aus_pid_data.DataCiteTypesRemap",
+      "aus_pid_data.DataCite_sentence_matches_confirmed_remapped"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1i8_0qGPssTQN-QO48EHnM_z7wa0zIOsu",
+    "description": "This query measures Australia's output of NTROs (Image, Audiovisual, Software, etc.) in DataCite and their citation rates.",
+    "subcategory": "NTROs"
+  },
+  {
+    "id": 36,
+    "label": "toolkit:ntrZendoOutputs",
+    "title": "Software works linked to Australian researchers via ORCID",
+    "category": "outputs",
+    "pid_type": "ORCID",
+    "open_data": false,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "ds-open-datasets.orcid.summaries_2024",
+      "dimensions-ai.data_analytics.researchers",
+      "dimensions-ai.data_analytics.organizations"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1i8_0qGPssTQN-QO48EHnM_z7wa0zIOsu",
+    "description": "This query identifies Software works based on ORCID assertions linked to Australian researchers.",
+    "subcategory": "NTROs"
+  },
+  {
+    "id": 37,
+    "label": "toolkit:ntrLocalContexts",
+    "title": "Local Contexts labels and rights in DataCite",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1i8_0qGPssTQN-QO48EHnM_z7wa0zIOsu",
+    "description": "This query identifies Local Contexts labels and rights associated with works in DataCite.",
+    "subcategory": "NTROs"
+  },
+  {
+    "id": 38,
+    "label": "toolkit:dissertationsCountryandRepository",
+    "title": "Dissertations by repository and country",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.ror_data_schema_v2_2025_08_07",
+      "aus_pid_data.DataCite_providers",
+      "aus_pid_data.crossref_metadata"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1ER9AG-inu1CMbPToI3tYGSS5FB8b-xIw",
+    "description": "This query provides a comprehensive count of dissertations with PIDs by combining DataCite and Crossref data.",
+    "subcategory": "Dissertations"
+  },
+  {
+    "id": 39,
+    "label": "toolkit:DissertationsORCIDROR",
+    "title": "Australian dissertations interoperability with ROR and ORCID",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "aus_pid_data.DataCitesnapshot2024",
+      "aus_pid_data.DataCite_clients",
+      "aus_pid_data.DataCiteTypesRemap"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1ER9AG-inu1CMbPToI3tYGSS5FB8b-xIw",
+    "description": "This query measures metadata completeness of Australian dissertations in DataCite for ORCID and ROR identifiers.",
+    "subcategory": "Dissertations"
+  },
+  {
+    "id": 40,
+    "label": "toolkit:noORCIDnoPidOverTime",
+    "title": "Global works with no PID in ORCID by year",
+    "category": "outputs",
+    "pid_type": "ORCID",
+    "open_data": false,
+    "tables": [
+      "ds-open-datasets.orcid.summaries_2024",
+      "dimensions-ai.data_analytics.publications",
+      "dimensions-ai.data_analytics.researchers"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1jNYASptcdX3G4ooaHPNC4gXePpl4tOL-",
+    "description": "This query identifies research outputs in ORCID that lack a standard persistent identifier, tracked over time.",
+    "subcategory": "Research Publications"
+  },
+  {
+    "id": 41,
+    "label": "toolkit:noORCIDnoPidOverTimeAU",
+    "title": "Australian works with no PID in ORCID by year",
+    "category": "outputs",
+    "pid_type": "ORCID",
+    "open_data": false,
+    "tables": [
+      "ds-external-data.orcid.summaries",
+      "dimensions-ai.data_analytics.publications",
+      "dimensions-ai.data_analytics.researchers",
+      "dimensions-ai.data_analytics.organizations"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1jNYASptcdX3G4ooaHPNC4gXePpl4tOL-",
+    "description": "Filtered to Australian researchers, providing a national view of outputs recorded without persistent identifiers.",
+    "subcategory": "Research Publications"
+  },
+  {
+    "id": 42,
+    "label": "toolkit:dblpConferences2024",
+    "title": "DBLP conference papers and DOI coverage 2024",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": true,
+    "tables": [
+      "ds-external-data.aus_pid_data.dblp"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1jNYASptcdX3G4ooaHPNC4gXePpl4tOL-",
+    "description": "This query counts conference papers by conference in 2024 and reports how many have a DOI.",
+    "subcategory": "Research Publications"
+  },
+  {
+    "id": 43,
+    "label": "toolkit:FORpubtype",
+    "title": "Works reported in 2024 with no PID by Field of Research",
+    "category": "outputs",
+    "pid_type": "ORCID",
+    "open_data": false,
+    "tables": [
+      "ds-external-data.orcid.summaries",
+      "dimensions-ai.data_analytics.publications",
+      "dimensions-ai.data_analytics.researchers",
+      "dimensions-ai.data_analytics.organizations"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1jNYASptcdX3G4ooaHPNC4gXePpl4tOL-",
+    "description": "This query provides a granular analysis of outputs lacking PIDs in Australian researchers' ORCID records by field and work type.",
+    "subcategory": "Research Publications"
+  },
+  {
+    "id": 44,
+    "label": "toolkit:OAratio",
+    "title": "Open Access ratio for Australian research",
+    "category": "outputs",
+    "pid_type": "DOI",
+    "open_data": false,
+    "tables": [
+      "dimensions-ai.data_analytics.publications"
+    ],
+    "colab_url": "https://colab.research.google.com/drive/1jNYASptcdX3G4ooaHPNC4gXePpl4tOL-",
+    "description": "This query measures the percentage of Australian research articles that are Open Access, tracking the trend year over year.",
+    "subcategory": "Research Publications"
+  }
+]

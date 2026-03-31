@@ -1,0 +1,152 @@
+[
+  {
+    "client_id": "vwys.repositorio",
+    "repository": "Repositorio Acad\u00e9mico",
+    "dissertations": 7873
+  },
+  {
+    "client_id": "lmu.ub",
+    "repository": "Universit\u00e4tsbibliothek der LMU",
+    "dissertations": 5312
+  },
+  {
+    "client_id": "bl.cam",
+    "repository": "Apollo",
+    "dissertations": 5259
+  },
+  {
+    "client_id": "usc.dl",
+    "repository": "University of Southern California Digital Library",
+    "dissertations": 4203
+  },
+  {
+    "client_id": "udr.institutional",
+    "repository": "Repositorio Institucional E-docUR",
+    "dissertations": 3899
+  },
+  {
+    "client_id": "unsw.repo",
+    "repository": "University of New South Wales",
+    "dissertations": 3568
+  },
+  {
+    "client_id": "bl.oxdb",
+    "repository": "Oxford University Research Archive",
+    "dissertations": 3474
+  },
+  {
+    "client_id": "hppk.yxmipx",
+    "repository": "Repositorio Biblioteca Digital Externadista",
+    "dissertations": 2324
+  },
+  {
+    "client_id": "ethz.zora",
+    "repository": "Universit\u00e4t Z\u00fcrich, ZORA",
+    "dissertations": 2206
+  },
+  {
+    "client_id": "ethz.epfl",
+    "repository": "EPFL Infoscience",
+    "dissertations": 2171
+  },
+  {
+    "client_id": "wustl.lib",
+    "repository": "Washington University in St. Louis Libraries",
+    "dissertations": 2008
+  },
+  {
+    "client_id": "vewy.stax",
+    "repository": "STAX",
+    "dissertations": 1968
+  },
+  {
+    "client_id": "fzao.otzltg",
+    "repository": "Tunisian Scientific and Technical Information Portal",
+    "dissertations": 1778
+  },
+  {
+    "client_id": "ethz.unigenf",
+    "repository": "Uni Genf",
+    "dissertations": 1764
+  },
+  {
+    "client_id": "lwpg.tzbcmg",
+    "repository": "University of Delaware",
+    "dissertations": 1594
+  },
+  {
+    "client_id": "ckhe.ctzkwv",
+    "repository": "Repositorio Institucional Pontificia Universidad Javeriana Bogot\u00e1",
+    "dissertations": 1505
+  },
+  {
+    "client_id": "tib.ubgi",
+    "repository": "Universit\u00e4tsbibliothek Gie\u00dfen",
+    "dissertations": 1448
+  },
+  {
+    "client_id": "delft.tudelft",
+    "repository": "TU Delft Research Repository",
+    "dissertations": 1410
+  },
+  {
+    "client_id": "kaust.kaustrepo",
+    "repository": "KAUST Research Repository",
+    "dissertations": 1344
+  },
+  {
+    "client_id": "tind.uchicago",
+    "repository": "University of Chicago",
+    "dissertations": 1338
+  },
+  {
+    "client_id": "tdl.utl",
+    "repository": "University of Texas Libraries",
+    "dissertations": 1314
+  },
+  {
+    "client_id": "uky.lib",
+    "repository": "UKnowledge",
+    "dissertations": 1238
+  },
+  {
+    "client_id": "cern.zenodo",
+    "repository": "Zenodo",
+    "dissertations": 1162
+  },
+  {
+    "client_id": "zbmed.ulbhalle",
+    "repository": "Universit\u00e4ts- und Landesbibliothek Sachsen-Anhalt",
+    "dissertations": 860
+  },
+  {
+    "client_id": "cnic.casdc",
+    "repository": "\u4e2d\u56fd\u79d1\u5b66\u9662\u79d1\u5b66\u6570\u636e\u4e2d\u5fc3",
+    "dissertations": 822
+  },
+  {
+    "client_id": "nzcu.ucrr",
+    "repository": "UC Research Repository",
+    "dissertations": 813
+  },
+  {
+    "client_id": "nuig.aran",
+    "repository": "University of Galway Research Repository",
+    "dissertations": 777
+  },
+  {
+    "client_id": "umass.uma",
+    "repository": "University of Massachusetts (UMass) Amherst",
+    "dissertations": 754
+  },
+  {
+    "client_id": "umich.library",
+    "repository": "University of Michigan Library",
+    "dissertations": 684
+  },
+  {
+    "client_id": "mtakik.se",
+    "repository": "Semmelweis Egyetem",
+    "dissertations": 574
+  }
+]

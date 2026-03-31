@@ -1,0 +1,34 @@
+[
+  {
+    "org_type": "Company",
+    "count": 337
+  },
+  {
+    "org_type": "Other",
+    "count": 313
+  },
+  {
+    "org_type": "Healthcare",
+    "count": 32
+  },
+  {
+    "org_type": "Nonprofit",
+    "count": 27
+  },
+  {
+    "org_type": "Government",
+    "count": 24
+  },
+  {
+    "org_type": "Facility",
+    "count": 19
+  },
+  {
+    "org_type": "Education",
+    "count": 14
+  },
+  {
+    "org_type": "Archive",
+    "count": 2
+  }
+]

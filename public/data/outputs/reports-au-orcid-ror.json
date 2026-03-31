@@ -1,0 +1,146 @@
+[
+  {
+    "client_id": "unsw.repo",
+    "repository": "University of New South Wales",
+    "reports": 821,
+    "with_orcid": 763,
+    "with_ror": 0,
+    "pct_orcid": 92.9,
+    "pct_ror": 0.0
+  },
+  {
+    "client_id": "swin.repo2",
+    "repository": "Swinburne University of Technology",
+    "reports": 45,
+    "with_orcid": 41,
+    "with_ror": 12,
+    "pct_orcid": 91.1,
+    "pct_ror": 26.7
+  },
+  {
+    "client_id": "ardcx.mqu",
+    "repository": "Macquarie University",
+    "reports": 37,
+    "with_orcid": 9,
+    "with_ror": 37,
+    "pct_orcid": 24.3,
+    "pct_ror": 100.0
+  },
+  {
+    "client_id": "uniwa.repo",
+    "repository": "The University of Western Australia",
+    "reports": 24,
+    "with_orcid": 4,
+    "with_ror": 20,
+    "pct_orcid": 16.7,
+    "pct_ror": 83.3
+  },
+  {
+    "client_id": "ardcx.griffith",
+    "repository": "Griffith University Research Data Repository",
+    "reports": 17,
+    "with_orcid": 0,
+    "with_ror": 16,
+    "pct_orcid": 0.0,
+    "pct_ror": 94.1
+  },
+  {
+    "client_id": "ardcx.utas",
+    "repository": "University of Tasmania",
+    "reports": 13,
+    "with_orcid": 13,
+    "with_ror": 11,
+    "pct_orcid": 100.0,
+    "pct_ror": 84.6
+  },
+  {
+    "client_id": "uts.repo2",
+    "repository": "UTS Library",
+    "reports": 8,
+    "with_orcid": 8,
+    "with_ror": 6,
+    "pct_orcid": 100.0,
+    "pct_ror": 75.0
+  },
+  {
+    "client_id": "jcu.repo",
+    "repository": "James Cook University",
+    "reports": 6,
+    "with_orcid": 1,
+    "with_ror": 6,
+    "pct_orcid": 16.7,
+    "pct_ror": 100.0
+  },
+  {
+    "client_id": "unda.repo",
+    "repository": "ResearchOnline@ND",
+    "reports": 5,
+    "with_orcid": 5,
+    "with_ror": 5,
+    "pct_orcid": 100.0,
+    "pct_ror": 100.0
+  },
+  {
+    "client_id": "lowitja.repo",
+    "repository": "Lowitja Institute",
+    "reports": 5,
+    "with_orcid": 0,
+    "with_ror": 2,
+    "pct_orcid": 0.0,
+    "pct_ror": 40.0
+  },
+  {
+    "client_id": "ardcx.abares",
+    "repository": "Department of Agriculture, Fisheries and Forestry - ABARES",
+    "reports": 3,
+    "with_orcid": 0,
+    "with_ror": 0,
+    "pct_orcid": 0.0,
+    "pct_ror": 0.0
+  },
+  {
+    "client_id": "ardcx.ga",
+    "repository": "Geoscience Australia",
+    "reports": 2,
+    "with_orcid": 0,
+    "with_ror": 0,
+    "pct_orcid": 0.0,
+    "pct_ror": 0.0
+  },
+  {
+    "client_id": "ardcx.uc",
+    "repository": "University of Canberra Research Portal",
+    "reports": 2,
+    "with_orcid": 1,
+    "with_ror": 2,
+    "pct_orcid": 50.0,
+    "pct_ror": 100.0
+  },
+  {
+    "client_id": "ardcx.uts",
+    "repository": "University of Technology, Sydney",
+    "reports": 1,
+    "with_orcid": 1,
+    "with_ror": 1,
+    "pct_orcid": 100.0,
+    "pct_ror": 100.0
+  },
+  {
+    "client_id": "atse.repo",
+    "repository": "ATSE",
+    "reports": 1,
+    "with_orcid": 0,
+    "with_ror": 1,
+    "pct_orcid": 0.0,
+    "pct_ror": 100.0
+  },
+  {
+    "client_id": "cdu.repo",
+    "repository": "Charles Darwin University",
+    "reports": 1,
+    "with_orcid": 1,
+    "with_ror": 1,
+    "pct_orcid": 100.0,
+    "pct_ror": 100.0
+  }
+]

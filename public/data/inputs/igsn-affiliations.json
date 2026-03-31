@@ -1,0 +1,16 @@
+[
+  {
+    "location": "Australia",
+    "samples": 5814951,
+    "creators": 5814951,
+    "name_identifiers": 0,
+    "affiliation_identifiers": 0
+  },
+  {
+    "location": "Rest of World",
+    "samples": 1787055,
+    "creators": 1936802,
+    "name_identifiers": 424663,
+    "affiliation_identifiers": 18988
+  }
+]

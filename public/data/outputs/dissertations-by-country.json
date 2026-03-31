@@ -1,0 +1,72 @@
+[
+  {
+    "country": "Brazil",
+    "country_code": "BR",
+    "dissertations": 128058
+  },
+  {
+    "country": "United States",
+    "country_code": "US",
+    "dissertations": 126759
+  },
+  {
+    "country": "Germany",
+    "country_code": "DE",
+    "dissertations": 86094
+  },
+  {
+    "country": "Australia",
+    "country_code": "AU",
+    "dissertations": 75210
+  },
+  {
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "dissertations": 37935
+  },
+  {
+    "country": "Switzerland",
+    "country_code": "CH",
+    "dissertations": 27397
+  },
+  {
+    "country": "Netherlands",
+    "country_code": "NL",
+    "dissertations": 16315
+  },
+  {
+    "country": "Colombia",
+    "country_code": "CO",
+    "dissertations": 13800
+  },
+  {
+    "country": "Austria",
+    "country_code": "AT",
+    "dissertations": 12134
+  },
+  {
+    "country": "Spain",
+    "country_code": "ES",
+    "dissertations": 11639
+  },
+  {
+    "country": "Chile",
+    "country_code": "CL",
+    "dissertations": 9467
+  },
+  {
+    "country": "Peru",
+    "country_code": "PE",
+    "dissertations": 5760
+  },
+  {
+    "country": "CA",
+    "country_code": "CA",
+    "dissertations": 5312
+  },
+  {
+    "country": "HU",
+    "country_code": "HU",
+    "dissertations": 4949
+  }
+]

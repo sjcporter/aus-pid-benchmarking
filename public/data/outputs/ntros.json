@@ -1,0 +1,102 @@
+[
+  {
+    "resource_type": "Dataset",
+    "works": 22398490
+  },
+  {
+    "resource_type": "PhysicalObject",
+    "works": 5924231
+  },
+  {
+    "resource_type": "Text",
+    "works": 5233792
+  },
+  {
+    "resource_type": "Image",
+    "works": 1600390
+  },
+  {
+    "resource_type": "JournalArticle",
+    "works": 972308
+  },
+  {
+    "resource_type": "Preprint",
+    "works": 703713
+  },
+  {
+    "resource_type": "Other",
+    "works": 635490
+  },
+  {
+    "resource_type": "Collection",
+    "works": 495483
+  },
+  {
+    "resource_type": "Software",
+    "works": 475195
+  },
+  {
+    "resource_type": "Audiovisual",
+    "works": 273800
+  },
+  {
+    "resource_type": "Unknown",
+    "works": 207828
+  },
+  {
+    "resource_type": "ConferencePaper",
+    "works": 158761
+  },
+  {
+    "resource_type": "StudyRegistration",
+    "works": 112505
+  },
+  {
+    "resource_type": "Dissertation",
+    "works": 74543
+  },
+  {
+    "resource_type": "Report",
+    "works": 65735
+  },
+  {
+    "resource_type": "BookChapter",
+    "works": 47844
+  },
+  {
+    "resource_type": "Book",
+    "works": 38113
+  },
+  {
+    "resource_type": "Journal",
+    "works": 36438
+  },
+  {
+    "resource_type": "InteractiveResource",
+    "works": 32196
+  },
+  {
+    "resource_type": "Event",
+    "works": 21383
+  },
+  {
+    "resource_type": "Model",
+    "works": 14919
+  },
+  {
+    "resource_type": "Sound",
+    "works": 13728
+  },
+  {
+    "resource_type": "ConferenceProceeding",
+    "works": 13207
+  },
+  {
+    "resource_type": "DataPaper",
+    "works": 6366
+  },
+  {
+    "resource_type": "PeerReview",
+    "works": 5923
+  }
+]

@@ -1,0 +1,3090 @@
+[
+  {
+    "entity": "eLife",
+    "publisher": "eLife",
+    "publications": 9530,
+    "pct_two_or_more_orcids": 91.83,
+    "pct_any_orcid": 99.98,
+    "pct_one_orcid": 8.15
+  },
+  {
+    "entity": "Rockefeller University Press",
+    "publisher": "Rockefeller University Press",
+    "publications": 2202,
+    "pct_two_or_more_orcids": 97.23,
+    "pct_any_orcid": 99.86,
+    "pct_one_orcid": 2.63
+  },
+  {
+    "entity": "Radiological Society of North America (RSNA)",
+    "publisher": "Radiological Society of North America (RSNA)",
+    "publications": 2027,
+    "pct_two_or_more_orcids": 98.08,
+    "pct_any_orcid": 99.8,
+    "pct_one_orcid": 1.72
+  },
+  {
+    "entity": "JMIR Publications",
+    "publisher": "JMIR Publications",
+    "publications": 16466,
+    "pct_two_or_more_orcids": 99.71,
+    "pct_any_orcid": 99.78,
+    "pct_one_orcid": 0.07
+  },
+  {
+    "entity": "Research, Society and Development",
+    "publisher": "Research, Society and Development",
+    "publications": 22434,
+    "pct_two_or_more_orcids": 99.5,
+    "pct_any_orcid": 99.74,
+    "pct_one_orcid": 0.24
+  },
+  {
+    "entity": "Institute for Operations Research and the Management Sciences (INFORMS)",
+    "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+    "publications": 4139,
+    "pct_two_or_more_orcids": 85.43,
+    "pct_any_orcid": 99.71,
+    "pct_one_orcid": 14.28
+  },
+  {
+    "entity": "Scientific Societies",
+    "publisher": "Scientific Societies",
+    "publications": 3858,
+    "pct_two_or_more_orcids": 55.78,
+    "pct_any_orcid": 99.69,
+    "pct_one_orcid": 43.91
+  },
+  {
+    "entity": "Royal Society of Chemistry (RSC)",
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "publications": 153103,
+    "pct_two_or_more_orcids": 75.07,
+    "pct_any_orcid": 99.67,
+    "pct_one_orcid": 24.6
+  },
+  {
+    "entity": "American Chemical Society (ACS)",
+    "publisher": "American Chemical Society (ACS)",
+    "publications": 282030,
+    "pct_two_or_more_orcids": 74.68,
+    "pct_any_orcid": 99.59,
+    "pct_one_orcid": 24.91
+  },
+  {
+    "entity": "Life Science Alliance",
+    "publisher": "Life Science Alliance",
+    "publications": 1191,
+    "pct_two_or_more_orcids": 88.66,
+    "pct_any_orcid": 99.5,
+    "pct_one_orcid": 10.84
+  },
+  {
+    "entity": "The Endocrine Society",
+    "publisher": "The Endocrine Society",
+    "publications": 4871,
+    "pct_two_or_more_orcids": 70.07,
+    "pct_any_orcid": 99.24,
+    "pct_one_orcid": 29.17
+  },
+  {
+    "entity": "LLC CPC Business Perspectives",
+    "publisher": "LLC CPC Business Perspectives",
+    "publications": 1605,
+    "pct_two_or_more_orcids": 95.33,
+    "pct_any_orcid": 99.07,
+    "pct_one_orcid": 3.74
+  },
+  {
+    "entity": "Public Library of Science (PLoS)",
+    "publisher": "Public Library of Science (PLoS)",
+    "publications": 86222,
+    "pct_two_or_more_orcids": 54.84,
+    "pct_any_orcid": 99.04,
+    "pct_one_orcid": 44.2
+  },
+  {
+    "entity": "The Company of Biologists",
+    "publisher": "The Company of Biologists",
+    "publications": 5339,
+    "pct_two_or_more_orcids": 75.5,
+    "pct_any_orcid": 98.89,
+    "pct_one_orcid": 23.39
+  },
+  {
+    "entity": "The Royal Society",
+    "publisher": "The Royal Society",
+    "publications": 9346,
+    "pct_two_or_more_orcids": 73.02,
+    "pct_any_orcid": 98.73,
+    "pct_one_orcid": 25.71
+  },
+  {
+    "entity": "Royal College of Psychiatrists",
+    "publisher": "Royal College of Psychiatrists",
+    "publications": 1515,
+    "pct_two_or_more_orcids": 70.56,
+    "pct_any_orcid": 98.61,
+    "pct_one_orcid": 28.05
+  },
+  {
+    "entity": "American Geophysical Union (AGU)",
+    "publisher": "American Geophysical Union (AGU)",
+    "publications": 31827,
+    "pct_two_or_more_orcids": 94.69,
+    "pct_any_orcid": 98.45,
+    "pct_one_orcid": 3.76
+  },
+  {
+    "entity": "Hindawi",
+    "publisher": "Hindawi",
+    "publications": 76033,
+    "pct_two_or_more_orcids": 65.1,
+    "pct_any_orcid": 98.29,
+    "pct_one_orcid": 33.19
+  },
+  {
+    "entity": "FapUNIFESP (SciELO)",
+    "publisher": "FapUNIFESP (SciELO)",
+    "publications": 58699,
+    "pct_two_or_more_orcids": 87.2,
+    "pct_any_orcid": 98.03,
+    "pct_one_orcid": 10.83
+  },
+  {
+    "entity": "American Diabetes Association",
+    "publisher": "American Diabetes Association",
+    "publications": 2663,
+    "pct_two_or_more_orcids": 60.31,
+    "pct_any_orcid": 97.9,
+    "pct_one_orcid": 37.59
+  },
+  {
+    "entity": "Proceedings of the National Academy of Sciences",
+    "publisher": "Proceedings of the National Academy of Sciences",
+    "publications": 15704,
+    "pct_two_or_more_orcids": 89.92,
+    "pct_any_orcid": 97.84,
+    "pct_one_orcid": 7.92
+  },
+  {
+    "entity": "AIP Publishing",
+    "publisher": "AIP Publishing",
+    "publications": 56979,
+    "pct_two_or_more_orcids": 87.86,
+    "pct_any_orcid": 97.56,
+    "pct_one_orcid": 9.7
+  },
+  {
+    "entity": "Remedium",
+    "publisher": "Remedium",
+    "publications": 1472,
+    "pct_two_or_more_orcids": 95.86,
+    "pct_any_orcid": 97.55,
+    "pct_one_orcid": 1.69
+  },
+  {
+    "entity": "American Astronomical Society",
+    "publisher": "American Astronomical Society",
+    "publications": 22130,
+    "pct_two_or_more_orcids": 94.07,
+    "pct_any_orcid": 97.46,
+    "pct_one_orcid": 3.39
+  },
+  {
+    "entity": "Zhejiang University Press",
+    "publisher": "Zhejiang University Press",
+    "publications": 1171,
+    "pct_two_or_more_orcids": 59.01,
+    "pct_any_orcid": 97.44,
+    "pct_one_orcid": 38.43
+  },
+  {
+    "entity": "Beilstein Institut",
+    "publisher": "Beilstein Institut",
+    "publications": 1228,
+    "pct_two_or_more_orcids": 79.56,
+    "pct_any_orcid": 97.07,
+    "pct_one_orcid": 17.51
+  },
+  {
+    "entity": "American Society of Hematology",
+    "publisher": "American Society of Hematology",
+    "publications": 4732,
+    "pct_two_or_more_orcids": 92.43,
+    "pct_any_orcid": 96.96,
+    "pct_one_orcid": 4.53
+  },
+  {
+    "entity": "University Nove de Julho",
+    "publisher": "University Nove de Julho",
+    "publications": 1094,
+    "pct_two_or_more_orcids": 94.7,
+    "pct_any_orcid": 96.71,
+    "pct_one_orcid": 2.01
+  },
+  {
+    "entity": "Amazonia Investiga",
+    "publisher": "Amazonia Investiga",
+    "publications": 1250,
+    "pct_two_or_more_orcids": 95.68,
+    "pct_any_orcid": 96.32,
+    "pct_one_orcid": 0.64
+  },
+  {
+    "entity": "XMLink",
+    "publisher": "XMLink",
+    "publications": 9802,
+    "pct_two_or_more_orcids": 93.01,
+    "pct_any_orcid": 96.16,
+    "pct_one_orcid": 3.15
+  },
+  {
+    "entity": "American Accounting Association",
+    "publisher": "American Accounting Association",
+    "publications": 1171,
+    "pct_two_or_more_orcids": 69.43,
+    "pct_any_orcid": 95.9,
+    "pct_one_orcid": 26.47
+  },
+  {
+    "entity": "Portland Press",
+    "publisher": "Portland Press",
+    "publications": 2499,
+    "pct_two_or_more_orcids": 25.25,
+    "pct_any_orcid": 95.8,
+    "pct_one_orcid": 70.55
+  },
+  {
+    "entity": "American Physical Society (APS)",
+    "publisher": "American Physical Society (APS)",
+    "publications": 78896,
+    "pct_two_or_more_orcids": 78.14,
+    "pct_any_orcid": 95.71,
+    "pct_one_orcid": 17.57
+  },
+  {
+    "entity": "American Association for Cancer Research (AACR)",
+    "publisher": "American Association for Cancer Research (AACR)",
+    "publications": 9270,
+    "pct_two_or_more_orcids": 89.55,
+    "pct_any_orcid": 95.63,
+    "pct_one_orcid": 6.08
+  },
+  {
+    "entity": "F1000Research",
+    "publisher": "F1000Research",
+    "publications": 7139,
+    "pct_two_or_more_orcids": 73.11,
+    "pct_any_orcid": 94.92,
+    "pct_one_orcid": 21.81
+  },
+  {
+    "entity": "American Society for Clinical Investigation",
+    "publisher": "American Society for Clinical Investigation",
+    "publications": 4693,
+    "pct_two_or_more_orcids": 85.34,
+    "pct_any_orcid": 94.48,
+    "pct_one_orcid": 9.14
+  },
+  {
+    "entity": "Consilium Medicum",
+    "publisher": "Consilium Medicum",
+    "publications": 1459,
+    "pct_two_or_more_orcids": 89.58,
+    "pct_any_orcid": 93.9,
+    "pct_one_orcid": 4.32
+  },
+  {
+    "entity": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "publications": 318603,
+    "pct_two_or_more_orcids": 88.27,
+    "pct_any_orcid": 93.85,
+    "pct_one_orcid": 5.58
+  },
+  {
+    "entity": "Editorial CSIC",
+    "publisher": "Editorial CSIC",
+    "publications": 1070,
+    "pct_two_or_more_orcids": 93.55,
+    "pct_any_orcid": 93.55,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "American Society of Neuroradiology (ASNR)",
+    "publisher": "American Society of Neuroradiology (ASNR)",
+    "publications": 1376,
+    "pct_two_or_more_orcids": 92.95,
+    "pct_any_orcid": 93.53,
+    "pct_one_orcid": 0.58
+  },
+  {
+    "entity": "American Society for Microbiology",
+    "publisher": "American Society for Microbiology",
+    "publications": 27259,
+    "pct_two_or_more_orcids": 58.05,
+    "pct_any_orcid": 93.26,
+    "pct_one_orcid": 35.21
+  },
+  {
+    "entity": "Universidad del Zulia",
+    "publisher": "Universidad del Zulia",
+    "publications": 1587,
+    "pct_two_or_more_orcids": 92.94,
+    "pct_any_orcid": 93.26,
+    "pct_one_orcid": 0.32
+  },
+  {
+    "entity": "American Psychological Association (APA)",
+    "publisher": "American Psychological Association (APA)",
+    "publications": 17375,
+    "pct_two_or_more_orcids": 58.81,
+    "pct_any_orcid": 93.18,
+    "pct_one_orcid": 34.37
+  },
+  {
+    "entity": "Universidade Estadual de Campinas",
+    "publisher": "Universidade Estadual de Campinas",
+    "publications": 1404,
+    "pct_two_or_more_orcids": 91.74,
+    "pct_any_orcid": 93.09,
+    "pct_one_orcid": 1.35
+  },
+  {
+    "entity": "Federal Scientific Center for Hygiene F.F.Erisman",
+    "publisher": "Federal Scientific Center for Hygiene F.F.Erisman",
+    "publications": 1026,
+    "pct_two_or_more_orcids": 92.2,
+    "pct_any_orcid": 93.08,
+    "pct_one_orcid": 0.88
+  },
+  {
+    "entity": "Veterinary World",
+    "publisher": "Veterinary World",
+    "publications": 1602,
+    "pct_two_or_more_orcids": 89.76,
+    "pct_any_orcid": 92.76,
+    "pct_one_orcid": 3.0
+  },
+  {
+    "entity": "Geological Society of London",
+    "publisher": "Geological Society of London",
+    "publications": 1795,
+    "pct_two_or_more_orcids": 53.98,
+    "pct_any_orcid": 92.76,
+    "pct_one_orcid": 38.78
+  },
+  {
+    "entity": "BMJ",
+    "publisher": "BMJ",
+    "publications": 52883,
+    "pct_two_or_more_orcids": 52.15,
+    "pct_any_orcid": 92.53,
+    "pct_one_orcid": 40.38
+  },
+  {
+    "entity": "Publishing House ABV Press",
+    "publisher": "Publishing House ABV Press",
+    "publications": 1406,
+    "pct_two_or_more_orcids": 88.83,
+    "pct_any_orcid": 91.68,
+    "pct_one_orcid": 2.85
+  },
+  {
+    "entity": "American Vacuum Society",
+    "publisher": "American Vacuum Society",
+    "publications": 2474,
+    "pct_two_or_more_orcids": 78.38,
+    "pct_any_orcid": 91.03,
+    "pct_one_orcid": 12.65
+  },
+  {
+    "entity": "Wiley",
+    "publisher": "Wiley",
+    "publications": 772392,
+    "pct_two_or_more_orcids": 47.3,
+    "pct_any_orcid": 90.31,
+    "pct_one_orcid": 43.01
+  },
+  {
+    "entity": "Magnolia Press",
+    "publisher": "Magnolia Press",
+    "publications": 5732,
+    "pct_two_or_more_orcids": 88.05,
+    "pct_any_orcid": 90.21,
+    "pct_one_orcid": 2.16
+  },
+  {
+    "entity": "Silicea - Poligraf",
+    "publisher": "Silicea - Poligraf",
+    "publications": 1836,
+    "pct_two_or_more_orcids": 89.71,
+    "pct_any_orcid": 90.2,
+    "pct_one_orcid": 0.49
+  },
+  {
+    "entity": "American Speech Language Hearing Association",
+    "publisher": "American Speech Language Hearing Association",
+    "publications": 2669,
+    "pct_two_or_more_orcids": 59.72,
+    "pct_any_orcid": 90.0,
+    "pct_one_orcid": 30.28
+  },
+  {
+    "entity": "American Association for the Advancement of Science (AAAS)",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "publications": 20723,
+    "pct_two_or_more_orcids": 84.3,
+    "pct_any_orcid": 89.75,
+    "pct_one_orcid": 5.45
+  },
+  {
+    "entity": "Universidade Federal de Santa Maria",
+    "publisher": "Universidade Federal de Santa Maria",
+    "publications": 2668,
+    "pct_two_or_more_orcids": 87.18,
+    "pct_any_orcid": 89.51,
+    "pct_one_orcid": 2.33
+  },
+  {
+    "entity": "American Physiological Society",
+    "publisher": "American Physiological Society",
+    "publications": 7577,
+    "pct_two_or_more_orcids": 63.34,
+    "pct_any_orcid": 88.91,
+    "pct_one_orcid": 25.57
+  },
+  {
+    "entity": "ASTM International",
+    "publisher": "ASTM International",
+    "publications": 1232,
+    "pct_two_or_more_orcids": 21.35,
+    "pct_any_orcid": 88.88,
+    "pct_one_orcid": 67.53
+  },
+  {
+    "entity": "MDPI",
+    "publisher": "MDPI",
+    "publications": 902726,
+    "pct_two_or_more_orcids": 67.07,
+    "pct_any_orcid": 88.79,
+    "pct_one_orcid": 21.72
+  },
+  {
+    "entity": "Universidade Estadual de Londrina",
+    "publisher": "Universidade Estadual de Londrina",
+    "publications": 2018,
+    "pct_two_or_more_orcids": 84.74,
+    "pct_any_orcid": 88.7,
+    "pct_one_orcid": 3.96
+  },
+  {
+    "entity": "European Respiratory Society (ERS)",
+    "publisher": "European Respiratory Society (ERS)",
+    "publications": 3129,
+    "pct_two_or_more_orcids": 67.88,
+    "pct_any_orcid": 88.56,
+    "pct_one_orcid": 20.68
+  },
+  {
+    "entity": "Microbiology Society",
+    "publisher": "Microbiology Society",
+    "publications": 5556,
+    "pct_two_or_more_orcids": 54.59,
+    "pct_any_orcid": 88.48,
+    "pct_one_orcid": 33.89
+  },
+  {
+    "entity": "American College of Physicians",
+    "publisher": "American College of Physicians",
+    "publications": 1073,
+    "pct_two_or_more_orcids": 73.63,
+    "pct_any_orcid": 88.26,
+    "pct_one_orcid": 14.63
+  },
+  {
+    "entity": "Cambridge University Press (CUP)",
+    "publisher": "Cambridge University Press (CUP)",
+    "publications": 40548,
+    "pct_two_or_more_orcids": 46.17,
+    "pct_any_orcid": 87.19,
+    "pct_one_orcid": 41.02
+  },
+  {
+    "entity": "Pensoft Publishers",
+    "publisher": "Pensoft Publishers",
+    "publications": 8640,
+    "pct_two_or_more_orcids": 61.72,
+    "pct_any_orcid": 86.88,
+    "pct_one_orcid": 25.16
+  },
+  {
+    "entity": "Society of Exploration Geophysicists",
+    "publisher": "Society of Exploration Geophysicists",
+    "publications": 2222,
+    "pct_two_or_more_orcids": 76.1,
+    "pct_any_orcid": 86.27,
+    "pct_one_orcid": 10.17
+  },
+  {
+    "entity": "Maad Rayan Publishing Company",
+    "publisher": "Maad Rayan Publishing Company",
+    "publications": 6617,
+    "pct_two_or_more_orcids": 75.61,
+    "pct_any_orcid": 84.98,
+    "pct_one_orcid": 9.37
+  },
+  {
+    "entity": "Optica Publishing Group",
+    "publisher": "Optica Publishing Group",
+    "publications": 26831,
+    "pct_two_or_more_orcids": 54.39,
+    "pct_any_orcid": 84.39,
+    "pct_one_orcid": 30.0
+  },
+  {
+    "entity": "Society for Industrial & Applied Mathematics (SIAM)",
+    "publisher": "Society for Industrial & Applied Mathematics (SIAM)",
+    "publications": 1934,
+    "pct_two_or_more_orcids": 48.6,
+    "pct_any_orcid": 83.92,
+    "pct_one_orcid": 35.32
+  },
+  {
+    "entity": "American Society of Clinical Oncology (ASCO)",
+    "publisher": "American Society of Clinical Oncology (ASCO)",
+    "publications": 4687,
+    "pct_two_or_more_orcids": 80.39,
+    "pct_any_orcid": 83.02,
+    "pct_one_orcid": 2.63
+  },
+  {
+    "entity": "Private Company Technology Center",
+    "publisher": "Private Company Technology Center",
+    "publications": 3195,
+    "pct_two_or_more_orcids": 82.79,
+    "pct_any_orcid": 82.94,
+    "pct_one_orcid": 0.15
+  },
+  {
+    "entity": "International Union of Crystallography (IUCr)",
+    "publisher": "International Union of Crystallography (IUCr)",
+    "publications": 5013,
+    "pct_two_or_more_orcids": 60.0,
+    "pct_any_orcid": 82.53,
+    "pct_one_orcid": 22.53
+  },
+  {
+    "entity": "American Dairy Science Association",
+    "publisher": "American Dairy Science Association",
+    "publications": 4218,
+    "pct_two_or_more_orcids": 78.92,
+    "pct_any_orcid": 82.08,
+    "pct_one_orcid": 3.16
+  },
+  {
+    "entity": "Oriental Scientific Publishing Company",
+    "publisher": "Oriental Scientific Publishing Company",
+    "publications": 1357,
+    "pct_two_or_more_orcids": 74.5,
+    "pct_any_orcid": 81.06,
+    "pct_one_orcid": 6.56
+  },
+  {
+    "entity": "Asociacion Latinoamericana para el Avance de la Ciencia",
+    "publisher": "Asociacion Latinoamericana para el Avance de la Ciencia",
+    "publications": 3802,
+    "pct_two_or_more_orcids": 80.35,
+    "pct_any_orcid": 81.06,
+    "pct_one_orcid": 0.71
+  },
+  {
+    "entity": "Universidade Federal de Juiz de Fora",
+    "publisher": "Universidade Federal de Juiz de Fora",
+    "publications": 1142,
+    "pct_two_or_more_orcids": 73.12,
+    "pct_any_orcid": 80.91,
+    "pct_one_orcid": 7.79
+  },
+  {
+    "entity": "Modestum",
+    "publisher": "Modestum",
+    "publications": 1416,
+    "pct_two_or_more_orcids": 73.38,
+    "pct_any_orcid": 80.79,
+    "pct_one_orcid": 7.41
+  },
+  {
+    "entity": "CSIRO Publishing",
+    "publisher": "CSIRO Publishing",
+    "publications": 6362,
+    "pct_two_or_more_orcids": 39.09,
+    "pct_any_orcid": 80.64,
+    "pct_one_orcid": 41.55
+  },
+  {
+    "entity": "Society for Neuroscience",
+    "publisher": "Society for Neuroscience",
+    "publications": 4325,
+    "pct_two_or_more_orcids": 50.75,
+    "pct_any_orcid": 80.28,
+    "pct_one_orcid": 29.53
+  },
+  {
+    "entity": "Editorial Ciencia Digital",
+    "publisher": "Editorial Ciencia Digital",
+    "publications": 1039,
+    "pct_two_or_more_orcids": 78.83,
+    "pct_any_orcid": 80.08,
+    "pct_one_orcid": 1.25
+  },
+  {
+    "entity": "Universidade Estadual de Maringa",
+    "publisher": "Universidade Estadual de Maringa",
+    "publications": 2221,
+    "pct_two_or_more_orcids": 65.47,
+    "pct_any_orcid": 79.74,
+    "pct_one_orcid": 14.27
+  },
+  {
+    "entity": "American Society of Civil Engineers (ASCE)",
+    "publisher": "American Society of Civil Engineers (ASCE)",
+    "publications": 15754,
+    "pct_two_or_more_orcids": 42.06,
+    "pct_any_orcid": 79.36,
+    "pct_one_orcid": 37.3
+  },
+  {
+    "entity": "Copernicus Publications",
+    "publisher": "Copernicus Publications",
+    "publications": 24179,
+    "pct_two_or_more_orcids": 59.36,
+    "pct_any_orcid": 78.01,
+    "pct_one_orcid": 18.65
+  },
+  {
+    "entity": "SAGE Publications",
+    "publisher": "SAGE Publications",
+    "publications": 243741,
+    "pct_two_or_more_orcids": 33.57,
+    "pct_any_orcid": 77.96,
+    "pct_one_orcid": 44.39
+  },
+  {
+    "entity": "Universidade Federal de Goias",
+    "publisher": "Universidade Federal de Goias",
+    "publications": 1117,
+    "pct_two_or_more_orcids": 72.87,
+    "pct_any_orcid": 77.26,
+    "pct_one_orcid": 4.39
+  },
+  {
+    "entity": "Asian Journal of Chemistry",
+    "publisher": "Asian Journal of Chemistry",
+    "publications": 1467,
+    "pct_two_or_more_orcids": 67.01,
+    "pct_any_orcid": 76.35,
+    "pct_one_orcid": 9.34
+  },
+  {
+    "entity": "Institution of Engineering and Technology (IET)",
+    "publisher": "Institution of Engineering and Technology (IET)",
+    "publications": 17313,
+    "pct_two_or_more_orcids": 30.3,
+    "pct_any_orcid": 76.23,
+    "pct_one_orcid": 45.93
+  },
+  {
+    "entity": "Servicio de Publicaciones de la Universidad de Murcia",
+    "publisher": "Servicio de Publicaciones de la Universidad de Murcia",
+    "publications": 1571,
+    "pct_two_or_more_orcids": 71.1,
+    "pct_any_orcid": 76.07,
+    "pct_one_orcid": 4.97
+  },
+  {
+    "entity": "National Inquiry Services Center (NISC)",
+    "publisher": "National Inquiry Services Center (NISC)",
+    "publications": 1036,
+    "pct_two_or_more_orcids": 61.87,
+    "pct_any_orcid": 76.06,
+    "pct_one_orcid": 14.19
+  },
+  {
+    "entity": "ECO-Vector",
+    "publisher": "ECO-Vector",
+    "publications": 5236,
+    "pct_two_or_more_orcids": 70.66,
+    "pct_any_orcid": 75.88,
+    "pct_one_orcid": 5.22
+  },
+  {
+    "entity": "Oxford University Press (OUP)",
+    "publisher": "Oxford University Press (OUP)",
+    "publications": 202543,
+    "pct_two_or_more_orcids": 45.65,
+    "pct_any_orcid": 75.08,
+    "pct_one_orcid": 29.43
+  },
+  {
+    "entity": "Universidade Federal de Santa Catarina (UFSC)",
+    "publisher": "Universidade Federal de Santa Catarina (UFSC)",
+    "publications": 1816,
+    "pct_two_or_more_orcids": 67.79,
+    "pct_any_orcid": 74.78,
+    "pct_one_orcid": 6.99
+  },
+  {
+    "entity": "Cold Spring Harbor Laboratory",
+    "publisher": "Cold Spring Harbor Laboratory",
+    "publications": 2236,
+    "pct_two_or_more_orcids": 49.42,
+    "pct_any_orcid": 74.69,
+    "pct_one_orcid": 25.27
+  },
+  {
+    "entity": "Uniwersytet Mikolaja Kopernika/Nicolaus Copernicus University",
+    "publisher": "Uniwersytet Mikolaja Kopernika/Nicolaus Copernicus University",
+    "publications": 2558,
+    "pct_two_or_more_orcids": 70.02,
+    "pct_any_orcid": 74.63,
+    "pct_one_orcid": 4.61
+  },
+  {
+    "entity": "Universidad Nacional Mayor de San Marcos, Vicerectorado de Investigacion",
+    "publisher": "Universidad Nacional Mayor de San Marcos, Vicerectorado de Investigacion",
+    "publications": 1429,
+    "pct_two_or_more_orcids": 63.89,
+    "pct_any_orcid": 74.6,
+    "pct_one_orcid": 10.71
+  },
+  {
+    "entity": "Universidad de Costa Rica",
+    "publisher": "Universidad de Costa Rica",
+    "publications": 1600,
+    "pct_two_or_more_orcids": 71.25,
+    "pct_any_orcid": 74.5,
+    "pct_one_orcid": 3.25
+  },
+  {
+    "entity": "The Electrochemical Society",
+    "publisher": "The Electrochemical Society",
+    "publications": 18234,
+    "pct_two_or_more_orcids": 37.22,
+    "pct_any_orcid": 74.04,
+    "pct_one_orcid": 36.82
+  },
+  {
+    "entity": "Pontifical Catholic University of Sao Paulo (PUC-SP)",
+    "publisher": "Pontifical Catholic University of Sao Paulo (PUC-SP)",
+    "publications": 1520,
+    "pct_two_or_more_orcids": 58.36,
+    "pct_any_orcid": 71.84,
+    "pct_one_orcid": 13.48
+  },
+  {
+    "entity": "Mathematical Modelling and Numerical Simulation with Applications",
+    "publisher": "Mathematical Modelling and Numerical Simulation with Applications",
+    "publications": 1129,
+    "pct_two_or_more_orcids": 30.29,
+    "pct_any_orcid": 71.21,
+    "pct_one_orcid": 40.92
+  },
+  {
+    "entity": "PPUFU - Portal de Peri\u00f3dicos da Universidade Federal de Uberl\u00e2ndia",
+    "publisher": "PPUFU - Portal de Peri\u00f3dicos da Universidade Federal de Uberl\u00e2ndia",
+    "publications": 2463,
+    "pct_two_or_more_orcids": 62.32,
+    "pct_any_orcid": 70.52,
+    "pct_one_orcid": 8.2
+  },
+  {
+    "entity": "Seismological Society of America (SSA)",
+    "publisher": "Seismological Society of America (SSA)",
+    "publications": 1800,
+    "pct_two_or_more_orcids": 64.17,
+    "pct_any_orcid": 70.06,
+    "pct_one_orcid": 5.89
+  },
+  {
+    "entity": "John Benjamins Publishing Company",
+    "publisher": "John Benjamins Publishing Company",
+    "publications": 1153,
+    "pct_two_or_more_orcids": 41.02,
+    "pct_any_orcid": 69.9,
+    "pct_one_orcid": 28.88
+  },
+  {
+    "entity": "ECORFAN",
+    "publisher": "ECORFAN",
+    "publications": 1240,
+    "pct_two_or_more_orcids": 68.15,
+    "pct_any_orcid": 69.84,
+    "pct_one_orcid": 1.69
+  },
+  {
+    "entity": "University of Florida George A Smathers Libraries",
+    "publisher": "University of Florida George A Smathers Libraries",
+    "publications": 1097,
+    "pct_two_or_more_orcids": 50.05,
+    "pct_any_orcid": 69.83,
+    "pct_one_orcid": 19.78
+  },
+  {
+    "entity": "Universidad Complutense de Madrid (UCM)",
+    "publisher": "Universidad Complutense de Madrid (UCM)",
+    "publications": 1379,
+    "pct_two_or_more_orcids": 66.28,
+    "pct_any_orcid": 68.67,
+    "pct_one_orcid": 2.39
+  },
+  {
+    "entity": "Media Sphere Publishing House",
+    "publisher": "Media Sphere Publishing House",
+    "publications": 5202,
+    "pct_two_or_more_orcids": 67.76,
+    "pct_any_orcid": 68.2,
+    "pct_one_orcid": 0.44
+  },
+  {
+    "entity": "Khmelnytskyi National University",
+    "publisher": "Khmelnytskyi National University",
+    "publications": 1237,
+    "pct_two_or_more_orcids": 62.41,
+    "pct_any_orcid": 67.83,
+    "pct_one_orcid": 5.42
+  },
+  {
+    "entity": "Hogrefe Publishing Group",
+    "publisher": "Hogrefe Publishing Group",
+    "publications": 2882,
+    "pct_two_or_more_orcids": 34.91,
+    "pct_any_orcid": 67.24,
+    "pct_one_orcid": 32.33
+  },
+  {
+    "entity": "Universidade Federal da Bahia",
+    "publisher": "Universidade Federal da Bahia",
+    "publications": 1207,
+    "pct_two_or_more_orcids": 58.24,
+    "pct_any_orcid": 67.03,
+    "pct_one_orcid": 8.79
+  },
+  {
+    "entity": "Ubiquity Press",
+    "publisher": "Ubiquity Press",
+    "publications": 3171,
+    "pct_two_or_more_orcids": 60.52,
+    "pct_any_orcid": 65.97,
+    "pct_one_orcid": 5.45
+  },
+  {
+    "entity": "Universidade de S\u00e3o Paulo. Ag\u00eancia de Bibliotecas e Cole\u00e7\u00f5es Digitais",
+    "publisher": "Universidade de S\u00e3o Paulo. Ag\u00eancia de Bibliotecas e Cole\u00e7\u00f5es Digitais",
+    "publications": 4155,
+    "pct_two_or_more_orcids": 61.54,
+    "pct_any_orcid": 65.49,
+    "pct_one_orcid": 3.95
+  },
+  {
+    "entity": "Universidade Federal do Paran\u00e1",
+    "publisher": "Universidade Federal do Paran\u00e1",
+    "publications": 1363,
+    "pct_two_or_more_orcids": 50.84,
+    "pct_any_orcid": 64.64,
+    "pct_one_orcid": 13.8
+  },
+  {
+    "entity": "Consejo Nacional de Universidades",
+    "publisher": "Consejo Nacional de Universidades",
+    "publications": 1312,
+    "pct_two_or_more_orcids": 57.47,
+    "pct_any_orcid": 63.03,
+    "pct_one_orcid": 5.56
+  },
+  {
+    "entity": "Taylor & Francis",
+    "publisher": "Taylor & Francis",
+    "publications": 374419,
+    "pct_two_or_more_orcids": 37.19,
+    "pct_any_orcid": 62.29,
+    "pct_one_orcid": 25.1
+  },
+  {
+    "entity": "GeoScienceWorld",
+    "publisher": "GeoScienceWorld",
+    "publications": 1000,
+    "pct_two_or_more_orcids": 37.9,
+    "pct_any_orcid": 62.2,
+    "pct_one_orcid": 24.3
+  },
+  {
+    "entity": "Galenos Yayinevi",
+    "publisher": "Galenos Yayinevi",
+    "publications": 3097,
+    "pct_two_or_more_orcids": 58.99,
+    "pct_any_orcid": 62.19,
+    "pct_one_orcid": 3.2
+  },
+  {
+    "entity": "IGI Global",
+    "publisher": "IGI Global",
+    "publications": 5598,
+    "pct_two_or_more_orcids": 27.62,
+    "pct_any_orcid": 62.09,
+    "pct_one_orcid": 34.47
+  },
+  {
+    "entity": "Universidade Federal do Rio Grande do Sul",
+    "publisher": "Universidade Federal do Rio Grande do Sul",
+    "publications": 1995,
+    "pct_two_or_more_orcids": 53.53,
+    "pct_any_orcid": 61.85,
+    "pct_one_orcid": 8.32
+  },
+  {
+    "entity": "PAGEPress Publications",
+    "publisher": "PAGEPress Publications",
+    "publications": 4094,
+    "pct_two_or_more_orcids": 42.62,
+    "pct_any_orcid": 61.7,
+    "pct_one_orcid": 19.08
+  },
+  {
+    "entity": "Igor Sikorsky Kyiv Polytechnic Institute",
+    "publisher": "Igor Sikorsky Kyiv Polytechnic Institute",
+    "publications": 1395,
+    "pct_two_or_more_orcids": 57.06,
+    "pct_any_orcid": 61.58,
+    "pct_one_orcid": 4.52
+  },
+  {
+    "entity": "Publishing House Helvetica (Publications)",
+    "publisher": "Publishing House Helvetica (Publications)",
+    "publications": 3657,
+    "pct_two_or_more_orcids": 59.78,
+    "pct_any_orcid": 61.44,
+    "pct_one_orcid": 1.66
+  },
+  {
+    "entity": "Royal College of General Practitioners",
+    "publisher": "Royal College of General Practitioners",
+    "publications": 1254,
+    "pct_two_or_more_orcids": 42.98,
+    "pct_any_orcid": 61.4,
+    "pct_one_orcid": 18.42
+  },
+  {
+    "entity": "Universidade Federal do Rio Grande do Norte - UFRN",
+    "publisher": "Universidade Federal do Rio Grande do Norte - UFRN",
+    "publications": 1249,
+    "pct_two_or_more_orcids": 56.77,
+    "pct_any_orcid": 61.09,
+    "pct_one_orcid": 4.32
+  },
+  {
+    "entity": "Vilnius Gediminas Technical University",
+    "publisher": "Vilnius Gediminas Technical University",
+    "publications": 1644,
+    "pct_two_or_more_orcids": 50.43,
+    "pct_any_orcid": 60.77,
+    "pct_one_orcid": 10.34
+  },
+  {
+    "entity": "Institute of Advanced Engineering and Science",
+    "publisher": "Institute of Advanced Engineering and Science",
+    "publications": 9445,
+    "pct_two_or_more_orcids": 57.25,
+    "pct_any_orcid": 60.77,
+    "pct_one_orcid": 3.52
+  },
+  {
+    "entity": "Bioscientifica",
+    "publisher": "Bioscientifica",
+    "publications": 2299,
+    "pct_two_or_more_orcids": 28.32,
+    "pct_any_orcid": 60.5,
+    "pct_one_orcid": 32.18
+  },
+  {
+    "entity": "Acoustical Society of America (ASA)",
+    "publisher": "Acoustical Society of America (ASA)",
+    "publications": 3040,
+    "pct_two_or_more_orcids": 35.13,
+    "pct_any_orcid": 59.34,
+    "pct_one_orcid": 24.21
+  },
+  {
+    "entity": "World Scientific Publishing",
+    "publisher": "World Scientific Publishing",
+    "publications": 27782,
+    "pct_two_or_more_orcids": 23.85,
+    "pct_any_orcid": 59.02,
+    "pct_one_orcid": 35.17
+  },
+  {
+    "entity": "Pharmamedix India Publication",
+    "publisher": "Pharmamedix India Publication",
+    "publications": 1375,
+    "pct_two_or_more_orcids": 41.75,
+    "pct_any_orcid": 58.62,
+    "pct_one_orcid": 16.87
+  },
+  {
+    "entity": "British Editorial Society of Bone & Joint Surgery",
+    "publisher": "British Editorial Society of Bone & Joint Surgery",
+    "publications": 2237,
+    "pct_two_or_more_orcids": 36.25,
+    "pct_any_orcid": 58.25,
+    "pct_one_orcid": 22.0
+  },
+  {
+    "entity": "Springer Nature",
+    "publisher": "Springer Nature",
+    "publications": 1400717,
+    "pct_two_or_more_orcids": 17.22,
+    "pct_any_orcid": 57.72,
+    "pct_one_orcid": 40.5
+  },
+  {
+    "entity": "Association for Computing Machinery (ACM)",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "publications": 19627,
+    "pct_two_or_more_orcids": 48.77,
+    "pct_any_orcid": 57.12,
+    "pct_one_orcid": 8.35
+  },
+  {
+    "entity": "Akademiai Kiado Zrt.",
+    "publisher": "Akademiai Kiado Zrt.",
+    "publications": 3283,
+    "pct_two_or_more_orcids": 17.79,
+    "pct_any_orcid": 56.81,
+    "pct_one_orcid": 39.02
+  },
+  {
+    "entity": "Massachusetts Medical Society",
+    "publisher": "Massachusetts Medical Society",
+    "publications": 2290,
+    "pct_two_or_more_orcids": 28.73,
+    "pct_any_orcid": 55.15,
+    "pct_one_orcid": 26.42
+  },
+  {
+    "entity": "IWA Publishing",
+    "publisher": "IWA Publishing",
+    "publications": 7226,
+    "pct_two_or_more_orcids": 19.79,
+    "pct_any_orcid": 55.12,
+    "pct_one_orcid": 35.33
+  },
+  {
+    "entity": "Lepidus Tecnologia",
+    "publisher": "Lepidus Tecnologia",
+    "publications": 1282,
+    "pct_two_or_more_orcids": 43.99,
+    "pct_any_orcid": 54.76,
+    "pct_one_orcid": 10.77
+  },
+  {
+    "entity": "Human Kinetics",
+    "publisher": "Human Kinetics",
+    "publications": 3867,
+    "pct_two_or_more_orcids": 45.8,
+    "pct_any_orcid": 52.42,
+    "pct_one_orcid": 6.62
+  },
+  {
+    "entity": "Bentham Science Publishers",
+    "publisher": "Bentham Science Publishers",
+    "publications": 15675,
+    "pct_two_or_more_orcids": 29.31,
+    "pct_any_orcid": 51.66,
+    "pct_one_orcid": 22.35
+  },
+  {
+    "entity": "Thieme",
+    "publisher": "Thieme",
+    "publications": 26013,
+    "pct_two_or_more_orcids": 22.92,
+    "pct_any_orcid": 51.03,
+    "pct_one_orcid": 28.11
+  },
+  {
+    "entity": "Karger Publishers",
+    "publisher": "Karger Publishers",
+    "publications": 18538,
+    "pct_two_or_more_orcids": 24.73,
+    "pct_any_orcid": 50.1,
+    "pct_one_orcid": 25.37
+  },
+  {
+    "entity": "Ital Publication",
+    "publisher": "Ital Publication",
+    "publications": 1448,
+    "pct_two_or_more_orcids": 4.21,
+    "pct_any_orcid": 49.93,
+    "pct_one_orcid": 45.72
+  },
+  {
+    "entity": "Journal of Infection in Developing Countries",
+    "publisher": "Journal of Infection in Developing Countries",
+    "publications": 1120,
+    "pct_two_or_more_orcids": 38.39,
+    "pct_any_orcid": 49.64,
+    "pct_one_orcid": 11.25
+  },
+  {
+    "entity": "National Technical University Kharkiv Polytechnic Institute",
+    "publisher": "National Technical University Kharkiv Polytechnic Institute",
+    "publications": 1512,
+    "pct_two_or_more_orcids": 45.17,
+    "pct_any_orcid": 48.88,
+    "pct_one_orcid": 3.71
+  },
+  {
+    "entity": "Society of Petroleum Engineers (SPE)",
+    "publisher": "Society of Petroleum Engineers (SPE)",
+    "publications": 1575,
+    "pct_two_or_more_orcids": 37.4,
+    "pct_any_orcid": 48.63,
+    "pct_one_orcid": 11.23
+  },
+  {
+    "entity": "Brill Academic Publishers",
+    "publisher": "Brill Academic Publishers",
+    "publications": 3447,
+    "pct_two_or_more_orcids": 34.49,
+    "pct_any_orcid": 48.56,
+    "pct_one_orcid": 14.07
+  },
+  {
+    "entity": "Academy of Science of South Africa",
+    "publisher": "Academy of Science of South Africa",
+    "publications": 1616,
+    "pct_two_or_more_orcids": 42.33,
+    "pct_any_orcid": 48.45,
+    "pct_one_orcid": 6.12
+  },
+  {
+    "entity": "Polish Academy of Sciences Chancellery",
+    "publisher": "Polish Academy of Sciences Chancellery",
+    "publications": 3449,
+    "pct_two_or_more_orcids": 41.23,
+    "pct_any_orcid": 48.36,
+    "pct_one_orcid": 7.13
+  },
+  {
+    "entity": "Universitas Muhammadiyah Palangkaraya",
+    "publisher": "Universitas Muhammadiyah Palangkaraya",
+    "publications": 1345,
+    "pct_two_or_more_orcids": 34.57,
+    "pct_any_orcid": 47.29,
+    "pct_one_orcid": 12.72
+  },
+  {
+    "entity": "American Institute of Aeronautics and Astronautics (AIAA)",
+    "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+    "publications": 3545,
+    "pct_two_or_more_orcids": 20.45,
+    "pct_any_orcid": 47.02,
+    "pct_one_orcid": 26.57
+  },
+  {
+    "entity": "Emerald",
+    "publisher": "Emerald",
+    "publications": 54072,
+    "pct_two_or_more_orcids": 32.23,
+    "pct_any_orcid": 46.45,
+    "pct_one_orcid": 14.22
+  },
+  {
+    "entity": "Peoples' Friendship University of Russia",
+    "publisher": "Peoples' Friendship University of Russia",
+    "publications": 2885,
+    "pct_two_or_more_orcids": 41.59,
+    "pct_any_orcid": 46.34,
+    "pct_one_orcid": 4.75
+  },
+  {
+    "entity": "Elsevier",
+    "publisher": "Elsevier",
+    "publications": 2494738,
+    "pct_two_or_more_orcids": 22.14,
+    "pct_any_orcid": 45.95,
+    "pct_one_orcid": 23.81
+  },
+  {
+    "entity": "National Documentation Centre (EKT)",
+    "publisher": "National Documentation Centre (EKT)",
+    "publications": 1506,
+    "pct_two_or_more_orcids": 26.29,
+    "pct_any_orcid": 45.29,
+    "pct_one_orcid": 19.0
+  },
+  {
+    "entity": "International Association of Online Engineering (IAOE)",
+    "publisher": "International Association of Online Engineering (IAOE)",
+    "publications": 2449,
+    "pct_two_or_more_orcids": 27.36,
+    "pct_any_orcid": 45.24,
+    "pct_one_orcid": 17.88
+  },
+  {
+    "entity": "National Academy of Sciences of Ukraine",
+    "publisher": "National Academy of Sciences of Ukraine",
+    "publications": 1931,
+    "pct_two_or_more_orcids": 41.12,
+    "pct_any_orcid": 44.02,
+    "pct_one_orcid": 2.9
+  },
+  {
+    "entity": "Geological Society of America",
+    "publisher": "Geological Society of America",
+    "publications": 2012,
+    "pct_two_or_more_orcids": 1.79,
+    "pct_any_orcid": 43.84,
+    "pct_one_orcid": 42.05
+  },
+  {
+    "entity": "Canadian Science Publishing",
+    "publisher": "Canadian Science Publishing",
+    "publications": 6839,
+    "pct_two_or_more_orcids": 22.14,
+    "pct_any_orcid": 41.92,
+    "pct_one_orcid": 19.78
+  },
+  {
+    "entity": "MJS Publishing, Medical Journals Sweden AB",
+    "publisher": "MJS Publishing, Medical Journals Sweden AB",
+    "publications": 3482,
+    "pct_two_or_more_orcids": 27.31,
+    "pct_any_orcid": 41.84,
+    "pct_one_orcid": 14.53
+  },
+  {
+    "entity": "Society of Pharmaceutical Tecnocrats",
+    "publisher": "Society of Pharmaceutical Tecnocrats",
+    "publications": 1151,
+    "pct_two_or_more_orcids": 33.8,
+    "pct_any_orcid": 41.7,
+    "pct_one_orcid": 7.9
+  },
+  {
+    "entity": "The Scientific and Technological Research Council of Turkey (TUBITAK-ULAKBIM) - DIGITAL COMMONS JOURNALS",
+    "publisher": "The Scientific and Technological Research Council of Turkey (TUBITAK-ULAKBIM) - DIGITAL COMMONS JOURNALS",
+    "publications": 1579,
+    "pct_two_or_more_orcids": 40.28,
+    "pct_any_orcid": 40.53,
+    "pct_one_orcid": 0.25
+  },
+  {
+    "entity": "Universitas Airlangga",
+    "publisher": "Universitas Airlangga",
+    "publications": 6145,
+    "pct_two_or_more_orcids": 26.7,
+    "pct_any_orcid": 40.49,
+    "pct_one_orcid": 13.79
+  },
+  {
+    "entity": "Sri Lanka Journals Online",
+    "publisher": "Sri Lanka Journals Online",
+    "publications": 2662,
+    "pct_two_or_more_orcids": 10.56,
+    "pct_any_orcid": 38.92,
+    "pct_one_orcid": 28.36
+  },
+  {
+    "entity": "IP Innovative Publication",
+    "publisher": "IP Innovative Publication",
+    "publications": 3686,
+    "pct_two_or_more_orcids": 16.68,
+    "pct_any_orcid": 38.17,
+    "pct_one_orcid": 21.49
+  },
+  {
+    "entity": "National Library of Serbia",
+    "publisher": "National Library of Serbia",
+    "publications": 8139,
+    "pct_two_or_more_orcids": 29.01,
+    "pct_any_orcid": 37.08,
+    "pct_one_orcid": 8.07
+  },
+  {
+    "entity": "Publishing House Zaslavsky",
+    "publisher": "Publishing House Zaslavsky",
+    "publications": 2573,
+    "pct_two_or_more_orcids": 28.06,
+    "pct_any_orcid": 37.0,
+    "pct_one_orcid": 8.94
+  },
+  {
+    "entity": "AOSIS",
+    "publisher": "AOSIS",
+    "publications": 3836,
+    "pct_two_or_more_orcids": 34.62,
+    "pct_any_orcid": 36.05,
+    "pct_one_orcid": 1.43
+  },
+  {
+    "entity": "Universitas Negeri Yogyakarta",
+    "publisher": "Universitas Negeri Yogyakarta",
+    "publications": 2928,
+    "pct_two_or_more_orcids": 13.59,
+    "pct_any_orcid": 35.25,
+    "pct_one_orcid": 21.66
+  },
+  {
+    "entity": "Firenze University Press",
+    "publisher": "Firenze University Press",
+    "publications": 1277,
+    "pct_two_or_more_orcids": 29.91,
+    "pct_any_orcid": 34.77,
+    "pct_one_orcid": 4.86
+  },
+  {
+    "entity": "Nepal Journals Online (JOL)",
+    "publisher": "Nepal Journals Online (JOL)",
+    "publications": 6479,
+    "pct_two_or_more_orcids": 15.6,
+    "pct_any_orcid": 33.72,
+    "pct_one_orcid": 18.12
+  },
+  {
+    "entity": "Innovare Academic Sciences",
+    "publisher": "Innovare Academic Sciences",
+    "publications": 2624,
+    "pct_two_or_more_orcids": 19.21,
+    "pct_any_orcid": 33.04,
+    "pct_one_orcid": 13.83
+  },
+  {
+    "entity": "Universitas Padjadjaran",
+    "publisher": "Universitas Padjadjaran",
+    "publications": 3427,
+    "pct_two_or_more_orcids": 15.12,
+    "pct_any_orcid": 32.86,
+    "pct_one_orcid": 17.74
+  },
+  {
+    "entity": "American Meteorological Society",
+    "publisher": "American Meteorological Society",
+    "publications": 6365,
+    "pct_two_or_more_orcids": 2.73,
+    "pct_any_orcid": 32.77,
+    "pct_one_orcid": 30.04
+  },
+  {
+    "entity": "Index Copernicus",
+    "publisher": "Index Copernicus",
+    "publications": 2613,
+    "pct_two_or_more_orcids": 27.06,
+    "pct_any_orcid": 32.57,
+    "pct_one_orcid": 5.51
+  },
+  {
+    "entity": "Oles Honchar Dnipropetrovsk National University",
+    "publisher": "Oles Honchar Dnipropetrovsk National University",
+    "publications": 1314,
+    "pct_two_or_more_orcids": 30.21,
+    "pct_any_orcid": 32.42,
+    "pct_one_orcid": 2.21
+  },
+  {
+    "entity": "IOP Publishing",
+    "publisher": "IOP Publishing",
+    "publications": 218387,
+    "pct_two_or_more_orcids": 21.47,
+    "pct_any_orcid": 31.76,
+    "pct_one_orcid": 10.29
+  },
+  {
+    "entity": "Fuji Technology Press",
+    "publisher": "Fuji Technology Press",
+    "publications": 1578,
+    "pct_two_or_more_orcids": 22.24,
+    "pct_any_orcid": 31.62,
+    "pct_one_orcid": 9.38
+  },
+  {
+    "entity": "MIT Press",
+    "publisher": "MIT Press",
+    "publications": 3102,
+    "pct_two_or_more_orcids": 19.89,
+    "pct_any_orcid": 31.37,
+    "pct_one_orcid": 11.48
+  },
+  {
+    "entity": "Mattioli1885",
+    "publisher": "Mattioli1885",
+    "publications": 1039,
+    "pct_two_or_more_orcids": 10.68,
+    "pct_any_orcid": 30.8,
+    "pct_one_orcid": 20.12
+  },
+  {
+    "entity": "Maulana Malik Ibrahim State Islamic University",
+    "publisher": "Maulana Malik Ibrahim State Islamic University",
+    "publications": 1321,
+    "pct_two_or_more_orcids": 9.54,
+    "pct_any_orcid": 30.73,
+    "pct_one_orcid": 21.19
+  },
+  {
+    "entity": "UIN Walisongo Semarang",
+    "publisher": "UIN Walisongo Semarang",
+    "publications": 1163,
+    "pct_two_or_more_orcids": 12.81,
+    "pct_any_orcid": 30.44,
+    "pct_one_orcid": 17.63
+  },
+  {
+    "entity": "PeerJ",
+    "publisher": "PeerJ",
+    "publications": 10538,
+    "pct_two_or_more_orcids": 16.9,
+    "pct_any_orcid": 30.2,
+    "pct_one_orcid": 13.3
+  },
+  {
+    "entity": "Kaunas University of Technology (KTU)",
+    "publisher": "Kaunas University of Technology (KTU)",
+    "publications": 1196,
+    "pct_two_or_more_orcids": 23.08,
+    "pct_any_orcid": 29.43,
+    "pct_one_orcid": 6.35
+  },
+  {
+    "entity": "Science Publishing Group",
+    "publisher": "Science Publishing Group",
+    "publications": 2829,
+    "pct_two_or_more_orcids": 23.65,
+    "pct_any_orcid": 29.37,
+    "pct_one_orcid": 5.72
+  },
+  {
+    "entity": "Institute of Research and Community Services Diponegoro University (LPPM UNDIP)",
+    "publisher": "Institute of Research and Community Services Diponegoro University (LPPM UNDIP)",
+    "publications": 7787,
+    "pct_two_or_more_orcids": 9.59,
+    "pct_any_orcid": 29.15,
+    "pct_one_orcid": 19.56
+  },
+  {
+    "entity": "Publishing House for Science and Technology, Vietnam Academy of Science and Technology (Publications)",
+    "publisher": "Publishing House for Science and Technology, Vietnam Academy of Science and Technology (Publications)",
+    "publications": 1171,
+    "pct_two_or_more_orcids": 12.64,
+    "pct_any_orcid": 28.86,
+    "pct_one_orcid": 16.22
+  },
+  {
+    "entity": "Wolters Kluwer",
+    "publisher": "Wolters Kluwer",
+    "publications": 202636,
+    "pct_two_or_more_orcids": 14.02,
+    "pct_any_orcid": 27.75,
+    "pct_one_orcid": 13.73
+  },
+  {
+    "entity": "University of California Press",
+    "publisher": "University of California Press",
+    "publications": 1048,
+    "pct_two_or_more_orcids": 13.07,
+    "pct_any_orcid": 27.29,
+    "pct_one_orcid": 14.22
+  },
+  {
+    "entity": "De Gruyter",
+    "publisher": "De Gruyter",
+    "publications": 51556,
+    "pct_two_or_more_orcids": 13.08,
+    "pct_any_orcid": 26.64,
+    "pct_one_orcid": 13.56
+  },
+  {
+    "entity": "Iron and Steel Institute of Japan",
+    "publisher": "Iron and Steel Institute of Japan",
+    "publications": 1517,
+    "pct_two_or_more_orcids": 14.24,
+    "pct_any_orcid": 26.63,
+    "pct_one_orcid": 12.39
+  },
+  {
+    "entity": "Trans Tech Publications",
+    "publisher": "Trans Tech Publications",
+    "publications": 12180,
+    "pct_two_or_more_orcids": 5.86,
+    "pct_any_orcid": 25.29,
+    "pct_one_orcid": 19.43
+  },
+  {
+    "entity": "LP2M Universitas Islam Negeri (UIN) Syarif Hidayatullah Jakarta",
+    "publisher": "LP2M Universitas Islam Negeri (UIN) Syarif Hidayatullah Jakarta",
+    "publications": 1697,
+    "pct_two_or_more_orcids": 4.66,
+    "pct_any_orcid": 24.28,
+    "pct_one_orcid": 19.62
+  },
+  {
+    "entity": "Publishing House Belorusskaya Nauka",
+    "publisher": "Publishing House Belorusskaya Nauka",
+    "publications": 1004,
+    "pct_two_or_more_orcids": 18.33,
+    "pct_any_orcid": 23.9,
+    "pct_one_orcid": 5.57
+  },
+  {
+    "entity": "American Society for Cell Biology (ASCB)",
+    "publisher": "American Society for Cell Biology (ASCB)",
+    "publications": 1176,
+    "pct_two_or_more_orcids": 8.25,
+    "pct_any_orcid": 22.19,
+    "pct_one_orcid": 13.94
+  },
+  {
+    "entity": "Elmer Press",
+    "publisher": "Elmer Press",
+    "publications": 1447,
+    "pct_two_or_more_orcids": 7.05,
+    "pct_any_orcid": 22.05,
+    "pct_one_orcid": 15.0
+  },
+  {
+    "entity": "Universitas Gadjah Mada",
+    "publisher": "Universitas Gadjah Mada",
+    "publications": 5753,
+    "pct_two_or_more_orcids": 8.48,
+    "pct_any_orcid": 20.89,
+    "pct_one_orcid": 12.41
+  },
+  {
+    "entity": "Penerbit UTM Press",
+    "publisher": "Penerbit UTM Press",
+    "publications": 2003,
+    "pct_two_or_more_orcids": 9.74,
+    "pct_any_orcid": 20.87,
+    "pct_one_orcid": 11.13
+  },
+  {
+    "entity": "Sunan Gunung Djati State Islamic University of Bandung",
+    "publisher": "Sunan Gunung Djati State Islamic University of Bandung",
+    "publications": 1781,
+    "pct_two_or_more_orcids": 4.66,
+    "pct_any_orcid": 20.66,
+    "pct_one_orcid": 16.0
+  },
+  {
+    "entity": "University of Toronto Press",
+    "publisher": "University of Toronto Press",
+    "publications": 1966,
+    "pct_two_or_more_orcids": 11.04,
+    "pct_any_orcid": 20.65,
+    "pct_one_orcid": 9.61
+  },
+  {
+    "entity": "Universitas Negeri Semarang",
+    "publisher": "Universitas Negeri Semarang",
+    "publications": 4729,
+    "pct_two_or_more_orcids": 9.05,
+    "pct_any_orcid": 20.47,
+    "pct_one_orcid": 11.42
+  },
+  {
+    "entity": "Universitas Muhammadiyah Yogyakarta",
+    "publisher": "Universitas Muhammadiyah Yogyakarta",
+    "publications": 2398,
+    "pct_two_or_more_orcids": 4.67,
+    "pct_any_orcid": 19.64,
+    "pct_one_orcid": 14.97
+  },
+  {
+    "entity": "European Mathematical Society - EMS - Publishing House",
+    "publisher": "European Mathematical Society - EMS - Publishing House",
+    "publications": 1356,
+    "pct_two_or_more_orcids": 12.32,
+    "pct_any_orcid": 19.25,
+    "pct_one_orcid": 6.93
+  },
+  {
+    "entity": "EDP Sciences",
+    "publisher": "EDP Sciences",
+    "publications": 62498,
+    "pct_two_or_more_orcids": 12.96,
+    "pct_any_orcid": 18.84,
+    "pct_one_orcid": 5.88
+  },
+  {
+    "entity": "Universitas Hamzanwadi",
+    "publisher": "Universitas Hamzanwadi",
+    "publications": 1683,
+    "pct_two_or_more_orcids": 10.34,
+    "pct_any_orcid": 18.78,
+    "pct_one_orcid": 8.44
+  },
+  {
+    "entity": "University of Trunojoyo Madura",
+    "publisher": "University of Trunojoyo Madura",
+    "publications": 1432,
+    "pct_two_or_more_orcids": 3.84,
+    "pct_any_orcid": 18.58,
+    "pct_one_orcid": 14.74
+  },
+  {
+    "entity": "Universitas Merdeka Malang",
+    "publisher": "Universitas Merdeka Malang",
+    "publications": 1091,
+    "pct_two_or_more_orcids": 5.96,
+    "pct_any_orcid": 18.33,
+    "pct_one_orcid": 12.37
+  },
+  {
+    "entity": "Knowledge E DMCC",
+    "publisher": "Knowledge E DMCC",
+    "publications": 8638,
+    "pct_two_or_more_orcids": 2.78,
+    "pct_any_orcid": 18.2,
+    "pct_one_orcid": 15.42
+  },
+  {
+    "entity": "LPPM Universitas Syiah Kuala",
+    "publisher": "LPPM Universitas Syiah Kuala",
+    "publications": 2552,
+    "pct_two_or_more_orcids": 6.43,
+    "pct_any_orcid": 17.16,
+    "pct_one_orcid": 10.73
+  },
+  {
+    "entity": "Engineering, Technology & Applied Science Research",
+    "publisher": "Engineering, Technology & Applied Science Research",
+    "publications": 1151,
+    "pct_two_or_more_orcids": 5.99,
+    "pct_any_orcid": 16.51,
+    "pct_one_orcid": 10.52
+  },
+  {
+    "entity": "Stichting SciPost",
+    "publisher": "Stichting SciPost",
+    "publications": 1443,
+    "pct_two_or_more_orcids": 10.81,
+    "pct_any_orcid": 16.15,
+    "pct_one_orcid": 5.34
+  },
+  {
+    "entity": "Universitas Muhammadiyah Surakarta",
+    "publisher": "Universitas Muhammadiyah Surakarta",
+    "publications": 2458,
+    "pct_two_or_more_orcids": 4.31,
+    "pct_any_orcid": 15.66,
+    "pct_one_orcid": 11.35
+  },
+  {
+    "entity": "Medip Academy",
+    "publisher": "Medip Academy",
+    "publications": 11667,
+    "pct_two_or_more_orcids": 3.36,
+    "pct_any_orcid": 15.64,
+    "pct_one_orcid": 12.28
+  },
+  {
+    "entity": "Universitas Sebelas Maret",
+    "publisher": "Universitas Sebelas Maret",
+    "publications": 4740,
+    "pct_two_or_more_orcids": 6.5,
+    "pct_any_orcid": 15.44,
+    "pct_one_orcid": 8.94
+  },
+  {
+    "entity": "al-Farabi Kazakh National University",
+    "publisher": "al-Farabi Kazakh National University",
+    "publications": 1354,
+    "pct_two_or_more_orcids": 15.07,
+    "pct_any_orcid": 15.21,
+    "pct_one_orcid": 0.14
+  },
+  {
+    "entity": "Negah Scientific Publisher",
+    "publisher": "Negah Scientific Publisher",
+    "publications": 3748,
+    "pct_two_or_more_orcids": 14.11,
+    "pct_any_orcid": 15.1,
+    "pct_one_orcid": 0.99
+  },
+  {
+    "entity": "International Society of Global Health",
+    "publisher": "International Society of Global Health",
+    "publications": 1299,
+    "pct_two_or_more_orcids": 7.08,
+    "pct_any_orcid": 14.93,
+    "pct_one_orcid": 7.85
+  },
+  {
+    "entity": "Universitas Muhammadiyah Magelang",
+    "publisher": "Universitas Muhammadiyah Magelang",
+    "publications": 1786,
+    "pct_two_or_more_orcids": 9.24,
+    "pct_any_orcid": 14.78,
+    "pct_one_orcid": 5.54
+  },
+  {
+    "entity": "PLUS COMMUNICATION CONSULTING SRL",
+    "publisher": "PLUS COMMUNICATION CONSULTING SRL",
+    "publications": 1122,
+    "pct_two_or_more_orcids": 2.23,
+    "pct_any_orcid": 14.44,
+    "pct_one_orcid": 12.21
+  },
+  {
+    "entity": "UNS Solo",
+    "publisher": "UNS Solo",
+    "publications": 3848,
+    "pct_two_or_more_orcids": 7.33,
+    "pct_any_orcid": 13.8,
+    "pct_one_orcid": 6.47
+  },
+  {
+    "entity": "Universitas Pendidikan Indonesia (UPI)",
+    "publisher": "Universitas Pendidikan Indonesia (UPI)",
+    "publications": 3962,
+    "pct_two_or_more_orcids": 5.68,
+    "pct_any_orcid": 13.65,
+    "pct_one_orcid": 7.97
+  },
+  {
+    "entity": "Universitas Muhammadiyah Mataram",
+    "publisher": "Universitas Muhammadiyah Mataram",
+    "publications": 3008,
+    "pct_two_or_more_orcids": 2.73,
+    "pct_any_orcid": 13.36,
+    "pct_one_orcid": 10.63
+  },
+  {
+    "entity": "LPPM Universitas Muhammadiyah Semarang",
+    "publisher": "LPPM Universitas Muhammadiyah Semarang",
+    "publications": 1162,
+    "pct_two_or_more_orcids": 3.79,
+    "pct_any_orcid": 12.82,
+    "pct_one_orcid": 9.03
+  },
+  {
+    "entity": "Kare Publishing",
+    "publisher": "Kare Publishing",
+    "publications": 2134,
+    "pct_two_or_more_orcids": 11.2,
+    "pct_any_orcid": 12.51,
+    "pct_one_orcid": 1.31
+  },
+  {
+    "entity": "Universitas Mercu Buana",
+    "publisher": "Universitas Mercu Buana",
+    "publications": 1092,
+    "pct_two_or_more_orcids": 2.29,
+    "pct_any_orcid": 12.45,
+    "pct_one_orcid": 10.16
+  },
+  {
+    "entity": "Universitas PGRI Semarang",
+    "publisher": "Universitas PGRI Semarang",
+    "publications": 1495,
+    "pct_two_or_more_orcids": 2.41,
+    "pct_any_orcid": 11.97,
+    "pct_one_orcid": 9.56
+  },
+  {
+    "entity": "IMR Press",
+    "publisher": "IMR Press",
+    "publications": 4338,
+    "pct_two_or_more_orcids": 6.06,
+    "pct_any_orcid": 11.69,
+    "pct_one_orcid": 5.63
+  },
+  {
+    "entity": "UIR Press",
+    "publisher": "UIR Press",
+    "publications": 1128,
+    "pct_two_or_more_orcids": 5.59,
+    "pct_any_orcid": 11.61,
+    "pct_one_orcid": 6.02
+  },
+  {
+    "entity": "Scientific Scholar",
+    "publisher": "Scientific Scholar",
+    "publications": 12953,
+    "pct_two_or_more_orcids": 4.66,
+    "pct_any_orcid": 11.59,
+    "pct_one_orcid": 6.93
+  },
+  {
+    "entity": "UNIB Press",
+    "publisher": "UNIB Press",
+    "publications": 2733,
+    "pct_two_or_more_orcids": 3.84,
+    "pct_any_orcid": 11.27,
+    "pct_one_orcid": 7.43
+  },
+  {
+    "entity": "American Veterinary Medical Association (AVMA)",
+    "publisher": "American Veterinary Medical Association (AVMA)",
+    "publications": 1584,
+    "pct_two_or_more_orcids": 4.61,
+    "pct_any_orcid": 10.92,
+    "pct_one_orcid": 6.31
+  },
+  {
+    "entity": "Tanjungpura University",
+    "publisher": "Tanjungpura University",
+    "publications": 3031,
+    "pct_two_or_more_orcids": 1.95,
+    "pct_any_orcid": 10.85,
+    "pct_one_orcid": 8.9
+  },
+  {
+    "entity": "LPPM IKIP Mataram",
+    "publisher": "LPPM IKIP Mataram",
+    "publications": 1921,
+    "pct_two_or_more_orcids": 2.5,
+    "pct_any_orcid": 9.94,
+    "pct_one_orcid": 7.44
+  },
+  {
+    "entity": "Termedia Sp. z.o.o.",
+    "publisher": "Termedia Sp. z.o.o.",
+    "publications": 5040,
+    "pct_two_or_more_orcids": 5.93,
+    "pct_any_orcid": 9.92,
+    "pct_one_orcid": 3.99
+  },
+  {
+    "entity": "Universitas Jenderal Soedirman",
+    "publisher": "Universitas Jenderal Soedirman",
+    "publications": 1253,
+    "pct_two_or_more_orcids": 3.75,
+    "pct_any_orcid": 9.9,
+    "pct_one_orcid": 6.15
+  },
+  {
+    "entity": "Pakistan Journal of Medical Sciences",
+    "publisher": "Pakistan Journal of Medical Sciences",
+    "publications": 1393,
+    "pct_two_or_more_orcids": 4.74,
+    "pct_any_orcid": 9.69,
+    "pct_one_orcid": 4.95
+  },
+  {
+    "entity": "Universitas Pattimura",
+    "publisher": "Universitas Pattimura",
+    "publications": 3304,
+    "pct_two_or_more_orcids": 3.57,
+    "pct_any_orcid": 9.23,
+    "pct_one_orcid": 5.66
+  },
+  {
+    "entity": "Universitas Andalas",
+    "publisher": "Universitas Andalas",
+    "publications": 2320,
+    "pct_two_or_more_orcids": 2.54,
+    "pct_any_orcid": 9.14,
+    "pct_one_orcid": 6.6
+  },
+  {
+    "entity": "Universitas Nusantara PGRI Kediri",
+    "publisher": "Universitas Nusantara PGRI Kediri",
+    "publications": 1217,
+    "pct_two_or_more_orcids": 6.74,
+    "pct_any_orcid": 9.12,
+    "pct_one_orcid": 2.38
+  },
+  {
+    "entity": "State University of Medan",
+    "publisher": "State University of Medan",
+    "publications": 2994,
+    "pct_two_or_more_orcids": 1.77,
+    "pct_any_orcid": 8.98,
+    "pct_one_orcid": 7.21
+  },
+  {
+    "entity": "Publikasi Jurnal Ilmiah Akademik Universitas Muhammadiyah Makassar",
+    "publisher": "Publikasi Jurnal Ilmiah Akademik Universitas Muhammadiyah Makassar",
+    "publications": 1218,
+    "pct_two_or_more_orcids": 3.69,
+    "pct_any_orcid": 8.95,
+    "pct_one_orcid": 5.26
+  },
+  {
+    "entity": "State University of Malang (UM)",
+    "publisher": "State University of Malang (UM)",
+    "publications": 4765,
+    "pct_two_or_more_orcids": 4.41,
+    "pct_any_orcid": 8.9,
+    "pct_one_orcid": 4.49
+  },
+  {
+    "entity": "Universitas Islam Negeri Sultan Syarif Kasim Riau",
+    "publisher": "Universitas Islam Negeri Sultan Syarif Kasim Riau",
+    "publications": 1516,
+    "pct_two_or_more_orcids": 1.39,
+    "pct_any_orcid": 8.84,
+    "pct_one_orcid": 7.45
+  },
+  {
+    "entity": "Infra-M Academic Publishing House",
+    "publisher": "Infra-M Academic Publishing House",
+    "publications": 1418,
+    "pct_two_or_more_orcids": 3.39,
+    "pct_any_orcid": 8.6,
+    "pct_one_orcid": 5.21
+  },
+  {
+    "entity": "Universitas Pahlawan Tuanku Tambusai",
+    "publisher": "Universitas Pahlawan Tuanku Tambusai",
+    "publications": 8960,
+    "pct_two_or_more_orcids": 1.08,
+    "pct_any_orcid": 8.33,
+    "pct_one_orcid": 7.25
+  },
+  {
+    "entity": "Universitas Mataram",
+    "publisher": "Universitas Mataram",
+    "publications": 12780,
+    "pct_two_or_more_orcids": 1.54,
+    "pct_any_orcid": 8.31,
+    "pct_one_orcid": 6.77
+  },
+  {
+    "entity": "Lembaga Publikasi Ilmiah dan Penerbitan Universitas Muhammadiyah Purwokerto",
+    "publisher": "Lembaga Publikasi Ilmiah dan Penerbitan Universitas Muhammadiyah Purwokerto",
+    "publications": 1451,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 7.93,
+    "pct_one_orcid": 7.93
+  },
+  {
+    "entity": "Universitas Islam Negeri Ar-Raniry",
+    "publisher": "Universitas Islam Negeri Ar-Raniry",
+    "publications": 2045,
+    "pct_two_or_more_orcids": 2.0,
+    "pct_any_orcid": 7.82,
+    "pct_one_orcid": 5.82
+  },
+  {
+    "entity": "Universitas Islam Negeri Alauddin Makassar",
+    "publisher": "Universitas Islam Negeri Alauddin Makassar",
+    "publications": 1837,
+    "pct_two_or_more_orcids": 1.52,
+    "pct_any_orcid": 7.78,
+    "pct_one_orcid": 6.26
+  },
+  {
+    "entity": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Riau",
+    "publisher": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Riau",
+    "publications": 2062,
+    "pct_two_or_more_orcids": 3.73,
+    "pct_any_orcid": 7.76,
+    "pct_one_orcid": 4.03
+  },
+  {
+    "entity": "Center for Journal Management and Publication, Lambung Mangkurat University",
+    "publisher": "Center for Journal Management and Publication, Lambung Mangkurat University",
+    "publications": 3997,
+    "pct_two_or_more_orcids": 1.63,
+    "pct_any_orcid": 7.61,
+    "pct_one_orcid": 5.98
+  },
+  {
+    "entity": "Universitas Islam Bandung (Unisba)",
+    "publisher": "Universitas Islam Bandung (Unisba)",
+    "publications": 2936,
+    "pct_two_or_more_orcids": 1.81,
+    "pct_any_orcid": 7.6,
+    "pct_one_orcid": 5.79
+  },
+  {
+    "entity": "American Psychiatric Association Publishing",
+    "publisher": "American Psychiatric Association Publishing",
+    "publications": 1375,
+    "pct_two_or_more_orcids": 1.75,
+    "pct_any_orcid": 7.49,
+    "pct_one_orcid": 5.74
+  },
+  {
+    "entity": "Muhammadiyah Metro University",
+    "publisher": "Muhammadiyah Metro University",
+    "publications": 2193,
+    "pct_two_or_more_orcids": 2.6,
+    "pct_any_orcid": 7.34,
+    "pct_one_orcid": 4.74
+  },
+  {
+    "entity": "Universitas Negeri Makassar",
+    "publisher": "Universitas Negeri Makassar",
+    "publications": 3130,
+    "pct_two_or_more_orcids": 2.59,
+    "pct_any_orcid": 7.28,
+    "pct_one_orcid": 4.69
+  },
+  {
+    "entity": "Universitas Tarumanagara",
+    "publisher": "Universitas Tarumanagara",
+    "publications": 1774,
+    "pct_two_or_more_orcids": 0.73,
+    "pct_any_orcid": 7.16,
+    "pct_one_orcid": 6.43
+  },
+  {
+    "entity": "Universitas Trisakti",
+    "publisher": "Universitas Trisakti",
+    "publications": 1337,
+    "pct_two_or_more_orcids": 1.57,
+    "pct_any_orcid": 7.11,
+    "pct_one_orcid": 5.54
+  },
+  {
+    "entity": "Pakistan Medical Association",
+    "publisher": "Pakistan Medical Association",
+    "publications": 1890,
+    "pct_two_or_more_orcids": 3.02,
+    "pct_any_orcid": 6.93,
+    "pct_one_orcid": 3.91
+  },
+  {
+    "entity": "Sciencedomain International",
+    "publisher": "Sciencedomain International",
+    "publications": 29000,
+    "pct_two_or_more_orcids": 1.84,
+    "pct_any_orcid": 6.93,
+    "pct_one_orcid": 5.09
+  },
+  {
+    "entity": "Universitas Pendidikan Ganesha",
+    "publisher": "Universitas Pendidikan Ganesha",
+    "publications": 5931,
+    "pct_two_or_more_orcids": 2.75,
+    "pct_any_orcid": 6.9,
+    "pct_one_orcid": 4.15
+  },
+  {
+    "entity": "LPPM Universitas Malikussaleh",
+    "publisher": "LPPM Universitas Malikussaleh",
+    "publications": 2470,
+    "pct_two_or_more_orcids": 1.05,
+    "pct_any_orcid": 6.6,
+    "pct_one_orcid": 5.55
+  },
+  {
+    "entity": "Universitas Sumatera Utara",
+    "publisher": "Universitas Sumatera Utara",
+    "publications": 1665,
+    "pct_two_or_more_orcids": 3.84,
+    "pct_any_orcid": 6.49,
+    "pct_one_orcid": 2.65
+  },
+  {
+    "entity": "Universitas Muhammadiyah Malang",
+    "publisher": "Universitas Muhammadiyah Malang",
+    "publications": 2917,
+    "pct_two_or_more_orcids": 1.47,
+    "pct_any_orcid": 6.34,
+    "pct_one_orcid": 4.87
+  },
+  {
+    "entity": "American Mathematical Society (AMS)",
+    "publisher": "American Mathematical Society (AMS)",
+    "publications": 1534,
+    "pct_two_or_more_orcids": 3.85,
+    "pct_any_orcid": 6.32,
+    "pct_one_orcid": 2.47
+  },
+  {
+    "entity": "Brawijaya University",
+    "publisher": "Brawijaya University",
+    "publications": 2901,
+    "pct_two_or_more_orcids": 3.03,
+    "pct_any_orcid": 6.2,
+    "pct_one_orcid": 3.17
+  },
+  {
+    "entity": "Institute of Electronics, Information and Communications Engineers (IEICE)",
+    "publisher": "Institute of Electronics, Information and Communications Engineers (IEICE)",
+    "publications": 2886,
+    "pct_two_or_more_orcids": 5.86,
+    "pct_any_orcid": 6.03,
+    "pct_one_orcid": 0.17
+  },
+  {
+    "entity": "Indian Council of Agricultural Research, Directorate of Knowledge Management in Agriculture",
+    "publisher": "Indian Council of Agricultural Research, Directorate of Knowledge Management in Agriculture",
+    "publications": 2549,
+    "pct_two_or_more_orcids": 1.73,
+    "pct_any_orcid": 5.96,
+    "pct_one_orcid": 4.23
+  },
+  {
+    "entity": "ASME International",
+    "publisher": "ASME International",
+    "publications": 11814,
+    "pct_two_or_more_orcids": 1.87,
+    "pct_any_orcid": 5.82,
+    "pct_one_orcid": 3.95
+  },
+  {
+    "entity": "Universitas Lancang Kuning",
+    "publisher": "Universitas Lancang Kuning",
+    "publications": 1844,
+    "pct_two_or_more_orcids": 2.33,
+    "pct_any_orcid": 5.8,
+    "pct_one_orcid": 3.47
+  },
+  {
+    "entity": "Allerton Press",
+    "publisher": "Allerton Press",
+    "publications": 10499,
+    "pct_two_or_more_orcids": 4.47,
+    "pct_any_orcid": 5.49,
+    "pct_one_orcid": 1.02
+  },
+  {
+    "entity": "JLE",
+    "publisher": "JLE",
+    "publications": 1148,
+    "pct_two_or_more_orcids": 1.39,
+    "pct_any_orcid": 5.49,
+    "pct_one_orcid": 4.1
+  },
+  {
+    "entity": "Universitas Pamulang",
+    "publisher": "Universitas Pamulang",
+    "publications": 1657,
+    "pct_two_or_more_orcids": 0.84,
+    "pct_any_orcid": 5.43,
+    "pct_one_orcid": 4.59
+  },
+  {
+    "entity": "UPT Penerbitan Universitas Jember",
+    "publisher": "UPT Penerbitan Universitas Jember",
+    "publications": 2384,
+    "pct_two_or_more_orcids": 3.52,
+    "pct_any_orcid": 5.24,
+    "pct_one_orcid": 1.72
+  },
+  {
+    "entity": "Universitas Mulawarman",
+    "publisher": "Universitas Mulawarman",
+    "publications": 2617,
+    "pct_two_or_more_orcids": 1.3,
+    "pct_any_orcid": 5.24,
+    "pct_one_orcid": 3.94
+  },
+  {
+    "entity": "Universitas Ahmad Dahlan",
+    "publisher": "Universitas Ahmad Dahlan",
+    "publications": 3105,
+    "pct_two_or_more_orcids": 1.64,
+    "pct_any_orcid": 5.15,
+    "pct_one_orcid": 3.51
+  },
+  {
+    "entity": "Institut Pertanian Bogor",
+    "publisher": "Institut Pertanian Bogor",
+    "publications": 3002,
+    "pct_two_or_more_orcids": 1.2,
+    "pct_any_orcid": 4.6,
+    "pct_one_orcid": 3.4
+  },
+  {
+    "entity": "Pleiades Publishing",
+    "publisher": "Pleiades Publishing",
+    "publications": 53271,
+    "pct_two_or_more_orcids": 3.91,
+    "pct_any_orcid": 4.43,
+    "pct_one_orcid": 0.52
+  },
+  {
+    "entity": "Publicidad Permanyer, SLU",
+    "publisher": "Publicidad Permanyer, SLU",
+    "publications": 1607,
+    "pct_two_or_more_orcids": 2.55,
+    "pct_any_orcid": 4.42,
+    "pct_one_orcid": 1.87
+  },
+  {
+    "entity": "Universitas Negeri Padang",
+    "publisher": "Universitas Negeri Padang",
+    "publications": 4675,
+    "pct_two_or_more_orcids": 0.62,
+    "pct_any_orcid": 4.36,
+    "pct_one_orcid": 3.74
+  },
+  {
+    "entity": "Universitas Negeri Surabaya",
+    "publisher": "Universitas Negeri Surabaya",
+    "publications": 2015,
+    "pct_two_or_more_orcids": 0.94,
+    "pct_any_orcid": 4.27,
+    "pct_one_orcid": 3.33
+  },
+  {
+    "entity": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+    "publisher": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+    "publications": 4841,
+    "pct_two_or_more_orcids": 0.99,
+    "pct_any_orcid": 4.26,
+    "pct_one_orcid": 3.27
+  },
+  {
+    "entity": "LPPM Universitas Ibn Khaldun Bogor",
+    "publisher": "LPPM Universitas Ibn Khaldun Bogor",
+    "publications": 1574,
+    "pct_two_or_more_orcids": 0.83,
+    "pct_any_orcid": 4.07,
+    "pct_one_orcid": 3.24
+  },
+  {
+    "entity": "African Journals Online (AJOL)",
+    "publisher": "African Journals Online (AJOL)",
+    "publications": 2746,
+    "pct_two_or_more_orcids": 2.62,
+    "pct_any_orcid": 4.04,
+    "pct_one_orcid": 1.42
+  },
+  {
+    "entity": "Bangladesh Academy of Sciences",
+    "publisher": "Bangladesh Academy of Sciences",
+    "publications": 8690,
+    "pct_two_or_more_orcids": 2.7,
+    "pct_any_orcid": 3.99,
+    "pct_one_orcid": 1.29
+  },
+  {
+    "entity": "Spandidos Publications",
+    "publisher": "Spandidos Publications",
+    "publications": 11705,
+    "pct_two_or_more_orcids": 0.89,
+    "pct_any_orcid": 3.94,
+    "pct_one_orcid": 3.05
+  },
+  {
+    "entity": "DiscoverSys",
+    "publisher": "DiscoverSys",
+    "publications": 1776,
+    "pct_two_or_more_orcids": 1.75,
+    "pct_any_orcid": 3.89,
+    "pct_one_orcid": 2.14
+  },
+  {
+    "entity": "EconJournals",
+    "publisher": "EconJournals",
+    "publications": 1571,
+    "pct_two_or_more_orcids": 1.78,
+    "pct_any_orcid": 3.69,
+    "pct_one_orcid": 1.91
+  },
+  {
+    "entity": "Penerbit Universiti Kebangsaan Malaysia (UKM Press)",
+    "publisher": "Penerbit Universiti Kebangsaan Malaysia (UKM Press)",
+    "publications": 1246,
+    "pct_two_or_more_orcids": 2.41,
+    "pct_any_orcid": 3.69,
+    "pct_one_orcid": 1.28
+  },
+  {
+    "entity": "Universitas Islam Kalimantan MAB Banjarmasin",
+    "publisher": "Universitas Islam Kalimantan MAB Banjarmasin",
+    "publications": 1057,
+    "pct_two_or_more_orcids": 0.95,
+    "pct_any_orcid": 3.5,
+    "pct_one_orcid": 2.55
+  },
+  {
+    "entity": "World Scientific and Engineering Academy and Society (WSEAS)",
+    "publisher": "World Scientific and Engineering Academy and Society (WSEAS)",
+    "publications": 2611,
+    "pct_two_or_more_orcids": 2.37,
+    "pct_any_orcid": 3.41,
+    "pct_one_orcid": 1.04
+  },
+  {
+    "entity": "California Digital Library (CDL)",
+    "publisher": "California Digital Library (CDL)",
+    "publications": 1571,
+    "pct_two_or_more_orcids": 0.7,
+    "pct_any_orcid": 3.31,
+    "pct_one_orcid": 2.61
+  },
+  {
+    "entity": "Universitas Majalengka",
+    "publisher": "Universitas Majalengka",
+    "publications": 1550,
+    "pct_two_or_more_orcids": 0.84,
+    "pct_any_orcid": 3.1,
+    "pct_one_orcid": 2.26
+  },
+  {
+    "entity": "Kyushu University",
+    "publisher": "Kyushu University",
+    "publications": 1079,
+    "pct_two_or_more_orcids": 0.56,
+    "pct_any_orcid": 2.69,
+    "pct_one_orcid": 2.13
+  },
+  {
+    "entity": "Universitas Udayana",
+    "publisher": "Universitas Udayana",
+    "publications": 4758,
+    "pct_two_or_more_orcids": 0.9,
+    "pct_any_orcid": 2.21,
+    "pct_one_orcid": 1.31
+  },
+  {
+    "entity": "The Russian Academy of Sciences",
+    "publisher": "The Russian Academy of Sciences",
+    "publications": 8928,
+    "pct_two_or_more_orcids": 1.86,
+    "pct_any_orcid": 2.15,
+    "pct_one_orcid": 0.29
+  },
+  {
+    "entity": "Politeknik Ganesha",
+    "publisher": "Politeknik Ganesha",
+    "publications": 1179,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 1.87,
+    "pct_one_orcid": 1.87
+  },
+  {
+    "entity": "Tsinghua University Press",
+    "publisher": "Tsinghua University Press",
+    "publications": 6716,
+    "pct_two_or_more_orcids": 1.09,
+    "pct_any_orcid": 1.83,
+    "pct_one_orcid": 0.74
+  },
+  {
+    "entity": "e-International Publishing House",
+    "publisher": "e-International Publishing House",
+    "publications": 1314,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 1.83,
+    "pct_one_orcid": 1.83
+  },
+  {
+    "entity": "Consortium Erudit",
+    "publisher": "Consortium Erudit",
+    "publications": 1285,
+    "pct_two_or_more_orcids": 1.48,
+    "pct_any_orcid": 1.71,
+    "pct_one_orcid": 0.23
+  },
+  {
+    "entity": "Universitas Negeri Jakarta",
+    "publisher": "Universitas Negeri Jakarta",
+    "publications": 3425,
+    "pct_two_or_more_orcids": 0.61,
+    "pct_any_orcid": 1.64,
+    "pct_one_orcid": 1.03
+  },
+  {
+    "entity": "Society of Nuclear Medicine",
+    "publisher": "Society of Nuclear Medicine",
+    "publications": 1431,
+    "pct_two_or_more_orcids": 0.91,
+    "pct_any_orcid": 1.61,
+    "pct_one_orcid": 0.7
+  },
+  {
+    "entity": "Universitas Cokroaminoto Palopo",
+    "publisher": "Universitas Cokroaminoto Palopo",
+    "publications": 1192,
+    "pct_two_or_more_orcids": 0.34,
+    "pct_any_orcid": 1.59,
+    "pct_one_orcid": 1.25
+  },
+  {
+    "entity": "VM Media Group sp. z o.o",
+    "publisher": "VM Media Group sp. z o.o",
+    "publications": 3516,
+    "pct_two_or_more_orcids": 0.71,
+    "pct_any_orcid": 1.56,
+    "pct_one_orcid": 0.85
+  },
+  {
+    "entity": "Auricle Technologies",
+    "publisher": "Auricle Technologies",
+    "publications": 1277,
+    "pct_two_or_more_orcids": 0.63,
+    "pct_any_orcid": 1.49,
+    "pct_one_orcid": 0.86
+  },
+  {
+    "entity": "ScopeMed",
+    "publisher": "ScopeMed",
+    "publications": 1626,
+    "pct_two_or_more_orcids": 1.17,
+    "pct_any_orcid": 1.41,
+    "pct_one_orcid": 0.24
+  },
+  {
+    "entity": "Tech Science Press",
+    "publisher": "Tech Science Press",
+    "publications": 7862,
+    "pct_two_or_more_orcids": 0.8,
+    "pct_any_orcid": 1.4,
+    "pct_one_orcid": 0.6
+  },
+  {
+    "entity": "Environmental Health Perspectives",
+    "publisher": "Environmental Health Perspectives",
+    "publications": 5166,
+    "pct_two_or_more_orcids": 1.05,
+    "pct_any_orcid": 1.37,
+    "pct_one_orcid": 0.32
+  },
+  {
+    "entity": null,
+    "publisher": null,
+    "publications": 125158,
+    "pct_two_or_more_orcids": 1.02,
+    "pct_any_orcid": 1.36,
+    "pct_one_orcid": 0.34
+  },
+  {
+    "entity": "China Science Publishing & Media",
+    "publisher": "China Science Publishing & Media",
+    "publications": 1598,
+    "pct_two_or_more_orcids": 0.13,
+    "pct_any_orcid": 1.31,
+    "pct_one_orcid": 1.18
+  },
+  {
+    "entity": "IPM2KPE",
+    "publisher": "IPM2KPE",
+    "publications": 3252,
+    "pct_two_or_more_orcids": 0.68,
+    "pct_any_orcid": 1.05,
+    "pct_one_orcid": 0.37
+  },
+  {
+    "entity": "Anticancer Research USA",
+    "publisher": "Anticancer Research USA",
+    "publications": 5515,
+    "pct_two_or_more_orcids": 0.02,
+    "pct_any_orcid": 0.96,
+    "pct_one_orcid": 0.94
+  },
+  {
+    "entity": "Egyptian Knowledge Bank",
+    "publisher": "Egyptian Knowledge Bank",
+    "publications": 41196,
+    "pct_two_or_more_orcids": 0.08,
+    "pct_any_orcid": 0.93,
+    "pct_one_orcid": 0.85
+  },
+  {
+    "entity": "Institute of Electrical Engineers of Japan (IEE Japan)",
+    "publisher": "Institute of Electrical Engineers of Japan (IEE Japan)",
+    "publications": 1721,
+    "pct_two_or_more_orcids": 0.29,
+    "pct_any_orcid": 0.93,
+    "pct_one_orcid": 0.64
+  },
+  {
+    "entity": "CMV Verlag",
+    "publisher": "CMV Verlag",
+    "publications": 7391,
+    "pct_two_or_more_orcids": 0.28,
+    "pct_any_orcid": 0.88,
+    "pct_one_orcid": 0.6
+  },
+  {
+    "entity": "ALUNA",
+    "publisher": "ALUNA",
+    "publications": 2306,
+    "pct_two_or_more_orcids": 0.78,
+    "pct_any_orcid": 0.78,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Lembaga Penelitian dan Pengabdian masyarakat Universitas Jambi",
+    "publisher": "Lembaga Penelitian dan Pengabdian masyarakat Universitas Jambi",
+    "publications": 3226,
+    "pct_two_or_more_orcids": 0.25,
+    "pct_any_orcid": 0.62,
+    "pct_one_orcid": 0.37
+  },
+  {
+    "entity": "Lembaga Penelitian dan Pengabdian kepada Masyarakat ITS",
+    "publisher": "Lembaga Penelitian dan Pengabdian kepada Masyarakat ITS",
+    "publications": 2255,
+    "pct_two_or_more_orcids": 0.13,
+    "pct_any_orcid": 0.49,
+    "pct_one_orcid": 0.36
+  },
+  {
+    "entity": "Frontiers",
+    "publisher": "Frontiers",
+    "publications": 293468,
+    "pct_two_or_more_orcids": 0.18,
+    "pct_any_orcid": 0.45,
+    "pct_one_orcid": 0.27
+  },
+  {
+    "entity": "Pharmaceutical Society of Japan",
+    "publisher": "Pharmaceutical Society of Japan",
+    "publications": 2108,
+    "pct_two_or_more_orcids": 0.14,
+    "pct_any_orcid": 0.24,
+    "pct_one_orcid": 0.1
+  },
+  {
+    "entity": "Politeknik Pratama Purwokerto",
+    "publisher": "Politeknik Pratama Purwokerto",
+    "publications": 4487,
+    "pct_two_or_more_orcids": 0.04,
+    "pct_any_orcid": 0.22,
+    "pct_one_orcid": 0.18
+  },
+  {
+    "entity": "Mark Allen Group",
+    "publisher": "Mark Allen Group",
+    "publications": 2706,
+    "pct_two_or_more_orcids": 0.18,
+    "pct_any_orcid": 0.18,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Jaypee Brothers Medical Publishing",
+    "publisher": "Jaypee Brothers Medical Publishing",
+    "publications": 4092,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.15,
+    "pct_one_orcid": 0.15
+  },
+  {
+    "entity": "Academy of Management",
+    "publisher": "Academy of Management",
+    "publications": 3322,
+    "pct_two_or_more_orcids": 0.06,
+    "pct_any_orcid": 0.15,
+    "pct_one_orcid": 0.09
+  },
+  {
+    "entity": "Brazilian Journals",
+    "publisher": "Brazilian Journals",
+    "publications": 6408,
+    "pct_two_or_more_orcids": 0.02,
+    "pct_any_orcid": 0.11,
+    "pct_one_orcid": 0.09
+  },
+  {
+    "entity": "American Economic Association",
+    "publisher": "American Economic Association",
+    "publications": 1262,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.08,
+    "pct_one_orcid": 0.08
+  },
+  {
+    "entity": "American Academy of Pediatrics (AAP)",
+    "publisher": "American Academy of Pediatrics (AAP)",
+    "publications": 3073,
+    "pct_two_or_more_orcids": 0.03,
+    "pct_any_orcid": 0.07,
+    "pct_one_orcid": 0.04
+  },
+  {
+    "entity": "Everant Journals",
+    "publisher": "Everant Journals",
+    "publications": 1419,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.07,
+    "pct_one_orcid": 0.07
+  },
+  {
+    "entity": "Journal of Neurosurgery Publishing Group (JNSPG)",
+    "publisher": "Journal of Neurosurgery Publishing Group (JNSPG)",
+    "publications": 4858,
+    "pct_two_or_more_orcids": 0.02,
+    "pct_any_orcid": 0.04,
+    "pct_one_orcid": 0.02
+  },
+  {
+    "entity": "A and V Publications",
+    "publisher": "A and V Publications",
+    "publications": 2810,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.04,
+    "pct_one_orcid": 0.04
+  },
+  {
+    "entity": "Scientific Research Publishing",
+    "publisher": "Scientific Research Publishing",
+    "publications": 16185,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.01,
+    "pct_one_orcid": 0.01
+  },
+  {
+    "entity": "Inderscience Publishers",
+    "publisher": "Inderscience Publishers",
+    "publications": 18833,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "SAE International",
+    "publisher": "SAE International",
+    "publications": 1999,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Japan Society of Civil Engineers",
+    "publisher": "Japan Society of Civil Engineers",
+    "publications": 2732,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Ivyspring International Publisher",
+    "publisher": "Ivyspring International Publisher",
+    "publications": 6928,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Association for Research in Vision and Ophthalmology (ARVO)",
+    "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+    "publications": 4568,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Impact Journals",
+    "publisher": "Impact Journals",
+    "publications": 5568,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "American Scientific Publishers",
+    "publisher": "American Scientific Publishers",
+    "publications": 6523,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Clinical and Experimental Rheumatology",
+    "publisher": "Clinical and Experimental Rheumatology",
+    "publications": 1089,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Association for the Advancement of Artificial Intelligence (AAAI)",
+    "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+    "publications": 10656,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "American Society of Tropical Medicine and Hygiene",
+    "publisher": "American Society of Tropical Medicine and Hygiene",
+    "publications": 2565,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "American Medical Association (AMA)",
+    "publisher": "American Medical Association (AMA)",
+    "publications": 18385,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Begell House",
+    "publisher": "Begell House",
+    "publications": 3646,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "International Scientific Information",
+    "publisher": "International Scientific Information",
+    "publications": 4354,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "American Institute of Mathematical Sciences (AIMS)",
+    "publisher": "American Institute of Mathematical Sciences (AIMS)",
+    "publications": 11782,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "AME Publishing Company",
+    "publisher": "AME Publishing Company",
+    "publications": 18349,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "MyJove",
+    "publisher": "MyJove",
+    "publications": 4385,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Naksh Solutions",
+    "publisher": "Naksh Solutions",
+    "publications": 1873,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Japanese Society of Veterinary Science",
+    "publisher": "Japanese Society of Veterinary Science",
+    "publications": 1186,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Inter-Research Science Center",
+    "publisher": "Inter-Research Science Center",
+    "publications": 2396,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "BioResources",
+    "publisher": "BioResources",
+    "publications": 2255,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Ferrata Storti Foundation (Haematologica)",
+    "publisher": "Ferrata Storti Foundation (Haematologica)",
+    "publications": 1043,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Edizioni Minerva Medica",
+    "publisher": "Edizioni Minerva Medica",
+    "publications": 5025,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "SPIE, the international society for optics and photonics",
+    "publisher": "SPIE, the international society for optics and photonics",
+    "publications": 6675,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Coastal Education and Research Foundation",
+    "publisher": "Coastal Education and Research Foundation",
+    "publications": 1591,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "European Scientific Institute, ESI",
+    "publisher": "European Scientific Institute, ESI",
+    "publications": 1597,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Academic World Research",
+    "publisher": "Academic World Research",
+    "publications": 2050,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Japanese Society of Internal Medicine",
+    "publisher": "Japanese Society of Internal Medicine",
+    "publications": 2493,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Architectural Institute of Japan",
+    "publisher": "Architectural Institute of Japan",
+    "publications": 1791,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Baishideng Publishing Group",
+    "publisher": "Baishideng Publishing Group",
+    "publications": 9006,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Centers for Disease Control and Prevention (CDC)",
+    "publisher": "Centers for Disease Control and Prevention (CDC)",
+    "publications": 2576,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Pan African Medical Journal",
+    "publisher": "Pan African Medical Journal",
+    "publications": 2304,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "World Wide Journals",
+    "publisher": "World Wide Journals",
+    "publications": 4924,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Joule",
+    "publisher": "Joule",
+    "publications": 1039,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Japanese Circulation Society",
+    "publisher": "Japanese Circulation Society",
+    "publications": 1151,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Technoscience Academy",
+    "publisher": "Technoscience Academy",
+    "publications": 1206,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Chinese Chemical Society",
+    "publisher": "Chinese Chemical Society",
+    "publications": 1275,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Global Academic Excellence (M) Sdn Bhd",
+    "publisher": "Global Academic Excellence (M) Sdn Bhd",
+    "publications": 1897,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Sociedad Espanola de Patologia Digestiva (SEPD)",
+    "publisher": "Sociedad Espanola de Patologia Digestiva (SEPD)",
+    "publications": 1166,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "CMB Association",
+    "publisher": "CMB Association",
+    "publications": 1253,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "College of Physicians and Surgeons Pakistan",
+    "publisher": "College of Physicians and Surgeons Pakistan",
+    "publications": 1165,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Humanity Only - HO",
+    "publisher": "Humanity Only - HO",
+    "publications": 2788,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "OOO Zhurnal \"Mendeleevskie Soobshcheniya\"",
+    "publisher": "OOO Zhurnal \"Mendeleevskie Soobshcheniya\"",
+    "publications": 1160,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Science China Press",
+    "publisher": "Science China Press",
+    "publications": 1263,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "EpiSmart Science Vector",
+    "publisher": "EpiSmart Science Vector",
+    "publications": 2086,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Centers for Disease Control MMWR Office",
+    "publisher": "Centers for Disease Control MMWR Office",
+    "publications": 1341,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Physicians Postgraduate Press",
+    "publisher": "Physicians Postgraduate Press",
+    "publications": 1087,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Press of International Journal of Ophthalmology (IJO Press)",
+    "publisher": "Press of International Journal of Ophthalmology (IJO Press)",
+    "publications": 1042,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Bio-Protocol",
+    "publisher": "Bio-Protocol",
+    "publications": 1173,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Japan Institute of Metals",
+    "publisher": "Japan Institute of Metals",
+    "publications": 1239,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Japan Society of Mechanical Engineers",
+    "publisher": "Japan Society of Mechanical Engineers",
+    "publications": 2441,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Institute of Noise Control Engineering (INCE)",
+    "publisher": "Institute of Noise Control Engineering (INCE)",
+    "publications": 1933,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "SCI AND TECH UNIVERSAL",
+    "publisher": "SCI AND TECH UNIVERSAL",
+    "publications": 1180,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "M\u00e9decine et Hygi\u00e8ne",
+    "publisher": "M\u00e9decine et Hygi\u00e8ne",
+    "publications": 1026,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Institute of Mathematical Statistics",
+    "publisher": "Institute of Mathematical Statistics",
+    "publications": 2029,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Diva Enterprises",
+    "publisher": "Diva Enterprises",
+    "publications": 1055,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Galore Knowledge Publication",
+    "publisher": "Galore Knowledge Publication",
+    "publications": 2806,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Vietnam Medical Journal, Vietnam Medical Association",
+    "publisher": "Vietnam Medical Journal, Vietnam Medical Association",
+    "publications": 1733,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  },
+  {
+    "entity": "Eliwise Academy",
+    "publisher": "Eliwise Academy",
+    "publications": 1758,
+    "pct_two_or_more_orcids": 0.0,
+    "pct_any_orcid": 0.0,
+    "pct_one_orcid": 0.0
+  }
+]

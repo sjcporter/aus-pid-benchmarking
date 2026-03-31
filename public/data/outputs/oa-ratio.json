@@ -1,0 +1,52 @@
+[
+  {
+    "year": 2015,
+    "open_percentage": 42.92,
+    "publications": 63439
+  },
+  {
+    "year": 2016,
+    "open_percentage": 44.22,
+    "publications": 66971
+  },
+  {
+    "year": 2017,
+    "open_percentage": 46.53,
+    "publications": 69499
+  },
+  {
+    "year": 2018,
+    "open_percentage": 48.31,
+    "publications": 72582
+  },
+  {
+    "year": 2019,
+    "open_percentage": 49.97,
+    "publications": 77250
+  },
+  {
+    "year": 2020,
+    "open_percentage": 52.93,
+    "publications": 85357
+  },
+  {
+    "year": 2021,
+    "open_percentage": 54.73,
+    "publications": 88973
+  },
+  {
+    "year": 2022,
+    "open_percentage": 61.16,
+    "publications": 83717
+  },
+  {
+    "year": 2023,
+    "open_percentage": 69.97,
+    "publications": 78722
+  },
+  {
+    "year": 2024,
+    "open_percentage": 72.4,
+    "publications": 81798
+  }
+]

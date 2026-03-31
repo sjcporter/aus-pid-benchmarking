@@ -1,0 +1,163 @@
+[
+  {
+    "id": "R1",
+    "reference": "att:RORreview",
+    "section": "Inputs – Research Partners (ROR)",
+    "category": "inputs",
+    "text": "Review the representation of commercial Australian research organisations in ROR. With the consent of new commercial organisations identified in Dimensions (or another appropriate resource), provide details of these institutions to ROR."
+  },
+  {
+    "id": "R2",
+    "reference": "att:RoRInternationalEngagement",
+    "section": "Inputs – Research Partners (ROR)",
+    "category": "inputs",
+    "text": "Engage with international publishing community to ensure ROR affiliations are being directly asserted onto publication records where available. The international publishing community is far less engaged with implementing ROR than would benefit the community. International advocacy will be required to highlight why this should be a priority for publishing systems."
+  },
+  {
+    "id": "R3",
+    "reference": "att:RoRRepositoryVendorEngagement",
+    "section": "Inputs – Research Partners (ROR)",
+    "category": "inputs",
+    "text": "Engage with repository vendors and review internal workflows to ensure that ROR affiliations are added to all creators. Progress towards implementing ROR affiliations within Datacite is comparatively strong, but remains inconsistent. Engaging with vendors and reassessing current workflows to capitalise on this strength is recommended."
+  },
+  {
+    "id": "R4",
+    "reference": "rec:raidTarget",
+    "section": "Inputs – Research Projects (RAiD)",
+    "category": "inputs",
+    "text": "The Research Community adopts a RAiD target that initially is roughly equivalent to the number of active grants. By quickly establishing a large number of RAiD records representing a large proportion of active research within Australia, service providers have an incentive to build functionality around these records."
+  },
+  {
+    "id": "R5",
+    "reference": "rec:persistentIdentifiersForGrants",
+    "section": "Inputs – Grants",
+    "category": "inputs",
+    "text": "As soon as is practical, Australian funders create persistent identifiers for Grants including complete metadata. Award metadata should include the amount funded, and uniquely identify researchers via their ORCIDs, and research affiliations via ROR."
+  },
+  {
+    "id": "R6",
+    "reference": "rec:RAiDstriggeredGrants",
+    "section": "Inputs – Grants",
+    "category": "inputs",
+    "text": "The creation of a grant should trigger the creation of a RAiD (or the association of an existing RAiD). Creating a RAiD as soon as a project has been funded means that research objects, people and other associated metadata can begin to be associated with it from day one."
+  },
+  {
+    "id": "R7",
+    "reference": "rec:FacilityReview",
+    "section": "Inputs – Facilities",
+    "category": "inputs",
+    "text": "Facilities confirm that they are represented in ROR."
+  },
+  {
+    "id": "R8",
+    "reference": "rec:increasedEngagement",
+    "section": "Inputs – Research Data",
+    "category": "inputs",
+    "text": "Research Community Data citation literacy is increased in order to meet levels of peer countries. Whilst Australia has data citation rates that compare well to the global average, many European countries as well as Great Britain have consistently higher engagement rates across most fields of research."
+  },
+  {
+    "id": "R9",
+    "reference": "rec:repoInstORCIDFirst",
+    "section": "Inputs – Research Data",
+    "category": "inputs",
+    "text": "Australian research institutions work with their repository vendors to ensure that their workflows are 'ORCID first' for all data types."
+  },
+  {
+    "id": "R10",
+    "reference": "rec:increasedIntegrationforIGSNs",
+    "section": "Inputs – Samples & Observations (IGSN)",
+    "category": "inputs",
+    "text": "The Australian Research Community determine new minimum standards for IGSN records. IGSN records should be more firmly integrated into the PID graph."
+  },
+  {
+    "id": "R11",
+    "reference": "rec:instrumentlinks",
+    "section": "Inputs – Instruments",
+    "category": "inputs",
+    "text": "Encourage links between instruments and the rest of the PID graph. As data and outputs are created from instruments, they should include a link to the instrument as standard."
+  },
+  {
+    "id": "R12",
+    "reference": "rec:instrumentlinksCitations",
+    "section": "Inputs – Instruments",
+    "category": "inputs",
+    "text": "Reinforce instrument citation examples as best practice. Following the best practice that has already been established, use of instruments when recorded in research should always cite their persistent identifier."
+  },
+  {
+    "id": "R13",
+    "reference": "rec:reportAwarenessCampaign",
+    "section": "Outputs – Reports",
+    "category": "outputs",
+    "text": "Encourage the practice of publishing reports in institution repositories. By volume, Australia is a global leader in supporting the publication of reports; however, the practice is not evenly distributed across all institutions."
+  },
+  {
+    "id": "R14",
+    "reference": "rec:contiueMonitoring",
+    "section": "Outputs – Reports (ORCID/ROR links)",
+    "category": "outputs",
+    "text": "Continue to increase the practice of linking reports to people and affiliations via ORCID and ROR. As a publisher of reports, institutions adopt the best practices of publishers to ensure that all authors are described by ORCIDs and affiliations via ROR. This may require additional coordination with repository vendors to ensure workflows can be supported."
+  },
+  {
+    "id": "R15",
+    "reference": "rec:guidlines",
+    "section": "Outputs – Methods / Protocols",
+    "category": "outputs",
+    "text": "Guidelines are created for the recording of protocols. Without clear guidelines on how to register protocols and methods, benchmarking will be haphazard."
+  },
+  {
+    "id": "R16",
+    "reference": "rec:dissertations",
+    "section": "Outputs – Dissertations",
+    "category": "outputs",
+    "text": "Australia considers national policy for publishing dissertations with DOIs in institutional repositories, formalising the use of ORCIDs for authors and their supervisors. Australian institutions are some of the largest publishers of dissertations with DOIs globally. The same expectations on the use of ORCID and ROR identifiers that the community expects of publishers should also apply to thesis deposit."
+  },
+  {
+    "id": "R17",
+    "reference": "rec:AnalysismustincludeClosedAccess",
+    "section": "Outputs – Publications (coverage)",
+    "category": "outputs",
+    "text": "Benchmarking Analysis of persistent identifiers should not ignore closed access material. For Australia, ignoring closed-access publications would result in missing 35% of Australia's output in 2024."
+  },
+  {
+    "id": "R18",
+    "reference": "rec:conferenceOutreach",
+    "section": "Outputs – Conference Proceedings",
+    "category": "outputs",
+    "text": "ARDC begins outreach to strategic conferences to understand what support is required to ensure that all conference proceedings have a persistent identifier."
+  },
+  {
+    "id": "R19",
+    "reference": "rec:orcidFunder",
+    "section": "ORCID",
+    "category": "orcid",
+    "text": "ORCID adoption for Australian researchers has progressed sufficiently far to make requiring authenticated ORCIDs mandatory. Requiring ORCID ids on grants ensures that grant records can be created that can be integrated into the Australian persistent identifier landscape, facilitating the downstream creation of RAiD records, and making funding information easier to integrate both into Research Information Management systems as well as ORCID itself."
+  },
+  {
+    "id": "R20",
+    "reference": "rec:InternationalPressure",
+    "section": "ORCID – International Advocacy",
+    "category": "orcid",
+    "text": "Australia joins international pressure to ensure that all publishers both record ORCID records and push the associated metadata into Crossref. Publishers that do not support ORCID workflows (including the passing of metadata through to Crossref) should not be recommended venues for publication."
+  },
+  {
+    "id": "R21",
+    "reference": "rec:ResearcherORCIDAlways",
+    "section": "ORCID – Researcher Practice",
+    "category": "orcid",
+    "text": "All Australian researchers are required to ensure that their ORCID is part of the metadata of their publication. Regardless of whether or not an Australian researcher is the corresponding author, it should be the default that ORCID records are always supplied."
+  },
+  {
+    "id": "R22",
+    "reference": "rec:integrationOutreach",
+    "section": "ORCID – System Integration",
+    "category": "orcid",
+    "text": "Australian researchers are encouraged to turn on both Crossref and Datacite integrations to ensure that the population of ORCID records is as automatic as possible."
+  },
+  {
+    "id": "R23",
+    "reference": "rec:InstitutionORCIDAdoption",
+    "section": "ORCID – Institutional Policy",
+    "category": "orcid",
+    "text": "Australian Institutions require ORCID registration within their institutional research information management systems. To get the most out of ORCID (for individuals as well as institutions), ORCIDs need to be linked through to Research Information Systems with the authority to push the research objects collected back to ORCID. In the ideal situation, ORCID ids recorded during publication end up being triple verified: at source by the publisher, endorsed by the researchers, and verified by the institutions - all without additional manual effort."
+  }
+]

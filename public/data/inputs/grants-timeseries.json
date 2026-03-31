@@ -1,0 +1,122 @@
+[
+  {
+    "year": 2010,
+    "publications": 42059,
+    "pct_grant_id": 8.72,
+    "pct_funder_id": 27.47,
+    "pct_funder_doi_crossref": 1.61,
+    "pct_grant_award_crossref": 0.61
+  },
+  {
+    "year": 2011,
+    "publications": 46575,
+    "pct_grant_id": 9.93,
+    "pct_funder_id": 29.34,
+    "pct_funder_doi_crossref": 1.99,
+    "pct_grant_award_crossref": 0.69
+  },
+  {
+    "year": 2012,
+    "publications": 50062,
+    "pct_grant_id": 11.41,
+    "pct_funder_id": 30.29,
+    "pct_funder_doi_crossref": 2.24,
+    "pct_grant_award_crossref": 0.92
+  },
+  {
+    "year": 2013,
+    "publications": 56640,
+    "pct_grant_id": 12.63,
+    "pct_funder_id": 31.04,
+    "pct_funder_doi_crossref": 2.94,
+    "pct_grant_award_crossref": 1.15
+  },
+  {
+    "year": 2014,
+    "publications": 59565,
+    "pct_grant_id": 14.55,
+    "pct_funder_id": 32.48,
+    "pct_funder_doi_crossref": 7.57,
+    "pct_grant_award_crossref": 4.35
+  },
+  {
+    "year": 2015,
+    "publications": 63439,
+    "pct_grant_id": 16.75,
+    "pct_funder_id": 34.64,
+    "pct_funder_doi_crossref": 13.91,
+    "pct_grant_award_crossref": 8.46
+  },
+  {
+    "year": 2016,
+    "publications": 66971,
+    "pct_grant_id": 17.86,
+    "pct_funder_id": 35.45,
+    "pct_funder_doi_crossref": 18.69,
+    "pct_grant_award_crossref": 12.37
+  },
+  {
+    "year": 2017,
+    "publications": 69499,
+    "pct_grant_id": 18.88,
+    "pct_funder_id": 35.69,
+    "pct_funder_doi_crossref": 20.39,
+    "pct_grant_award_crossref": 14.11
+  },
+  {
+    "year": 2018,
+    "publications": 72582,
+    "pct_grant_id": 19.64,
+    "pct_funder_id": 36.57,
+    "pct_funder_doi_crossref": 22.02,
+    "pct_grant_award_crossref": 15.53
+  },
+  {
+    "year": 2019,
+    "publications": 77250,
+    "pct_grant_id": 19.54,
+    "pct_funder_id": 36.01,
+    "pct_funder_doi_crossref": 22.07,
+    "pct_grant_award_crossref": 15.18
+  },
+  {
+    "year": 2020,
+    "publications": 85357,
+    "pct_grant_id": 19.1,
+    "pct_funder_id": 35.98,
+    "pct_funder_doi_crossref": 22.09,
+    "pct_grant_award_crossref": 14.45
+  },
+  {
+    "year": 2021,
+    "publications": 88973,
+    "pct_grant_id": 18.95,
+    "pct_funder_id": 35.14,
+    "pct_funder_doi_crossref": 21.33,
+    "pct_grant_award_crossref": 13.09
+  },
+  {
+    "year": 2022,
+    "publications": 83717,
+    "pct_grant_id": 18.7,
+    "pct_funder_id": 35.45,
+    "pct_funder_doi_crossref": 20.6,
+    "pct_grant_award_crossref": 12.83
+  },
+  {
+    "year": 2023,
+    "publications": 78722,
+    "pct_grant_id": 18.32,
+    "pct_funder_id": 34.81,
+    "pct_funder_doi_crossref": 20.45,
+    "pct_grant_award_crossref": 12.74
+  },
+  {
+    "year": 2024,
+    "publications": 81798,
+    "pct_grant_id": 17.74,
+    "pct_funder_id": 34.19,
+    "pct_funder_doi_crossref": 21.09,
+    "pct_grant_award_crossref": 12.24
+  }
+]

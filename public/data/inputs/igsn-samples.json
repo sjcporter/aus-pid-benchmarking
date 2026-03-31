@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2024,
+    "all_samples": 282605,
+    "australian_samples": 17557,
+    "percentage": 6.21
+  },
+  {
+    "year": 2023,
+    "all_samples": 1454008,
+    "australian_samples": 1256212,
+    "percentage": 86.4
+  },
+  {
+    "year": 2022,
+    "all_samples": 232107,
+    "australian_samples": 74369,
+    "percentage": 32.04
+  },
+  {
+    "year": 2021,
+    "all_samples": 1169861,
+    "australian_samples": 1013148,
+    "percentage": 86.6
+  },
+  {
+    "year": 2020,
+    "all_samples": 1719387,
+    "australian_samples": 1524449,
+    "percentage": 88.66
+  },
+  {
+    "year": 2019,
+    "all_samples": 111618,
+    "australian_samples": 23666,
+    "percentage": 21.2
+  },
+  {
+    "year": 2018,
+    "all_samples": 127352,
+    "australian_samples": 54851,
+    "percentage": 43.07
+  },
+  {
+    "year": 2017,
+    "all_samples": 181711,
+    "australian_samples": 78302,
+    "percentage": 43.09
+  },
+  {
+    "year": 2016,
+    "all_samples": 313513,
+    "australian_samples": 153009,
+    "percentage": 48.8
+  },
+  {
+    "year": 2015,
+    "all_samples": 2009844,
+    "australian_samples": 1619388,
+    "percentage": 80.57
+  }
+]

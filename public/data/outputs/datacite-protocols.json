@@ -1,0 +1,602 @@
+[
+  {
+    "repository": "figshare Academic Research System",
+    "resource_type": "Text",
+    "resource_subtype": "Journal contribution",
+    "works": 17611
+  },
+  {
+    "repository": "figshare Academic Research System",
+    "resource_type": "Collection",
+    "resource_subtype": "Collection",
+    "works": 8246
+  },
+  {
+    "repository": "Open Science Framework",
+    "resource_type": "StudyRegistration",
+    "resource_subtype": "Pre-registration",
+    "works": 6272
+  },
+  {
+    "repository": "Open Science Framework",
+    "resource_type": "Text",
+    "resource_subtype": "Project",
+    "works": 3713
+  },
+  {
+    "repository": "Greater South Information System",
+    "resource_type": "Text",
+    "resource_subtype": "",
+    "works": 2750
+  },
+  {
+    "repository": "Open Science Framework",
+    "resource_type": "Text",
+    "resource_subtype": "Pre-registration",
+    "works": 2531
+  },
+  {
+    "repository": "Faculty of 1000 Research Ltd",
+    "resource_type": "Text",
+    "resource_subtype": null,
+    "works": 2331
+  },
+  {
+    "repository": "figshare Academic Research System",
+    "resource_type": "Dataset",
+    "resource_subtype": "Dataset",
+    "works": 1875
+  },
+  {
+    "repository": "arXiv",
+    "resource_type": "Preprint",
+    "resource_subtype": "Article",
+    "works": 1279
+  },
+  {
+    "repository": "Sage Journals Data",
+    "resource_type": "Text",
+    "resource_subtype": "Journal contribution",
+    "works": 1078
+  },
+  {
+    "repository": "figshare Academic Research System",
+    "resource_type": "Other",
+    "resource_subtype": "Online resource",
+    "works": 827
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "JournalArticle",
+    "resource_subtype": null,
+    "works": 707
+  },
+  {
+    "repository": "Sage Journals Data",
+    "resource_type": "Collection",
+    "resource_subtype": "Collection",
+    "works": 633
+  },
+  {
+    "repository": "Global Biodiversity Information Facility",
+    "resource_type": "Dataset",
+    "resource_subtype": "OCCURRENCE",
+    "works": 543
+  },
+  {
+    "repository": "arXiv",
+    "resource_type": "Text",
+    "resource_subtype": "Article",
+    "works": 529
+  },
+  {
+    "repository": "figshare Academic Research System",
+    "resource_type": "Image",
+    "resource_subtype": "Figure",
+    "works": 514
+  },
+  {
+    "repository": "figshare Academic Research System",
+    "resource_type": "Text",
+    "resource_subtype": "Preprint",
+    "works": 495
+  },
+  {
+    "repository": "La Trobe University",
+    "resource_type": "Text",
+    "resource_subtype": "Journal contribution",
+    "works": 485
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "JournalArticle",
+    "resource_subtype": "",
+    "works": 472
+  },
+  {
+    "repository": "Mendeley Data",
+    "resource_type": "Dataset",
+    "resource_subtype": "Dataset",
+    "works": 420
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Other",
+    "resource_subtype": null,
+    "works": 390
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Software",
+    "resource_subtype": null,
+    "works": 385
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Text",
+    "resource_subtype": "Project deliverable",
+    "works": 373
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Dataset",
+    "resource_subtype": null,
+    "works": 348
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Dataset",
+    "resource_subtype": "",
+    "works": 336
+  },
+  {
+    "repository": "Apollo",
+    "resource_type": "JournalArticle",
+    "resource_subtype": "Article",
+    "works": 325
+  },
+  {
+    "repository": "Universit\u00e4t Z\u00fcrich, ZORA",
+    "resource_type": "Text",
+    "resource_subtype": null,
+    "works": 300
+  },
+  {
+    "repository": "Harvard Dataverse",
+    "resource_type": "Dataset",
+    "resource_subtype": null,
+    "works": 294
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Text",
+    "resource_subtype": "Journal article",
+    "works": 279
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Software",
+    "resource_subtype": "",
+    "works": 275
+  },
+  {
+    "repository": "ResearchGate",
+    "resource_type": "Text",
+    "resource_subtype": "Poster",
+    "works": 274
+  },
+  {
+    "repository": "UC San Diego",
+    "resource_type": "Dataset",
+    "resource_subtype": "Mass Spectrometry",
+    "works": 254
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Text",
+    "resource_subtype": "Other",
+    "works": 253
+  },
+  {
+    "repository": "Open Access CRIS of the University of Bern",
+    "resource_type": "JournalArticle",
+    "resource_subtype": "Text",
+    "works": 232
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Other",
+    "resource_subtype": "",
+    "works": 223
+  },
+  {
+    "repository": "Open Science Framework",
+    "resource_type": "Text",
+    "resource_subtype": "RegistrationComponent",
+    "works": 213
+  },
+  {
+    "repository": "ResearchGate",
+    "resource_type": "Text",
+    "resource_subtype": "Preprint",
+    "works": 204
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Text",
+    "resource_subtype": "Proposal",
+    "works": 194
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Text",
+    "resource_subtype": "",
+    "works": 184
+  },
+  {
+    "repository": "ResearchGate",
+    "resource_type": "Text",
+    "resource_subtype": "Research Proposal",
+    "works": 177
+  },
+  {
+    "repository": "ResearchGate",
+    "resource_type": "Text",
+    "resource_subtype": "Method",
+    "works": 161
+  },
+  {
+    "repository": "Swinburne University of Technology",
+    "resource_type": "Text",
+    "resource_subtype": "Journal contribution",
+    "works": 137
+  },
+  {
+    "repository": "European Society of Radiology",
+    "resource_type": "Text",
+    "resource_subtype": "Conference Poster",
+    "works": 137
+  },
+  {
+    "repository": "Apollo",
+    "resource_type": "Text",
+    "resource_subtype": "Article",
+    "works": 136
+  },
+  {
+    "repository": "figshare Academic Research System",
+    "resource_type": "Text",
+    "resource_subtype": "Thesis",
+    "works": 134
+  },
+  {
+    "repository": "ResearchGate",
+    "resource_type": "Text",
+    "resource_subtype": "Technical Report",
+    "works": 131
+  },
+  {
+    "repository": "Open Collections",
+    "resource_type": "Text",
+    "resource_subtype": "Text",
+    "works": 126
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Report",
+    "resource_subtype": "",
+    "works": 119
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Text",
+    "resource_subtype": "Technical note",
+    "works": 116
+  },
+  {
+    "repository": "ResearchGate",
+    "resource_type": "Text",
+    "resource_subtype": "Presentation",
+    "works": 110
+  },
+  {
+    "repository": "Open Science Framework",
+    "resource_type": "Text",
+    "resource_subtype": "ProjectComponent",
+    "works": 105
+  },
+  {
+    "repository": "Open Access CRIS of the University of Bern",
+    "resource_type": "Text",
+    "resource_subtype": "journal article",
+    "works": 105
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Text",
+    "resource_subtype": "Presentation",
+    "works": 103
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Text",
+    "resource_subtype": "Working paper",
+    "works": 101
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Text",
+    "resource_subtype": "Poster",
+    "works": 92
+  },
+  {
+    "repository": "figshare Academic Research System",
+    "resource_type": "Audiovisual",
+    "resource_subtype": "Media",
+    "works": 91
+  },
+  {
+    "repository": "Universit\u00e4tsbibliothek der FU Berlin Hochschulschriftenstelle u. Dokumentenserver",
+    "resource_type": "Text",
+    "resource_subtype": "Wissenschaftlicher Artikel",
+    "works": 91
+  },
+  {
+    "repository": "ETH Z\u00fcrich Research Collection",
+    "resource_type": "Text",
+    "resource_subtype": "Journal Article",
+    "works": 88
+  },
+  {
+    "repository": "edoc - University Library of Basel",
+    "resource_type": "Text",
+    "resource_subtype": null,
+    "works": 88
+  },
+  {
+    "repository": "University of Calgary",
+    "resource_type": "Other",
+    "resource_subtype": "Journal Article",
+    "works": 86
+  },
+  {
+    "repository": "figshare Academic Research System",
+    "resource_type": "Audiovisual",
+    "resource_subtype": "Presentation",
+    "works": 86
+  },
+  {
+    "repository": "UNC Libraries",
+    "resource_type": "Text",
+    "resource_subtype": "Article",
+    "works": 84
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Report",
+    "resource_subtype": null,
+    "works": 80
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Image",
+    "resource_subtype": "Figure",
+    "works": 79
+  },
+  {
+    "repository": "ResearchGate",
+    "resource_type": "Text",
+    "resource_subtype": "Thesis",
+    "works": 76
+  },
+  {
+    "repository": "ResearchGate",
+    "resource_type": "Text",
+    "resource_subtype": "Other",
+    "works": 74
+  },
+  {
+    "repository": "University of Limerick Institutional Repository",
+    "resource_type": "Text",
+    "resource_subtype": "Journal contribution",
+    "works": 74
+  },
+  {
+    "repository": "OpenEdition Center",
+    "resource_type": "Text",
+    "resource_subtype": "post",
+    "works": 73
+  },
+  {
+    "repository": "ORDA - The University of Sheffield Research Data Catalogue and Repository",
+    "resource_type": "Other",
+    "resource_subtype": "Workflow",
+    "works": 71
+  },
+  {
+    "repository": "Proceed",
+    "resource_type": "Report",
+    "resource_subtype": "Proceed Protocol",
+    "works": 71
+  },
+  {
+    "repository": "RWTH Publications",
+    "resource_type": "Text",
+    "resource_subtype": "Journal article",
+    "works": 70
+  },
+  {
+    "repository": "Open Science Framework",
+    "resource_type": "Other",
+    "resource_subtype": "Pre-registration",
+    "works": 68
+  },
+  {
+    "repository": "figshare Academic Research System",
+    "resource_type": "Text",
+    "resource_subtype": "Book",
+    "works": 65
+  },
+  {
+    "repository": "Dagstuhl Research Online Publication Server",
+    "resource_type": "ConferencePaper",
+    "resource_subtype": null,
+    "works": 62
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "ConferencePaper",
+    "resource_subtype": null,
+    "works": 61
+  },
+  {
+    "repository": "DANS Data Stations",
+    "resource_type": "Dataset",
+    "resource_subtype": null,
+    "works": 59
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "ConferencePaper",
+    "resource_subtype": "",
+    "works": 58
+  },
+  {
+    "repository": "CISPA Helmholtz Center",
+    "resource_type": "Other",
+    "resource_subtype": "Conference contribution",
+    "works": 57
+  },
+  {
+    "repository": "Columbia University Libraries",
+    "resource_type": "Text",
+    "resource_subtype": null,
+    "works": 56
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Preprint",
+    "resource_subtype": "",
+    "works": 55
+  },
+  {
+    "repository": "University of Michigan Library",
+    "resource_type": null,
+    "resource_subtype": null,
+    "works": 54
+  },
+  {
+    "repository": "Sage Journals Data",
+    "resource_type": "Image",
+    "resource_subtype": "Figure",
+    "works": 54
+  },
+  {
+    "repository": "Future Science Group",
+    "resource_type": "Image",
+    "resource_subtype": "Figure",
+    "works": 53
+  },
+  {
+    "repository": "Galter Health Sciences Library, Northwestern University",
+    "resource_type": "Text",
+    "resource_subtype": "Protocol",
+    "works": 51
+  },
+  {
+    "repository": "Universit\u00e4t Ulm, Kommunikations- und Informationszentrum (kiz)",
+    "resource_type": "Other",
+    "resource_subtype": "Wissenschaftlicher Artikel",
+    "works": 50
+  },
+  {
+    "repository": "Monash University",
+    "resource_type": "Text",
+    "resource_subtype": "Thesis",
+    "works": 50
+  },
+  {
+    "repository": "Underline Science Inc.",
+    "resource_type": "Audiovisual",
+    "resource_subtype": "Conference talk",
+    "works": 48
+  },
+  {
+    "repository": "Faculty of 1000 Research Ltd",
+    "resource_type": "PeerReview",
+    "resource_subtype": null,
+    "works": 46
+  },
+  {
+    "repository": "University of Southern California Digital Library",
+    "resource_type": "Dataset",
+    "resource_subtype": "Dataset",
+    "works": 46
+  },
+  {
+    "repository": "Open Science Framework",
+    "resource_type": "JournalArticle",
+    "resource_subtype": "Pre-registration",
+    "works": 46
+  },
+  {
+    "repository": "figshare Academic Research System",
+    "resource_type": "Software",
+    "resource_subtype": "Software",
+    "works": 44
+  },
+  {
+    "repository": "Universit\u00e4ts- und Landesbibliothek Sachsen-Anhalt",
+    "resource_type": "Text",
+    "resource_subtype": "Article",
+    "works": 43
+  },
+  {
+    "repository": "FAIRsharing.org",
+    "resource_type": "Dataset",
+    "resource_subtype": null,
+    "works": 42
+  },
+  {
+    "repository": "Open Science Framework",
+    "resource_type": "Other",
+    "resource_subtype": "Project",
+    "works": 40
+  },
+  {
+    "repository": "DANS Data Stations",
+    "resource_type": "Dataset",
+    "resource_subtype": "Dataset",
+    "works": 39
+  },
+  {
+    "repository": "Figshare for Institutions",
+    "resource_type": "Other",
+    "resource_subtype": "Online resource",
+    "works": 38
+  },
+  {
+    "repository": "International Council for the Exploration of the Sea (ICES)",
+    "resource_type": "Other",
+    "resource_subtype": "Report",
+    "works": 38
+  },
+  {
+    "repository": "Recherche Data Gouv France",
+    "resource_type": "Dataset",
+    "resource_subtype": null,
+    "works": 38
+  },
+  {
+    "repository": "Centre de coop\u00e9ration internationale en recherche agronomique pour le d\u00e9veloppement",
+    "resource_type": "Text",
+    "resource_subtype": "Report",
+    "works": 38
+  },
+  {
+    "repository": "Zenodo",
+    "resource_type": "Workflow",
+    "resource_subtype": "",
+    "works": 38
+  }
+]

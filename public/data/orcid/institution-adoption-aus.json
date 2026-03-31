@@ -1,0 +1,1772 @@
+[
+  {
+    "entity": "Blacktown & Mount Druitt Hospital",
+    "institution": "Blacktown & Mount Druitt Hospital",
+    "grid_id": "grid.460687.b",
+    "country": "Australia",
+    "research_pool": 78,
+    "orcid_researchers": 26,
+    "percentage_orcid": 33.33,
+    "orcid_completeness": 20.64
+  },
+  {
+    "entity": "Camden and Campbelltown Hospitals",
+    "institution": "Camden and Campbelltown Hospitals",
+    "grid_id": "grid.460708.d",
+    "country": "Australia",
+    "research_pool": 61,
+    "orcid_researchers": 26,
+    "percentage_orcid": 42.62,
+    "orcid_completeness": 23.95
+  },
+  {
+    "entity": "Westmead Institute for Medical Research",
+    "institution": "Westmead Institute for Medical Research",
+    "grid_id": "grid.452919.2",
+    "country": "Australia",
+    "research_pool": 63,
+    "orcid_researchers": 29,
+    "percentage_orcid": 46.03,
+    "orcid_completeness": 26.13
+  },
+  {
+    "entity": "Victorian Infectious Diseases Reference Laboratory",
+    "institution": "Victorian Infectious Diseases Reference Laboratory",
+    "grid_id": "grid.433799.3",
+    "country": "Australia",
+    "research_pool": 65,
+    "orcid_researchers": 29,
+    "percentage_orcid": 44.62,
+    "orcid_completeness": 26.84
+  },
+  {
+    "entity": "SA Health",
+    "institution": "SA Health",
+    "grid_id": "grid.467022.5",
+    "country": "Australia",
+    "research_pool": 75,
+    "orcid_researchers": 33,
+    "percentage_orcid": 44.0,
+    "orcid_completeness": 27.75
+  },
+  {
+    "entity": "Gosford Hospital",
+    "institution": "Gosford Hospital",
+    "grid_id": "grid.413206.2",
+    "country": "Australia",
+    "research_pool": 62,
+    "orcid_researchers": 26,
+    "percentage_orcid": 41.94,
+    "orcid_completeness": 28.41
+  },
+  {
+    "entity": "St Vincent's Hospital Sydney",
+    "institution": "St Vincent's Hospital Sydney",
+    "grid_id": "grid.437825.f",
+    "country": "Australia",
+    "research_pool": 327,
+    "orcid_researchers": 153,
+    "percentage_orcid": 46.79,
+    "orcid_completeness": 29.0
+  },
+  {
+    "entity": "The Alfred Hospital",
+    "institution": "The Alfred Hospital",
+    "grid_id": "grid.1623.6",
+    "country": "Australia",
+    "research_pool": 258,
+    "orcid_researchers": 126,
+    "percentage_orcid": 48.84,
+    "orcid_completeness": 29.21
+  },
+  {
+    "entity": "Barwon Health",
+    "institution": "Barwon Health",
+    "grid_id": "grid.414257.1",
+    "country": "Australia",
+    "research_pool": 98,
+    "orcid_researchers": 53,
+    "percentage_orcid": 54.08,
+    "orcid_completeness": 29.43
+  },
+  {
+    "entity": "CSL Ltd",
+    "institution": "CSL Ltd",
+    "grid_id": "grid.1135.6",
+    "country": "Australia",
+    "research_pool": 68,
+    "orcid_researchers": 23,
+    "percentage_orcid": 33.82,
+    "orcid_completeness": 29.6
+  },
+  {
+    "entity": "Logan Hospital",
+    "institution": "Logan Hospital",
+    "grid_id": "grid.460757.7",
+    "country": "Australia",
+    "research_pool": 52,
+    "orcid_researchers": 23,
+    "percentage_orcid": 44.23,
+    "orcid_completeness": 29.71
+  },
+  {
+    "entity": "Royal Prince Alfred Hospital",
+    "institution": "Royal Prince Alfred Hospital",
+    "grid_id": "grid.413249.9",
+    "country": "Australia",
+    "research_pool": 503,
+    "orcid_researchers": 242,
+    "percentage_orcid": 48.11,
+    "orcid_completeness": 29.83
+  },
+  {
+    "entity": "Nepean Hospital",
+    "institution": "Nepean Hospital",
+    "grid_id": "grid.413243.3",
+    "country": "Australia",
+    "research_pool": 173,
+    "orcid_researchers": 91,
+    "percentage_orcid": 52.6,
+    "orcid_completeness": 30.25
+  },
+  {
+    "entity": "Royal Hobart Hospital",
+    "institution": "Royal Hobart Hospital",
+    "grid_id": "grid.416131.0",
+    "country": "Australia",
+    "research_pool": 121,
+    "orcid_researchers": 40,
+    "percentage_orcid": 33.06,
+    "orcid_completeness": 30.3
+  },
+  {
+    "entity": "Chris O\u2019Brien Lifehouse",
+    "institution": "Chris O\u2019Brien Lifehouse",
+    "grid_id": "grid.419783.0",
+    "country": "Australia",
+    "research_pool": 104,
+    "orcid_researchers": 76,
+    "percentage_orcid": 73.08,
+    "orcid_completeness": 30.49
+  },
+  {
+    "entity": "Westmead Hospital",
+    "institution": "Westmead Hospital",
+    "grid_id": "grid.413252.3",
+    "country": "Australia",
+    "research_pool": 500,
+    "orcid_researchers": 260,
+    "percentage_orcid": 52.0,
+    "orcid_completeness": 31.62
+  },
+  {
+    "entity": "Douglass Hanly Moir Pathology",
+    "institution": "Douglass Hanly Moir Pathology",
+    "grid_id": "grid.410690.a",
+    "country": "Australia",
+    "research_pool": 52,
+    "orcid_researchers": 18,
+    "percentage_orcid": 34.62,
+    "orcid_completeness": 31.73
+  },
+  {
+    "entity": "Royal Women's Hospital",
+    "institution": "Royal Women's Hospital",
+    "grid_id": "grid.416259.d",
+    "country": "Australia",
+    "research_pool": 136,
+    "orcid_researchers": 68,
+    "percentage_orcid": 50.0,
+    "orcid_completeness": 31.89
+  },
+  {
+    "entity": "Prince of Wales Hospital",
+    "institution": "Prince of Wales Hospital",
+    "grid_id": "grid.415193.b",
+    "country": "Australia",
+    "research_pool": 248,
+    "orcid_researchers": 110,
+    "percentage_orcid": 44.35,
+    "orcid_completeness": 31.98
+  },
+  {
+    "entity": "Royal Adelaide Hospital",
+    "institution": "Royal Adelaide Hospital",
+    "grid_id": "grid.416075.1",
+    "country": "Australia",
+    "research_pool": 426,
+    "orcid_researchers": 199,
+    "percentage_orcid": 46.71,
+    "orcid_completeness": 32.34
+  },
+  {
+    "entity": "St Vincent's Hospital",
+    "institution": "St Vincent's Hospital",
+    "grid_id": "grid.413105.2",
+    "country": "Australia",
+    "research_pool": 437,
+    "orcid_researchers": 220,
+    "percentage_orcid": 50.34,
+    "orcid_completeness": 32.89
+  },
+  {
+    "entity": "Calvary Mater Newcastle Hospital",
+    "institution": "Calvary Mater Newcastle Hospital",
+    "grid_id": "grid.413265.7",
+    "country": "Australia",
+    "research_pool": 51,
+    "orcid_researchers": 21,
+    "percentage_orcid": 41.18,
+    "orcid_completeness": 33.01
+  },
+  {
+    "entity": "John Hunter Hospital",
+    "institution": "John Hunter Hospital",
+    "grid_id": "grid.414724.0",
+    "country": "Australia",
+    "research_pool": 256,
+    "orcid_researchers": 116,
+    "percentage_orcid": 45.31,
+    "orcid_completeness": 33.03
+  },
+  {
+    "entity": "Austin Health",
+    "institution": "Austin Health",
+    "grid_id": "grid.410678.c",
+    "country": "Australia",
+    "research_pool": 533,
+    "orcid_researchers": 298,
+    "percentage_orcid": 55.91,
+    "orcid_completeness": 33.78
+  },
+  {
+    "entity": "Peter MacCallum Cancer Centre",
+    "institution": "Peter MacCallum Cancer Centre",
+    "grid_id": "grid.1055.1",
+    "country": "Australia",
+    "research_pool": 610,
+    "orcid_researchers": 356,
+    "percentage_orcid": 58.36,
+    "orcid_completeness": 34.28
+  },
+  {
+    "entity": "Queen Elizabeth Hospital",
+    "institution": "Queen Elizabeth Hospital",
+    "grid_id": "grid.278859.9",
+    "country": "Australia",
+    "research_pool": 110,
+    "orcid_researchers": 62,
+    "percentage_orcid": 56.36,
+    "orcid_completeness": 34.29
+  },
+  {
+    "entity": "AgriBio",
+    "institution": "AgriBio",
+    "grid_id": "grid.452283.a",
+    "country": "Australia",
+    "research_pool": 54,
+    "orcid_researchers": 31,
+    "percentage_orcid": 57.41,
+    "orcid_completeness": 34.51
+  },
+  {
+    "entity": "Prince Charles Hospital",
+    "institution": "Prince Charles Hospital",
+    "grid_id": "grid.415184.d",
+    "country": "Australia",
+    "research_pool": 235,
+    "orcid_researchers": 101,
+    "percentage_orcid": 42.98,
+    "orcid_completeness": 34.82
+  },
+  {
+    "entity": "New South Wales Department of Health",
+    "institution": "New South Wales Department of Health",
+    "grid_id": "grid.416088.3",
+    "country": "Australia",
+    "research_pool": 127,
+    "orcid_researchers": 46,
+    "percentage_orcid": 36.22,
+    "orcid_completeness": 35.01
+  },
+  {
+    "entity": "The Royal Victorian Eye & Ear Hospital",
+    "institution": "The Royal Victorian Eye & Ear Hospital",
+    "grid_id": "grid.410670.4",
+    "country": "Australia",
+    "research_pool": 73,
+    "orcid_researchers": 45,
+    "percentage_orcid": 61.64,
+    "orcid_completeness": 35.04
+  },
+  {
+    "entity": "Royal Darwin Hospital",
+    "institution": "Royal Darwin Hospital",
+    "grid_id": "grid.240634.7",
+    "country": "Australia",
+    "research_pool": 97,
+    "orcid_researchers": 47,
+    "percentage_orcid": 48.45,
+    "orcid_completeness": 35.16
+  },
+  {
+    "entity": "Liverpool Hospital",
+    "institution": "Liverpool Hospital",
+    "grid_id": "grid.415994.4",
+    "country": "Australia",
+    "research_pool": 266,
+    "orcid_researchers": 122,
+    "percentage_orcid": 45.86,
+    "orcid_completeness": 36.13
+  },
+  {
+    "entity": "Epworth Hospital",
+    "institution": "Epworth Hospital",
+    "grid_id": "grid.414539.e",
+    "country": "Australia",
+    "research_pool": 56,
+    "orcid_researchers": 25,
+    "percentage_orcid": 44.64,
+    "orcid_completeness": 36.36
+  },
+  {
+    "entity": "Princess Alexandra Hospital",
+    "institution": "Princess Alexandra Hospital",
+    "grid_id": "grid.412744.0",
+    "country": "Australia",
+    "research_pool": 434,
+    "orcid_researchers": 218,
+    "percentage_orcid": 50.23,
+    "orcid_completeness": 36.52
+  },
+  {
+    "entity": "Austin Hospital",
+    "institution": "Austin Hospital",
+    "grid_id": "grid.414094.c",
+    "country": "Australia",
+    "research_pool": 100,
+    "orcid_researchers": 43,
+    "percentage_orcid": 43.0,
+    "orcid_completeness": 36.62
+  },
+  {
+    "entity": "Eastern Health",
+    "institution": "Eastern Health",
+    "grid_id": "grid.414366.2",
+    "country": "Australia",
+    "research_pool": 185,
+    "orcid_researchers": 98,
+    "percentage_orcid": 52.97,
+    "orcid_completeness": 36.69
+  },
+  {
+    "entity": "Royal North Shore Hospital",
+    "institution": "Royal North Shore Hospital",
+    "grid_id": "grid.412703.3",
+    "country": "Australia",
+    "research_pool": 505,
+    "orcid_researchers": 228,
+    "percentage_orcid": 45.15,
+    "orcid_completeness": 36.7
+  },
+  {
+    "entity": "Royal Melbourne Hospital",
+    "institution": "Royal Melbourne Hospital",
+    "grid_id": "grid.416153.4",
+    "country": "Australia",
+    "research_pool": 613,
+    "orcid_researchers": 362,
+    "percentage_orcid": 59.05,
+    "orcid_completeness": 36.9
+  },
+  {
+    "entity": "Geelong Hospital",
+    "institution": "Geelong Hospital",
+    "grid_id": "grid.415335.5",
+    "country": "Australia",
+    "research_pool": 61,
+    "orcid_researchers": 25,
+    "percentage_orcid": 40.98,
+    "orcid_completeness": 37.07
+  },
+  {
+    "entity": "Centre for Eye Research Australia",
+    "institution": "Centre for Eye Research Australia",
+    "grid_id": "grid.418002.f",
+    "country": "Australia",
+    "research_pool": 73,
+    "orcid_researchers": 52,
+    "percentage_orcid": 71.23,
+    "orcid_completeness": 37.09
+  },
+  {
+    "entity": "Westmead Institute",
+    "institution": "Westmead Institute",
+    "grid_id": "grid.476921.f",
+    "country": "Australia",
+    "research_pool": 69,
+    "orcid_researchers": 33,
+    "percentage_orcid": 47.83,
+    "orcid_completeness": 37.43
+  },
+  {
+    "entity": "Wollongong Hospital",
+    "institution": "Wollongong Hospital",
+    "grid_id": "grid.417154.2",
+    "country": "Australia",
+    "research_pool": 85,
+    "orcid_researchers": 34,
+    "percentage_orcid": 40.0,
+    "orcid_completeness": 37.64
+  },
+  {
+    "entity": "Sydney Children's Hospital",
+    "institution": "Sydney Children's Hospital",
+    "grid_id": "grid.414009.8",
+    "country": "Australia",
+    "research_pool": 144,
+    "orcid_researchers": 73,
+    "percentage_orcid": 50.69,
+    "orcid_completeness": 37.64
+  },
+  {
+    "entity": "St George Hospital",
+    "institution": "St George Hospital",
+    "grid_id": "grid.416398.1",
+    "country": "Australia",
+    "research_pool": 212,
+    "orcid_researchers": 112,
+    "percentage_orcid": 52.83,
+    "orcid_completeness": 37.7
+  },
+  {
+    "entity": "Western Health",
+    "institution": "Western Health",
+    "grid_id": "grid.417072.7",
+    "country": "Australia",
+    "research_pool": 195,
+    "orcid_researchers": 103,
+    "percentage_orcid": 52.82,
+    "orcid_completeness": 37.71
+  },
+  {
+    "entity": "Alfred Health",
+    "institution": "Alfred Health",
+    "grid_id": "grid.267362.4",
+    "country": "Australia",
+    "research_pool": 290,
+    "orcid_researchers": 169,
+    "percentage_orcid": 58.28,
+    "orcid_completeness": 37.72
+  },
+  {
+    "entity": "Ingham Institute",
+    "institution": "Ingham Institute",
+    "grid_id": "grid.429098.e",
+    "country": "Australia",
+    "research_pool": 67,
+    "orcid_researchers": 43,
+    "percentage_orcid": 64.18,
+    "orcid_completeness": 37.74
+  },
+  {
+    "entity": "National Measurement Institute",
+    "institution": "National Measurement Institute",
+    "grid_id": "grid.418177.c",
+    "country": "Australia",
+    "research_pool": 59,
+    "orcid_researchers": 24,
+    "percentage_orcid": 40.68,
+    "orcid_completeness": 37.76
+  },
+  {
+    "entity": "Fiona Stanley Hospital",
+    "institution": "Fiona Stanley Hospital",
+    "grid_id": "grid.459958.c",
+    "country": "Australia",
+    "research_pool": 313,
+    "orcid_researchers": 154,
+    "percentage_orcid": 49.2,
+    "orcid_completeness": 37.85
+  },
+  {
+    "entity": "Defence Science and Technology Group",
+    "institution": "Defence Science and Technology Group",
+    "grid_id": "grid.431245.5",
+    "country": "Australia",
+    "research_pool": 297,
+    "orcid_researchers": 145,
+    "percentage_orcid": 48.82,
+    "orcid_completeness": 37.86
+  },
+  {
+    "entity": "Royal Brisbane and Women's Hospital",
+    "institution": "Royal Brisbane and Women's Hospital",
+    "grid_id": "grid.416100.2",
+    "country": "Australia",
+    "research_pool": 510,
+    "orcid_researchers": 291,
+    "percentage_orcid": 57.06,
+    "orcid_completeness": 37.88
+  },
+  {
+    "entity": "Cancer Council Victoria",
+    "institution": "Cancer Council Victoria",
+    "grid_id": "grid.3263.4",
+    "country": "Australia",
+    "research_pool": 53,
+    "orcid_researchers": 36,
+    "percentage_orcid": 67.92,
+    "orcid_completeness": 37.99
+  },
+  {
+    "entity": "Division of Energy",
+    "institution": "Division of Energy",
+    "grid_id": "grid.497266.8",
+    "country": "Australia",
+    "research_pool": 96,
+    "orcid_researchers": 62,
+    "percentage_orcid": 64.58,
+    "orcid_completeness": 38.0
+  },
+  {
+    "entity": "Baker IDI Heart and Diabetes Institute",
+    "institution": "Baker IDI Heart and Diabetes Institute",
+    "grid_id": "grid.1051.5",
+    "country": "Australia",
+    "research_pool": 265,
+    "orcid_researchers": 158,
+    "percentage_orcid": 59.62,
+    "orcid_completeness": 38.08
+  },
+  {
+    "entity": "Menzies School of Health Research",
+    "institution": "Menzies School of Health Research",
+    "grid_id": "grid.271089.5",
+    "country": "Australia",
+    "research_pool": 74,
+    "orcid_researchers": 47,
+    "percentage_orcid": 63.51,
+    "orcid_completeness": 38.1
+  },
+  {
+    "entity": "Monash Health",
+    "institution": "Monash Health",
+    "grid_id": "grid.419789.a",
+    "country": "Australia",
+    "research_pool": 450,
+    "orcid_researchers": 200,
+    "percentage_orcid": 44.44,
+    "orcid_completeness": 38.11
+  },
+  {
+    "entity": "Gold Coast Hospital",
+    "institution": "Gold Coast Hospital",
+    "grid_id": "grid.413154.6",
+    "country": "Australia",
+    "research_pool": 236,
+    "orcid_researchers": 127,
+    "percentage_orcid": 53.81,
+    "orcid_completeness": 38.15
+  },
+  {
+    "entity": "South Australian Research and Development Institute",
+    "institution": "South Australian Research and Development Institute",
+    "grid_id": "grid.464686.e",
+    "country": "Australia",
+    "research_pool": 124,
+    "orcid_researchers": 61,
+    "percentage_orcid": 49.19,
+    "orcid_completeness": 38.34
+  },
+  {
+    "entity": "Royal Children's Hospital",
+    "institution": "Royal Children's Hospital",
+    "grid_id": "grid.416107.5",
+    "country": "Australia",
+    "research_pool": 465,
+    "orcid_researchers": 243,
+    "percentage_orcid": 52.26,
+    "orcid_completeness": 38.64
+  },
+  {
+    "entity": "Sunshine Coast University Hospital",
+    "institution": "Sunshine Coast University Hospital",
+    "grid_id": "grid.510757.1",
+    "country": "Australia",
+    "research_pool": 97,
+    "orcid_researchers": 60,
+    "percentage_orcid": 61.86,
+    "orcid_completeness": 38.71
+  },
+  {
+    "entity": "Sir Charles Gairdner Hospital",
+    "institution": "Sir Charles Gairdner Hospital",
+    "grid_id": "grid.3521.5",
+    "country": "Australia",
+    "research_pool": 289,
+    "orcid_researchers": 126,
+    "percentage_orcid": 43.6,
+    "orcid_completeness": 38.75
+  },
+  {
+    "entity": "Data61",
+    "institution": "Data61",
+    "grid_id": "grid.425461.0",
+    "country": "Australia",
+    "research_pool": 168,
+    "orcid_researchers": 133,
+    "percentage_orcid": 79.17,
+    "orcid_completeness": 39.01
+  },
+  {
+    "entity": "Other",
+    "institution": "Other",
+    "grid_id": "Other",
+    "country": "Australia",
+    "research_pool": 39416,
+    "orcid_researchers": 30487,
+    "percentage_orcid": 77.35,
+    "orcid_completeness": 39.2
+  },
+  {
+    "entity": "Children\u2019s Health Queensland Hospital and Health Service",
+    "institution": "Children\u2019s Health Queensland Hospital and Health Service",
+    "grid_id": "grid.512914.a",
+    "country": "Australia",
+    "research_pool": 50,
+    "orcid_researchers": 32,
+    "percentage_orcid": 64.0,
+    "orcid_completeness": 39.27
+  },
+  {
+    "entity": "Peninsula Health",
+    "institution": "Peninsula Health",
+    "grid_id": "grid.466993.7",
+    "country": "Australia",
+    "research_pool": 85,
+    "orcid_researchers": 46,
+    "percentage_orcid": 54.12,
+    "orcid_completeness": 39.84
+  },
+  {
+    "entity": "Geoscience Australia",
+    "institution": "Geoscience Australia",
+    "grid_id": "grid.452453.1",
+    "country": "Australia",
+    "research_pool": 136,
+    "orcid_researchers": 78,
+    "percentage_orcid": 57.35,
+    "orcid_completeness": 39.95
+  },
+  {
+    "entity": "Cairns Hospital",
+    "institution": "Cairns Hospital",
+    "grid_id": "grid.413210.5",
+    "country": "Australia",
+    "research_pool": 75,
+    "orcid_researchers": 27,
+    "percentage_orcid": 36.0,
+    "orcid_completeness": 40.07
+  },
+  {
+    "entity": "Queensland Health",
+    "institution": "Queensland Health",
+    "grid_id": "grid.415606.0",
+    "country": "Australia",
+    "research_pool": 129,
+    "orcid_researchers": 65,
+    "percentage_orcid": 50.39,
+    "orcid_completeness": 40.36
+  },
+  {
+    "entity": "Lyell McEwin Hospital",
+    "institution": "Lyell McEwin Hospital",
+    "grid_id": "grid.460761.2",
+    "country": "Australia",
+    "research_pool": 61,
+    "orcid_researchers": 27,
+    "percentage_orcid": 44.26,
+    "orcid_completeness": 40.81
+  },
+  {
+    "entity": "Government of Western Australia Department of Health",
+    "institution": "Government of Western Australia Department of Health",
+    "grid_id": "grid.413880.6",
+    "country": "Australia",
+    "research_pool": 89,
+    "orcid_researchers": 29,
+    "percentage_orcid": 32.58,
+    "orcid_completeness": 41.18
+  },
+  {
+    "entity": "Victor Chang Cardiac Research Institute",
+    "institution": "Victor Chang Cardiac Research Institute",
+    "grid_id": "grid.1057.3",
+    "country": "Australia",
+    "research_pool": 107,
+    "orcid_researchers": 71,
+    "percentage_orcid": 66.36,
+    "orcid_completeness": 41.61
+  },
+  {
+    "entity": "Children's Hospital at Westmead",
+    "institution": "Children's Hospital at Westmead",
+    "grid_id": "grid.413973.b",
+    "country": "Australia",
+    "research_pool": 355,
+    "orcid_researchers": 156,
+    "percentage_orcid": 43.94,
+    "orcid_completeness": 41.61
+  },
+  {
+    "entity": "Burnet Institute",
+    "institution": "Burnet Institute",
+    "grid_id": "grid.1056.2",
+    "country": "Australia",
+    "research_pool": 212,
+    "orcid_researchers": 152,
+    "percentage_orcid": 71.7,
+    "orcid_completeness": 41.67
+  },
+  {
+    "entity": "Olivia Newton-John Cancer Wellness & Research Centre",
+    "institution": "Olivia Newton-John Cancer Wellness & Research Centre",
+    "grid_id": "grid.482637.c",
+    "country": "Australia",
+    "research_pool": 89,
+    "orcid_researchers": 52,
+    "percentage_orcid": 58.43,
+    "orcid_completeness": 42.05
+  },
+  {
+    "entity": "South Australian Health and Medical Research Institute",
+    "institution": "South Australian Health and Medical Research Institute",
+    "grid_id": "grid.430453.5",
+    "country": "Australia",
+    "research_pool": 196,
+    "orcid_researchers": 119,
+    "percentage_orcid": 60.71,
+    "orcid_completeness": 42.12
+  },
+  {
+    "entity": "Pathwest Laboratory Medicine",
+    "institution": "Pathwest Laboratory Medicine",
+    "grid_id": "grid.2824.c",
+    "country": "Australia",
+    "research_pool": 73,
+    "orcid_researchers": 21,
+    "percentage_orcid": 28.77,
+    "orcid_completeness": 42.19
+  },
+  {
+    "entity": "Flinders Medical Centre",
+    "institution": "Flinders Medical Centre",
+    "grid_id": "grid.414925.f",
+    "country": "Australia",
+    "research_pool": 255,
+    "orcid_researchers": 104,
+    "percentage_orcid": 40.78,
+    "orcid_completeness": 42.39
+  },
+  {
+    "entity": "Florey Institute of Neuroscience and Mental Health",
+    "institution": "Florey Institute of Neuroscience and Mental Health",
+    "grid_id": "grid.418025.a",
+    "country": "Australia",
+    "research_pool": 256,
+    "orcid_researchers": 157,
+    "percentage_orcid": 61.33,
+    "orcid_completeness": 42.53
+  },
+  {
+    "entity": "Townsville Hospital",
+    "institution": "Townsville Hospital",
+    "grid_id": "grid.417216.7",
+    "country": "Australia",
+    "research_pool": 133,
+    "orcid_researchers": 62,
+    "percentage_orcid": 46.62,
+    "orcid_completeness": 42.8
+  },
+  {
+    "entity": "St Vincents Institute of Medical Research",
+    "institution": "St Vincents Institute of Medical Research",
+    "grid_id": "grid.1073.5",
+    "country": "Australia",
+    "research_pool": 133,
+    "orcid_researchers": 86,
+    "percentage_orcid": 64.66,
+    "orcid_completeness": 42.81
+  },
+  {
+    "entity": "Monash Medical Centre",
+    "institution": "Monash Medical Centre",
+    "grid_id": "grid.416060.5",
+    "country": "Australia",
+    "research_pool": 88,
+    "orcid_researchers": 38,
+    "percentage_orcid": 43.18,
+    "orcid_completeness": 42.93
+  },
+  {
+    "entity": "Concord Repatriation General Hospital",
+    "institution": "Concord Repatriation General Hospital",
+    "grid_id": "grid.414685.a",
+    "country": "Australia",
+    "research_pool": 229,
+    "orcid_researchers": 109,
+    "percentage_orcid": 47.6,
+    "orcid_completeness": 43.65
+  },
+  {
+    "entity": "Canberra Hospital",
+    "institution": "Canberra Hospital",
+    "grid_id": "grid.413314.0",
+    "country": "Australia",
+    "research_pool": 152,
+    "orcid_researchers": 67,
+    "percentage_orcid": 44.08,
+    "orcid_completeness": 43.82
+  },
+  {
+    "entity": "Australian Synchrotron",
+    "institution": "Australian Synchrotron",
+    "grid_id": "grid.248753.f",
+    "country": "Australia",
+    "research_pool": 69,
+    "orcid_researchers": 55,
+    "percentage_orcid": 79.71,
+    "orcid_completeness": 44.31
+  },
+  {
+    "entity": "Hunter Medical Research Institute",
+    "institution": "Hunter Medical Research Institute",
+    "grid_id": "grid.413648.c",
+    "country": "Australia",
+    "research_pool": 159,
+    "orcid_researchers": 118,
+    "percentage_orcid": 74.21,
+    "orcid_completeness": 44.68
+  },
+  {
+    "entity": "Queensland Children's Hospital",
+    "institution": "Queensland Children's Hospital",
+    "grid_id": "grid.240562.7",
+    "country": "Australia",
+    "research_pool": 214,
+    "orcid_researchers": 100,
+    "percentage_orcid": 46.73,
+    "orcid_completeness": 44.71
+  },
+  {
+    "entity": "Monash University",
+    "institution": "Monash University",
+    "grid_id": "grid.1002.3",
+    "country": "Australia",
+    "research_pool": 6494,
+    "orcid_researchers": 4932,
+    "percentage_orcid": 75.95,
+    "orcid_completeness": 45.43
+  },
+  {
+    "entity": "Women's and Children's Hospital",
+    "institution": "Women's and Children's Hospital",
+    "grid_id": "grid.1694.a",
+    "country": "Australia",
+    "research_pool": 120,
+    "orcid_researchers": 36,
+    "percentage_orcid": 30.0,
+    "orcid_completeness": 45.7
+  },
+  {
+    "entity": "King Edward Memorial Hospital",
+    "institution": "King Edward Memorial Hospital",
+    "grid_id": "grid.415259.e",
+    "country": "Australia",
+    "research_pool": 65,
+    "orcid_researchers": 32,
+    "percentage_orcid": 49.23,
+    "orcid_completeness": 46.15
+  },
+  {
+    "entity": "Hudson Institute of Medical Research",
+    "institution": "Hudson Institute of Medical Research",
+    "grid_id": "grid.452824.d",
+    "country": "Australia",
+    "research_pool": 189,
+    "orcid_researchers": 103,
+    "percentage_orcid": 54.5,
+    "orcid_completeness": 46.49
+  },
+  {
+    "entity": "Perth Children's Hospital",
+    "institution": "Perth Children's Hospital",
+    "grid_id": "grid.518128.7",
+    "country": "Australia",
+    "research_pool": 222,
+    "orcid_researchers": 132,
+    "percentage_orcid": 59.46,
+    "orcid_completeness": 46.58
+  },
+  {
+    "entity": "Garvan Institute of Medical Research",
+    "institution": "Garvan Institute of Medical Research",
+    "grid_id": "grid.415306.5",
+    "country": "Australia",
+    "research_pool": 278,
+    "orcid_researchers": 177,
+    "percentage_orcid": 63.67,
+    "orcid_completeness": 46.64
+  },
+  {
+    "entity": "Western Australian Museum",
+    "institution": "Western Australian Museum",
+    "grid_id": "grid.452917.c",
+    "country": "Australia",
+    "research_pool": 50,
+    "orcid_researchers": 33,
+    "percentage_orcid": 66.0,
+    "orcid_completeness": 46.67
+  },
+  {
+    "entity": "Department of Primary Industries",
+    "institution": "Department of Primary Industries",
+    "grid_id": "grid.492998.7",
+    "country": "Australia",
+    "research_pool": 208,
+    "orcid_researchers": 99,
+    "percentage_orcid": 47.6,
+    "orcid_completeness": 46.98
+  },
+  {
+    "entity": "Metro South Health",
+    "institution": "Metro South Health",
+    "grid_id": "grid.474142.0",
+    "country": "Australia",
+    "research_pool": 53,
+    "orcid_researchers": 26,
+    "percentage_orcid": 49.06,
+    "orcid_completeness": 47.09
+  },
+  {
+    "entity": "Australian e-Health Research Centre",
+    "institution": "Australian e-Health Research Centre",
+    "grid_id": "grid.467740.6",
+    "country": "Australia",
+    "research_pool": 62,
+    "orcid_researchers": 52,
+    "percentage_orcid": 83.87,
+    "orcid_completeness": 47.26
+  },
+  {
+    "entity": "Bureau of Meteorology",
+    "institution": "Bureau of Meteorology",
+    "grid_id": "grid.1527.1",
+    "country": "Australia",
+    "research_pool": 183,
+    "orcid_researchers": 119,
+    "percentage_orcid": 65.03,
+    "orcid_completeness": 47.68
+  },
+  {
+    "entity": "Harry Perkins Institute of Medical Research",
+    "institution": "Harry Perkins Institute of Medical Research",
+    "grid_id": "grid.431595.f",
+    "country": "Australia",
+    "research_pool": 71,
+    "orcid_researchers": 45,
+    "percentage_orcid": 63.38,
+    "orcid_completeness": 47.69
+  },
+  {
+    "entity": "Agriculture Victoria",
+    "institution": "Agriculture Victoria",
+    "grid_id": "grid.511012.6",
+    "country": "Australia",
+    "research_pool": 103,
+    "orcid_researchers": 70,
+    "percentage_orcid": 67.96,
+    "orcid_completeness": 47.69
+  },
+  {
+    "entity": "Royal Perth Hospital",
+    "institution": "Royal Perth Hospital",
+    "grid_id": "grid.416195.e",
+    "country": "Australia",
+    "research_pool": 193,
+    "orcid_researchers": 88,
+    "percentage_orcid": 45.6,
+    "orcid_completeness": 48.13
+  },
+  {
+    "entity": "Department of Primary Industries and Regional Development",
+    "institution": "Department of Primary Industries and Regional Development",
+    "grid_id": "grid.493004.a",
+    "country": "Australia",
+    "research_pool": 102,
+    "orcid_researchers": 59,
+    "percentage_orcid": 57.84,
+    "orcid_completeness": 48.27
+  },
+  {
+    "entity": "Swinburne University of Technology",
+    "institution": "Swinburne University of Technology",
+    "grid_id": "grid.1027.4",
+    "country": "Australia",
+    "research_pool": 1067,
+    "orcid_researchers": 817,
+    "percentage_orcid": 76.57,
+    "orcid_completeness": 48.27
+  },
+  {
+    "entity": "Murdoch Children's Research Institute",
+    "institution": "Murdoch Children's Research Institute",
+    "grid_id": "grid.1058.c",
+    "country": "Australia",
+    "research_pool": 631,
+    "orcid_researchers": 428,
+    "percentage_orcid": 67.83,
+    "orcid_completeness": 48.4
+  },
+  {
+    "entity": "South Australia Pathology",
+    "institution": "South Australia Pathology",
+    "grid_id": "grid.414733.6",
+    "country": "Australia",
+    "research_pool": 76,
+    "orcid_researchers": 27,
+    "percentage_orcid": 35.53,
+    "orcid_completeness": 48.49
+  },
+  {
+    "entity": "Adelaide University",
+    "institution": "Adelaide University",
+    "grid_id": "grid.1010.0",
+    "country": "Australia",
+    "research_pool": 1821,
+    "orcid_researchers": 1290,
+    "percentage_orcid": 70.84,
+    "orcid_completeness": 48.7
+  },
+  {
+    "entity": "The University of Sydney",
+    "institution": "The University of Sydney",
+    "grid_id": "grid.1013.3",
+    "country": "Australia",
+    "research_pool": 6729,
+    "orcid_researchers": 5176,
+    "percentage_orcid": 76.92,
+    "orcid_completeness": 48.72
+  },
+  {
+    "entity": "The University of Notre Dame Australia",
+    "institution": "The University of Notre Dame Australia",
+    "grid_id": "grid.266886.4",
+    "country": "Australia",
+    "research_pool": 238,
+    "orcid_researchers": 179,
+    "percentage_orcid": 75.21,
+    "orcid_completeness": 49.03
+  },
+  {
+    "entity": "Mercy Hospital for Women",
+    "institution": "Mercy Hospital for Women",
+    "grid_id": "grid.415379.d",
+    "country": "Australia",
+    "research_pool": 65,
+    "orcid_researchers": 28,
+    "percentage_orcid": 43.08,
+    "orcid_completeness": 49.43
+  },
+  {
+    "entity": "Hunter New England Local Health District",
+    "institution": "Hunter New England Local Health District",
+    "grid_id": "grid.3006.5",
+    "country": "Australia",
+    "research_pool": 77,
+    "orcid_researchers": 53,
+    "percentage_orcid": 68.83,
+    "orcid_completeness": 49.83
+  },
+  {
+    "entity": "University of Melbourne",
+    "institution": "University of Melbourne",
+    "grid_id": "grid.1008.9",
+    "country": "Australia",
+    "research_pool": 6653,
+    "orcid_researchers": 5296,
+    "percentage_orcid": 79.6,
+    "orcid_completeness": 49.92
+  },
+  {
+    "entity": "South Western Sydney Local Health District",
+    "institution": "South Western Sydney Local Health District",
+    "grid_id": "grid.410692.8",
+    "country": "Australia",
+    "research_pool": 115,
+    "orcid_researchers": 65,
+    "percentage_orcid": 56.52,
+    "orcid_completeness": 49.94
+  },
+  {
+    "entity": "Arthur Rylah Institute for Environmental Research",
+    "institution": "Arthur Rylah Institute for Environmental Research",
+    "grid_id": "grid.508407.e",
+    "country": "Australia",
+    "research_pool": 67,
+    "orcid_researchers": 48,
+    "percentage_orcid": 71.64,
+    "orcid_completeness": 50.0
+  },
+  {
+    "entity": "International Centre for Radio Astronomy Research",
+    "institution": "International Centre for Radio Astronomy Research",
+    "grid_id": "grid.499230.5",
+    "country": "Australia",
+    "research_pool": 99,
+    "orcid_researchers": 86,
+    "percentage_orcid": 86.87,
+    "orcid_completeness": 50.19
+  },
+  {
+    "entity": "QIMR Berghofer Medical Research Institute",
+    "institution": "QIMR Berghofer Medical Research Institute",
+    "grid_id": "grid.1049.c",
+    "country": "Australia",
+    "research_pool": 453,
+    "orcid_researchers": 312,
+    "percentage_orcid": 68.87,
+    "orcid_completeness": 50.3
+  },
+  {
+    "entity": "University of Newcastle Australia",
+    "institution": "University of Newcastle Australia",
+    "grid_id": "grid.266842.c",
+    "country": "Australia",
+    "research_pool": 1829,
+    "orcid_researchers": 1401,
+    "percentage_orcid": 76.6,
+    "orcid_completeness": 50.43
+  },
+  {
+    "entity": "Government of Western Australia",
+    "institution": "Government of Western Australia",
+    "grid_id": "grid.484196.6",
+    "country": "Australia",
+    "research_pool": 51,
+    "orcid_researchers": 32,
+    "percentage_orcid": 62.75,
+    "orcid_completeness": 51.02
+  },
+  {
+    "entity": "Deakin University",
+    "institution": "Deakin University",
+    "grid_id": "grid.1021.2",
+    "country": "Australia",
+    "research_pool": 2560,
+    "orcid_researchers": 2104,
+    "percentage_orcid": 82.19,
+    "orcid_completeness": 51.22
+  },
+  {
+    "entity": "Edith Cowan University",
+    "institution": "Edith Cowan University",
+    "grid_id": "grid.1038.a",
+    "country": "Australia",
+    "research_pool": 783,
+    "orcid_researchers": 659,
+    "percentage_orcid": 84.16,
+    "orcid_completeness": 51.25
+  },
+  {
+    "entity": "Walter and Eliza Hall Institute of Medical Research",
+    "institution": "Walter and Eliza Hall Institute of Medical Research",
+    "grid_id": "grid.1042.7",
+    "country": "Australia",
+    "research_pool": 594,
+    "orcid_researchers": 419,
+    "percentage_orcid": 70.54,
+    "orcid_completeness": 51.35
+  },
+  {
+    "entity": "Telethon Kids Institute",
+    "institution": "Telethon Kids Institute",
+    "grid_id": "grid.414659.b",
+    "country": "Australia",
+    "research_pool": 113,
+    "orcid_researchers": 65,
+    "percentage_orcid": 57.52,
+    "orcid_completeness": 51.45
+  },
+  {
+    "entity": "UNSW Sydney",
+    "institution": "UNSW Sydney",
+    "grid_id": "grid.1005.4",
+    "country": "Australia",
+    "research_pool": 5929,
+    "orcid_researchers": 4624,
+    "percentage_orcid": 77.99,
+    "orcid_completeness": 51.48
+  },
+  {
+    "entity": "Central Queensland University",
+    "institution": "Central Queensland University",
+    "grid_id": "grid.1023.0",
+    "country": "Australia",
+    "research_pool": 544,
+    "orcid_researchers": 437,
+    "percentage_orcid": 80.33,
+    "orcid_completeness": 51.53
+  },
+  {
+    "entity": "CSIRO Land and Water",
+    "institution": "CSIRO Land and Water",
+    "grid_id": "grid.469914.7",
+    "country": "Australia",
+    "research_pool": 62,
+    "orcid_researchers": 33,
+    "percentage_orcid": 53.23,
+    "orcid_completeness": 51.59
+  },
+  {
+    "entity": "Western Sydney University",
+    "institution": "Western Sydney University",
+    "grid_id": "grid.1029.a",
+    "country": "Australia",
+    "research_pool": 1553,
+    "orcid_researchers": 1185,
+    "percentage_orcid": 76.3,
+    "orcid_completeness": 51.62
+  },
+  {
+    "entity": "Northern Health",
+    "institution": "Northern Health",
+    "grid_id": "grid.410684.f",
+    "country": "Australia",
+    "research_pool": 116,
+    "orcid_researchers": 68,
+    "percentage_orcid": 58.62,
+    "orcid_completeness": 51.77
+  },
+  {
+    "entity": "Children's Medical Research Institute",
+    "institution": "Children's Medical Research Institute",
+    "grid_id": "grid.414235.5",
+    "country": "Australia",
+    "research_pool": 101,
+    "orcid_researchers": 69,
+    "percentage_orcid": 68.32,
+    "orcid_completeness": 51.85
+  },
+  {
+    "entity": "Adelaide University",
+    "institution": "Adelaide University",
+    "grid_id": "grid.1143130.35",
+    "country": "Australia",
+    "research_pool": 1703,
+    "orcid_researchers": 1489,
+    "percentage_orcid": 87.43,
+    "orcid_completeness": 51.98
+  },
+  {
+    "entity": "University of Southern Queensland",
+    "institution": "University of Southern Queensland",
+    "grid_id": "grid.1048.d",
+    "country": "Australia",
+    "research_pool": 705,
+    "orcid_researchers": 569,
+    "percentage_orcid": 80.71,
+    "orcid_completeness": 52.41
+  },
+  {
+    "entity": "Department of Biodiversity, Conservation and Attractions",
+    "institution": "Department of Biodiversity, Conservation and Attractions",
+    "grid_id": "grid.452589.7",
+    "country": "Australia",
+    "research_pool": 112,
+    "orcid_researchers": 75,
+    "percentage_orcid": 66.96,
+    "orcid_completeness": 52.77
+  },
+  {
+    "entity": "Mineral Resources Ltd",
+    "institution": "Mineral Resources Ltd",
+    "grid_id": "grid.494572.9",
+    "country": "Australia",
+    "research_pool": 140,
+    "orcid_researchers": 91,
+    "percentage_orcid": 65.0,
+    "orcid_completeness": 53.18
+  },
+  {
+    "entity": "Woolcock Institute of Medical Research",
+    "institution": "Woolcock Institute of Medical Research",
+    "grid_id": "grid.417229.b",
+    "country": "Australia",
+    "research_pool": 86,
+    "orcid_researchers": 59,
+    "percentage_orcid": 68.6,
+    "orcid_completeness": 53.79
+  },
+  {
+    "entity": "RMIT University",
+    "institution": "RMIT University",
+    "grid_id": "grid.1017.7",
+    "country": "Australia",
+    "research_pool": 2298,
+    "orcid_researchers": 1811,
+    "percentage_orcid": 78.81,
+    "orcid_completeness": 53.84
+  },
+  {
+    "entity": "Commonwealth Scientific and Industrial Research Organisation",
+    "institution": "Commonwealth Scientific and Industrial Research Organisation",
+    "grid_id": "grid.1016.6",
+    "country": "Australia",
+    "research_pool": 1228,
+    "orcid_researchers": 946,
+    "percentage_orcid": 77.04,
+    "orcid_completeness": 54.29
+  },
+  {
+    "entity": "Queensland Museum",
+    "institution": "Queensland Museum",
+    "grid_id": "grid.452644.5",
+    "country": "Australia",
+    "research_pool": 51,
+    "orcid_researchers": 34,
+    "percentage_orcid": 66.67,
+    "orcid_completeness": 54.37
+  },
+  {
+    "entity": "CSIRO Oceans and Atmosphere",
+    "institution": "CSIRO Oceans and Atmosphere",
+    "grid_id": "grid.492990.f",
+    "country": "Australia",
+    "research_pool": 62,
+    "orcid_researchers": 28,
+    "percentage_orcid": 45.16,
+    "orcid_completeness": 54.45
+  },
+  {
+    "entity": "Curtin University",
+    "institution": "Curtin University",
+    "grid_id": "grid.1032.0",
+    "country": "Australia",
+    "research_pool": 2066,
+    "orcid_researchers": 1638,
+    "percentage_orcid": 79.28,
+    "orcid_completeness": 54.53
+  },
+  {
+    "entity": "James Cook University",
+    "institution": "James Cook University",
+    "grid_id": "grid.1011.1",
+    "country": "Australia",
+    "research_pool": 1089,
+    "orcid_researchers": 822,
+    "percentage_orcid": 75.48,
+    "orcid_completeness": 54.62
+  },
+  {
+    "entity": "Translational Research Institute",
+    "institution": "Translational Research Institute",
+    "grid_id": "grid.489335.0",
+    "country": "Australia",
+    "research_pool": 69,
+    "orcid_researchers": 42,
+    "percentage_orcid": 60.87,
+    "orcid_completeness": 54.62
+  },
+  {
+    "entity": "Australian Antarctic Division",
+    "institution": "Australian Antarctic Division",
+    "grid_id": "grid.1047.2",
+    "country": "Australia",
+    "research_pool": 78,
+    "orcid_researchers": 54,
+    "percentage_orcid": 69.23,
+    "orcid_completeness": 55.13
+  },
+  {
+    "entity": "Victoria University",
+    "institution": "Victoria University",
+    "grid_id": "grid.1019.9",
+    "country": "Australia",
+    "research_pool": 522,
+    "orcid_researchers": 377,
+    "percentage_orcid": 72.22,
+    "orcid_completeness": 55.17
+  },
+  {
+    "entity": "University of Queensland",
+    "institution": "University of Queensland",
+    "grid_id": "grid.1003.2",
+    "country": "Australia",
+    "research_pool": 6334,
+    "orcid_researchers": 5042,
+    "percentage_orcid": 79.6,
+    "orcid_completeness": 55.26
+  },
+  {
+    "entity": "Australian Red Cross Lifeblood",
+    "institution": "Australian Red Cross Lifeblood",
+    "grid_id": "grid.420118.e",
+    "country": "Australia",
+    "research_pool": 102,
+    "orcid_researchers": 55,
+    "percentage_orcid": 53.92,
+    "orcid_completeness": 55.29
+  },
+  {
+    "entity": "La Trobe University",
+    "institution": "La Trobe University",
+    "grid_id": "grid.1018.8",
+    "country": "Australia",
+    "research_pool": 1870,
+    "orcid_researchers": 1475,
+    "percentage_orcid": 78.88,
+    "orcid_completeness": 55.47
+  },
+  {
+    "entity": "Federation University",
+    "institution": "Federation University",
+    "grid_id": "grid.1040.5",
+    "country": "Australia",
+    "research_pool": 392,
+    "orcid_researchers": 318,
+    "percentage_orcid": 81.12,
+    "orcid_completeness": 55.99
+  },
+  {
+    "entity": "Charles Darwin University",
+    "institution": "Charles Darwin University",
+    "grid_id": "grid.1043.6",
+    "country": "Australia",
+    "research_pool": 453,
+    "orcid_researchers": 351,
+    "percentage_orcid": 77.48,
+    "orcid_completeness": 56.46
+  },
+  {
+    "entity": "CSIRO Agriculture and Food",
+    "institution": "CSIRO Agriculture and Food",
+    "grid_id": "grid.493032.f",
+    "country": "Australia",
+    "research_pool": 326,
+    "orcid_researchers": 230,
+    "percentage_orcid": 70.55,
+    "orcid_completeness": 56.78
+  },
+  {
+    "entity": "Australian Nuclear Science and Technology Organisation",
+    "institution": "Australian Nuclear Science and Technology Organisation",
+    "grid_id": "grid.1089.0",
+    "country": "Australia",
+    "research_pool": 222,
+    "orcid_researchers": 153,
+    "percentage_orcid": 68.92,
+    "orcid_completeness": 56.79
+  },
+  {
+    "entity": "Orygen",
+    "institution": "Orygen",
+    "grid_id": "grid.488501.0",
+    "country": "Australia",
+    "research_pool": 93,
+    "orcid_researchers": 50,
+    "percentage_orcid": 53.76,
+    "orcid_completeness": 57.46
+  },
+  {
+    "entity": "Australian Institute of Marine Science",
+    "institution": "Australian Institute of Marine Science",
+    "grid_id": "grid.1046.3",
+    "country": "Australia",
+    "research_pool": 147,
+    "orcid_researchers": 116,
+    "percentage_orcid": 78.91,
+    "orcid_completeness": 57.6
+  },
+  {
+    "entity": "University of the Sunshine Coast",
+    "institution": "University of the Sunshine Coast",
+    "grid_id": "grid.1034.6",
+    "country": "Australia",
+    "research_pool": 635,
+    "orcid_researchers": 510,
+    "percentage_orcid": 80.31,
+    "orcid_completeness": 57.74
+  },
+  {
+    "entity": "Australian Catholic University",
+    "institution": "Australian Catholic University",
+    "grid_id": "grid.411958.0",
+    "country": "Australia",
+    "research_pool": 545,
+    "orcid_researchers": 449,
+    "percentage_orcid": 82.39,
+    "orcid_completeness": 57.97
+  },
+  {
+    "entity": "Australian National University",
+    "institution": "Australian National University",
+    "grid_id": "grid.1001.0",
+    "country": "Australia",
+    "research_pool": 3173,
+    "orcid_researchers": 2484,
+    "percentage_orcid": 78.29,
+    "orcid_completeness": 58.15
+  },
+  {
+    "entity": "University of Tasmania",
+    "institution": "University of Tasmania",
+    "grid_id": "grid.1009.8",
+    "country": "Australia",
+    "research_pool": 1800,
+    "orcid_researchers": 1446,
+    "percentage_orcid": 80.33,
+    "orcid_completeness": 58.95
+  },
+  {
+    "entity": "Australian Museum",
+    "institution": "Australian Museum",
+    "grid_id": "grid.438303.f",
+    "country": "Australia",
+    "research_pool": 90,
+    "orcid_researchers": 68,
+    "percentage_orcid": 75.56,
+    "orcid_completeness": 58.97
+  },
+  {
+    "entity": "Department of Primary Industries and Regional Development",
+    "institution": "Department of Primary Industries and Regional Development",
+    "grid_id": "grid.1680.f",
+    "country": "Australia",
+    "research_pool": 267,
+    "orcid_researchers": 165,
+    "percentage_orcid": 61.8,
+    "orcid_completeness": 59.28
+  },
+  {
+    "entity": "Griffith University",
+    "institution": "Griffith University",
+    "grid_id": "grid.1022.1",
+    "country": "Australia",
+    "research_pool": 2513,
+    "orcid_researchers": 1985,
+    "percentage_orcid": 78.99,
+    "orcid_completeness": 59.46
+  },
+  {
+    "entity": "Black Dog Institute",
+    "institution": "Black Dog Institute",
+    "grid_id": "grid.418393.4",
+    "country": "Australia",
+    "research_pool": 51,
+    "orcid_researchers": 44,
+    "percentage_orcid": 86.27,
+    "orcid_completeness": 59.66
+  },
+  {
+    "entity": "Murdoch University",
+    "institution": "Murdoch University",
+    "grid_id": "grid.1025.6",
+    "country": "Australia",
+    "research_pool": 860,
+    "orcid_researchers": 639,
+    "percentage_orcid": 74.3,
+    "orcid_completeness": 60.0
+  },
+  {
+    "entity": "University of Canberra",
+    "institution": "University of Canberra",
+    "grid_id": "grid.1039.b",
+    "country": "Australia",
+    "research_pool": 568,
+    "orcid_researchers": 465,
+    "percentage_orcid": 81.87,
+    "orcid_completeness": 60.38
+  },
+  {
+    "entity": "University of Wollongong",
+    "institution": "University of Wollongong",
+    "grid_id": "grid.1007.6",
+    "country": "Australia",
+    "research_pool": 1587,
+    "orcid_researchers": 1250,
+    "percentage_orcid": 78.76,
+    "orcid_completeness": 61.51
+  },
+  {
+    "entity": "Australian Centre for Disease Preparedness",
+    "institution": "Australian Centre for Disease Preparedness",
+    "grid_id": "grid.413322.5",
+    "country": "Australia",
+    "research_pool": 120,
+    "orcid_researchers": 66,
+    "percentage_orcid": 55.0,
+    "orcid_completeness": 61.56
+  },
+  {
+    "entity": "Centre for Cancer Biology",
+    "institution": "Centre for Cancer Biology",
+    "grid_id": "grid.470344.0",
+    "country": "Australia",
+    "research_pool": 99,
+    "orcid_researchers": 70,
+    "percentage_orcid": 70.71,
+    "orcid_completeness": 61.58
+  },
+  {
+    "entity": "Neuroscience Research Australia",
+    "institution": "Neuroscience Research Australia",
+    "grid_id": "grid.250407.4",
+    "country": "Australia",
+    "research_pool": 120,
+    "orcid_researchers": 75,
+    "percentage_orcid": 62.5,
+    "orcid_completeness": 62.86
+  },
+  {
+    "entity": "University of Technology Sydney",
+    "institution": "University of Technology Sydney",
+    "grid_id": "grid.117476.2",
+    "country": "Australia",
+    "research_pool": 2161,
+    "orcid_researchers": 1753,
+    "percentage_orcid": 81.12,
+    "orcid_completeness": 63.61
+  },
+  {
+    "entity": "CSIRO Manufacturing",
+    "institution": "CSIRO Manufacturing",
+    "grid_id": "grid.494571.a",
+    "country": "Australia",
+    "research_pool": 154,
+    "orcid_researchers": 101,
+    "percentage_orcid": 65.58,
+    "orcid_completeness": 63.61
+  },
+  {
+    "entity": "Queensland University of Technology",
+    "institution": "Queensland University of Technology",
+    "grid_id": "grid.1024.7",
+    "country": "Australia",
+    "research_pool": 2182,
+    "orcid_researchers": 1795,
+    "percentage_orcid": 82.26,
+    "orcid_completeness": 63.79
+  },
+  {
+    "entity": "Bond University",
+    "institution": "Bond University",
+    "grid_id": "grid.1033.1",
+    "country": "Australia",
+    "research_pool": 310,
+    "orcid_researchers": 253,
+    "percentage_orcid": 81.61,
+    "orcid_completeness": 63.87
+  },
+  {
+    "entity": "Queensland Government",
+    "institution": "Queensland Government",
+    "grid_id": "grid.453171.5",
+    "country": "Australia",
+    "research_pool": 66,
+    "orcid_researchers": 40,
+    "percentage_orcid": 60.61,
+    "orcid_completeness": 64.78
+  },
+  {
+    "entity": "Australian Regenerative Medicine Institute",
+    "institution": "Australian Regenerative Medicine Institute",
+    "grid_id": "grid.484852.7",
+    "country": "Australia",
+    "research_pool": 51,
+    "orcid_researchers": 33,
+    "percentage_orcid": 64.71,
+    "orcid_completeness": 65.12
+  },
+  {
+    "entity": "University of New England",
+    "institution": "University of New England",
+    "grid_id": "grid.1020.3",
+    "country": "Australia",
+    "research_pool": 684,
+    "orcid_researchers": 562,
+    "percentage_orcid": 82.16,
+    "orcid_completeness": 66.32
+  },
+  {
+    "entity": "Flinders University",
+    "institution": "Flinders University",
+    "grid_id": "grid.1014.4",
+    "country": "Australia",
+    "research_pool": 1604,
+    "orcid_researchers": 1265,
+    "percentage_orcid": 78.87,
+    "orcid_completeness": 67.36
+  },
+  {
+    "entity": "Torrens University Australia",
+    "institution": "Torrens University Australia",
+    "grid_id": "grid.449625.8",
+    "country": "Australia",
+    "research_pool": 85,
+    "orcid_researchers": 75,
+    "percentage_orcid": 88.24,
+    "orcid_completeness": 68.25
+  },
+  {
+    "entity": "University of Western Australia",
+    "institution": "University of Western Australia",
+    "grid_id": "grid.1012.2",
+    "country": "Australia",
+    "research_pool": 2973,
+    "orcid_researchers": 2343,
+    "percentage_orcid": 78.81,
+    "orcid_completeness": 68.64
+  },
+  {
+    "entity": "Southern Cross University",
+    "institution": "Southern Cross University",
+    "grid_id": "grid.1031.3",
+    "country": "Australia",
+    "research_pool": 507,
+    "orcid_researchers": 422,
+    "percentage_orcid": 83.23,
+    "orcid_completeness": 69.81
+  },
+  {
+    "entity": "Macquarie University",
+    "institution": "Macquarie University",
+    "grid_id": "grid.1004.5",
+    "country": "Australia",
+    "research_pool": 2257,
+    "orcid_researchers": 1880,
+    "percentage_orcid": 83.3,
+    "orcid_completeness": 71.44
+  },
+  {
+    "entity": "Adelaide University",
+    "institution": "Adelaide University",
+    "grid_id": "grid.1026.5",
+    "country": "Australia",
+    "research_pool": 991,
+    "orcid_researchers": 819,
+    "percentage_orcid": 82.64,
+    "orcid_completeness": 71.77
+  },
+  {
+    "entity": "Charles Sturt University",
+    "institution": "Charles Sturt University",
+    "grid_id": "grid.1037.5",
+    "country": "Australia",
+    "research_pool": 821,
+    "orcid_researchers": 690,
+    "percentage_orcid": 84.04,
+    "orcid_completeness": 71.88
+  }
+]

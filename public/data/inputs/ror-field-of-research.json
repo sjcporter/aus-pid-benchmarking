@@ -1,0 +1,134 @@
+[
+  {
+    "field_of_research": "Physical Sciences",
+    "pubs_with_affiliations": 26421,
+    "australian": 478,
+    "percentage": 1.81
+  },
+  {
+    "field_of_research": "Engineering",
+    "pubs_with_affiliations": 17348,
+    "australian": 156,
+    "percentage": 0.9
+  },
+  {
+    "field_of_research": "Biomedical and Clinical Sciences",
+    "pubs_with_affiliations": 8717,
+    "australian": 263,
+    "percentage": 3.02
+  },
+  {
+    "field_of_research": "Language, Communication and Culture",
+    "pubs_with_affiliations": 7990,
+    "australian": 410,
+    "percentage": 5.13
+  },
+  {
+    "field_of_research": "Biological Sciences",
+    "pubs_with_affiliations": 6983,
+    "australian": 235,
+    "percentage": 3.37
+  },
+  {
+    "field_of_research": "Mathematical Sciences",
+    "pubs_with_affiliations": 5474,
+    "australian": 98,
+    "percentage": 1.79
+  },
+  {
+    "field_of_research": "Health Sciences",
+    "pubs_with_affiliations": 3889,
+    "australian": 112,
+    "percentage": 2.88
+  },
+  {
+    "field_of_research": "Chemical Sciences",
+    "pubs_with_affiliations": 3636,
+    "australian": 84,
+    "percentage": 2.31
+  },
+  {
+    "field_of_research": "Psychology",
+    "pubs_with_affiliations": 3338,
+    "australian": 101,
+    "percentage": 3.03
+  },
+  {
+    "field_of_research": "Human Society",
+    "pubs_with_affiliations": 2718,
+    "australian": 44,
+    "percentage": 1.62
+  },
+  {
+    "field_of_research": "Information and Computing Sciences",
+    "pubs_with_affiliations": 2311,
+    "australian": 32,
+    "percentage": 1.38
+  },
+  {
+    "field_of_research": "Commerce, Management, Tourism and Services",
+    "pubs_with_affiliations": 2149,
+    "australian": 24,
+    "percentage": 1.12
+  },
+  {
+    "field_of_research": "Education",
+    "pubs_with_affiliations": 1846,
+    "australian": 122,
+    "percentage": 6.61
+  },
+  {
+    "field_of_research": "Creative Arts and Writing",
+    "pubs_with_affiliations": 1766,
+    "australian": 194,
+    "percentage": 10.99
+  },
+  {
+    "field_of_research": "Philosophy and Religious Studies",
+    "pubs_with_affiliations": 1552,
+    "australian": 26,
+    "percentage": 1.68
+  },
+  {
+    "field_of_research": "Law and Legal Studies",
+    "pubs_with_affiliations": 1160,
+    "australian": 88,
+    "percentage": 7.59
+  },
+  {
+    "field_of_research": "History, Heritage and Archaeology",
+    "pubs_with_affiliations": 1119,
+    "australian": 7,
+    "percentage": 0.63
+  },
+  {
+    "field_of_research": "Agricultural, Veterinary and Food Sciences",
+    "pubs_with_affiliations": 848,
+    "australian": 3,
+    "percentage": 0.35
+  },
+  {
+    "field_of_research": "Economics",
+    "pubs_with_affiliations": 824,
+    "australian": 4,
+    "percentage": 0.49
+  },
+  {
+    "field_of_research": "Built Environment and Design",
+    "pubs_with_affiliations": 798,
+    "australian": 19,
+    "percentage": 2.38
+  },
+  {
+    "field_of_research": "Environmental Sciences",
+    "pubs_with_affiliations": 554,
+    "australian": 22,
+    "percentage": 3.97
+  },
+  {
+    "field_of_research": "Earth Sciences",
+    "pubs_with_affiliations": 497,
+    "australian": 20,
+    "percentage": 4.02
+  }
+]

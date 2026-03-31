@@ -1,0 +1,47 @@
+[
+  {
+    "location": "Australia",
+    "relation_type": "IsIdenticalTo",
+    "links": 4449019
+  },
+  {
+    "location": "Australia",
+    "relation_type": "IsPartOf",
+    "links": 170
+  },
+  {
+    "location": "Australia",
+    "relation_type": "HasPart",
+    "links": 166
+  },
+  {
+    "location": "Rest of World",
+    "relation_type": "IsIdenticalTo",
+    "links": 1332411
+  },
+  {
+    "location": "Rest of World",
+    "relation_type": "IsPartOf",
+    "links": 193331
+  },
+  {
+    "location": "Rest of World",
+    "relation_type": "IsCitedBy",
+    "links": 41340
+  },
+  {
+    "location": "Rest of World",
+    "relation_type": "IsDescribedBy",
+    "links": 1492
+  },
+  {
+    "location": "Rest of World",
+    "relation_type": "IsVariantFormOf",
+    "links": 91
+  },
+  {
+    "location": "Rest of World",
+    "relation_type": "HasPart",
+    "links": 18
+  }
+]

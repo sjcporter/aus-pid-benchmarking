@@ -1,0 +1,1242 @@
+[
+  {
+    "funder": "Ministry of Health Labour and Welfare",
+    "country": "Japan",
+    "income_group": "High income",
+    "region": "East Asia & Pacific",
+    "research_pool": 2508,
+    "orcid_researchers": 1974,
+    "percentage_orcid": 78.71,
+    "orcid_completeness": 18.41
+  },
+  {
+    "funder": "National Cancer Institute",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 8641,
+    "orcid_researchers": 8116,
+    "percentage_orcid": 93.92,
+    "orcid_completeness": 24.04
+  },
+  {
+    "funder": "Japan Agency for Medical Research and Development",
+    "country": "Japan",
+    "income_group": "High income",
+    "region": "East Asia & Pacific",
+    "research_pool": 870,
+    "orcid_researchers": 805,
+    "percentage_orcid": 92.53,
+    "orcid_completeness": 24.85
+  },
+  {
+    "funder": "National Center for Advancing Translational Sciences",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 644,
+    "orcid_researchers": 599,
+    "percentage_orcid": 93.01,
+    "orcid_completeness": 26.05
+  },
+  {
+    "funder": "United States Department of Veterans Affairs",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1723,
+    "orcid_researchers": 1586,
+    "percentage_orcid": 92.05,
+    "orcid_completeness": 26.36
+  },
+  {
+    "funder": "National Heart Lung and Blood Institute",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 6341,
+    "orcid_researchers": 5936,
+    "percentage_orcid": 93.61,
+    "orcid_completeness": 26.44
+  },
+  {
+    "funder": "Congressionally Directed Medical Research Programs",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 3164,
+    "orcid_researchers": 2944,
+    "percentage_orcid": 93.05,
+    "orcid_completeness": 27.56
+  },
+  {
+    "funder": "National Institute on Aging",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 6147,
+    "orcid_researchers": 5728,
+    "percentage_orcid": 93.18,
+    "orcid_completeness": 27.64
+  },
+  {
+    "funder": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 4323,
+    "orcid_researchers": 4090,
+    "percentage_orcid": 94.61,
+    "orcid_completeness": 27.66
+  },
+  {
+    "funder": "Agency for Healthcare Research and Quality",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 662,
+    "orcid_researchers": 628,
+    "percentage_orcid": 94.86,
+    "orcid_completeness": 27.97
+  },
+  {
+    "funder": "National Institute on Minority Health and Health Disparities",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1061,
+    "orcid_researchers": 1000,
+    "percentage_orcid": 94.25,
+    "orcid_completeness": 28.59
+  },
+  {
+    "funder": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1588,
+    "orcid_researchers": 1515,
+    "percentage_orcid": 95.4,
+    "orcid_completeness": 28.79
+  },
+  {
+    "funder": "Robert Wood Johnson Foundation",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 946,
+    "orcid_researchers": 731,
+    "percentage_orcid": 77.27,
+    "orcid_completeness": 29.06
+  },
+  {
+    "funder": "National Institute on Alcohol Abuse and Alcoholism",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1177,
+    "orcid_researchers": 1106,
+    "percentage_orcid": 93.97,
+    "orcid_completeness": 29.39
+  },
+  {
+    "funder": "National Institute of Neurological Disorders and Stroke",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 5456,
+    "orcid_researchers": 5136,
+    "percentage_orcid": 94.13,
+    "orcid_completeness": 30.3
+  },
+  {
+    "funder": "National Endowment for the Humanities",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 876,
+    "orcid_researchers": 500,
+    "percentage_orcid": 57.08,
+    "orcid_completeness": 30.7
+  },
+  {
+    "funder": "National Natural Science Foundation of China",
+    "country": "China",
+    "income_group": "Upper middle income",
+    "region": "East Asia & Pacific",
+    "research_pool": 35880,
+    "orcid_researchers": 30040,
+    "percentage_orcid": 83.72,
+    "orcid_completeness": 30.72
+  },
+  {
+    "funder": "Japan Society for the Promotion of Science",
+    "country": "Japan",
+    "income_group": "High income",
+    "region": "East Asia & Pacific",
+    "research_pool": 63290,
+    "orcid_researchers": 48055,
+    "percentage_orcid": 75.93,
+    "orcid_completeness": 30.75
+  },
+  {
+    "funder": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 3723,
+    "orcid_researchers": 3483,
+    "percentage_orcid": 93.55,
+    "orcid_completeness": 31.05
+  },
+  {
+    "funder": "United States Department of the Army",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 765,
+    "orcid_researchers": 611,
+    "percentage_orcid": 79.87,
+    "orcid_completeness": 31.06
+  },
+  {
+    "funder": "National Institute on Drug Abuse",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 2671,
+    "orcid_researchers": 2491,
+    "percentage_orcid": 93.26,
+    "orcid_completeness": 31.39
+  },
+  {
+    "funder": "Directorate for Computer & Information Science & Engineering",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 8810,
+    "orcid_researchers": 8027,
+    "percentage_orcid": 91.11,
+    "orcid_completeness": 31.4
+  },
+  {
+    "funder": "National Institute of Environmental Health Sciences",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1321,
+    "orcid_researchers": 1226,
+    "percentage_orcid": 92.81,
+    "orcid_completeness": 31.81
+  },
+  {
+    "funder": "American Heart Association",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 2189,
+    "orcid_researchers": 2060,
+    "percentage_orcid": 94.11,
+    "orcid_completeness": 32.31
+  },
+  {
+    "funder": "National Institute of Allergy and Infectious Diseases",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 6602,
+    "orcid_researchers": 6212,
+    "percentage_orcid": 94.09,
+    "orcid_completeness": 32.49
+  },
+  {
+    "funder": "Southern and Eastern Norway Regional Health Authority",
+    "country": "Norway",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1520,
+    "orcid_researchers": 1325,
+    "percentage_orcid": 87.17,
+    "orcid_completeness": 32.61
+  },
+  {
+    "funder": "National Institute of Biomedical Imaging and Bioengineering",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1319,
+    "orcid_researchers": 1241,
+    "percentage_orcid": 94.09,
+    "orcid_completeness": 32.91
+  },
+  {
+    "funder": "National Eye Institute",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1538,
+    "orcid_researchers": 1421,
+    "percentage_orcid": 92.39,
+    "orcid_completeness": 32.95
+  },
+  {
+    "funder": "National Institute of Mental Health",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 4076,
+    "orcid_researchers": 3858,
+    "percentage_orcid": 94.65,
+    "orcid_completeness": 33.12
+  },
+  {
+    "funder": "Western Norway Regional Health Authority",
+    "country": "Norway",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 788,
+    "orcid_researchers": 666,
+    "percentage_orcid": 84.52,
+    "orcid_completeness": 33.32
+  },
+  {
+    "funder": "Canadian Institutes of Health Research",
+    "country": "Canada",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 11429,
+    "orcid_researchers": 10077,
+    "percentage_orcid": 88.17,
+    "orcid_completeness": 33.55
+  },
+  {
+    "funder": "United States Department of the Navy",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 2412,
+    "orcid_researchers": 2050,
+    "percentage_orcid": 84.99,
+    "orcid_completeness": 33.64
+  },
+  {
+    "funder": "United States Department of Education",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 670,
+    "orcid_researchers": 588,
+    "percentage_orcid": 87.76,
+    "orcid_completeness": 33.64
+  },
+  {
+    "funder": "National Human Genome Research Institute",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 858,
+    "orcid_researchers": 824,
+    "percentage_orcid": 96.04,
+    "orcid_completeness": 34.31
+  },
+  {
+    "funder": "National Institute of Dental and Craniofacial Research",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1117,
+    "orcid_researchers": 1040,
+    "percentage_orcid": 93.11,
+    "orcid_completeness": 34.35
+  },
+  {
+    "funder": "Fonds de Recherche du Québec - Société et Culture",
+    "country": "Canada",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 748,
+    "orcid_researchers": 549,
+    "percentage_orcid": 73.4,
+    "orcid_completeness": 34.36
+  },
+  {
+    "funder": "Directorate for Social, Behavioral & Economic Sciences",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 5122,
+    "orcid_researchers": 4439,
+    "percentage_orcid": 86.67,
+    "orcid_completeness": 35.31
+  },
+  {
+    "funder": "Agricultural Research Service",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 548,
+    "orcid_researchers": 523,
+    "percentage_orcid": 95.44,
+    "orcid_completeness": 35.32
+  },
+  {
+    "funder": "Central Norway Regional Health Authority",
+    "country": "Norway",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 666,
+    "orcid_researchers": 559,
+    "percentage_orcid": 83.93,
+    "orcid_completeness": 35.33
+  },
+  {
+    "funder": "United States Department of the Air Force",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1902,
+    "orcid_researchers": 1553,
+    "percentage_orcid": 81.65,
+    "orcid_completeness": 35.4
+  },
+  {
+    "funder": "Swedish Heart-Lung Foundation",
+    "country": "Sweden",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 709,
+    "orcid_researchers": 659,
+    "percentage_orcid": 92.95,
+    "orcid_completeness": 35.4
+  },
+  {
+    "funder": "National Institute on Deafness and Other Communication Disorders",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1078,
+    "orcid_researchers": 1005,
+    "percentage_orcid": 93.23,
+    "orcid_completeness": 35.68
+  },
+  {
+    "funder": "Office of the Director",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 2968,
+    "orcid_researchers": 2739,
+    "percentage_orcid": 92.28,
+    "orcid_completeness": 35.85
+  },
+  {
+    "funder": "Directorate for STEM Education",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 7431,
+    "orcid_researchers": 6006,
+    "percentage_orcid": 80.82,
+    "orcid_completeness": 36.77
+  },
+  {
+    "funder": "Slovenian Research Agency",
+    "country": "Slovenia",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 5126,
+    "orcid_researchers": 3976,
+    "percentage_orcid": 77.57,
+    "orcid_completeness": 36.86
+  },
+  {
+    "funder": "Hungarian Scientific Research Fund",
+    "country": "Hungary",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 4819,
+    "orcid_researchers": 4121,
+    "percentage_orcid": 85.52,
+    "orcid_completeness": 37.5
+  },
+  {
+    "funder": "Directorate for Mathematical & Physical Sciences",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 11155,
+    "orcid_researchers": 10075,
+    "percentage_orcid": 90.32,
+    "orcid_completeness": 37.56
+  },
+  {
+    "funder": "Natural Sciences and Engineering Research Council",
+    "country": "Canada",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 11513,
+    "orcid_researchers": 10289,
+    "percentage_orcid": 89.37,
+    "orcid_completeness": 37.67
+  },
+  {
+    "funder": "National Institute of General Medical Sciences",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 6343,
+    "orcid_researchers": 5946,
+    "percentage_orcid": 93.74,
+    "orcid_completeness": 37.76
+  },
+  {
+    "funder": "United States-Israel Binational Science Foundation",
+    "country": "Israel",
+    "income_group": "High income",
+    "region": "Middle East & North Africa",
+    "research_pool": 1068,
+    "orcid_researchers": 1000,
+    "percentage_orcid": 93.63,
+    "orcid_completeness": 37.84
+  },
+  {
+    "funder": "Directorate for Technology, Innovation and Partnerships",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 3619,
+    "orcid_researchers": 3169,
+    "percentage_orcid": 87.57,
+    "orcid_completeness": 37.88
+  },
+  {
+    "funder": "Social Sciences and Humanities Research Council",
+    "country": "Canada",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 9883,
+    "orcid_researchers": 7875,
+    "percentage_orcid": 79.68,
+    "orcid_completeness": 37.9
+  },
+  {
+    "funder": "Fonds de Recherche du Québec - Santé",
+    "country": "Canada",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1284,
+    "orcid_researchers": 1133,
+    "percentage_orcid": 88.24,
+    "orcid_completeness": 38.72
+  },
+  {
+    "funder": "Israel Science Foundation",
+    "country": "Israel",
+    "income_group": "High income",
+    "region": "Middle East & North Africa",
+    "research_pool": 2945,
+    "orcid_researchers": 2662,
+    "percentage_orcid": 90.39,
+    "orcid_completeness": 38.91
+  },
+  {
+    "funder": "Directorate for Engineering",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 9081,
+    "orcid_researchers": 8489,
+    "percentage_orcid": 93.48,
+    "orcid_completeness": 39.01
+  },
+  {
+    "funder": "Council for International Exchange of Scholars",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 3349,
+    "orcid_researchers": 2829,
+    "percentage_orcid": 84.47,
+    "orcid_completeness": 39.06
+  },
+  {
+    "funder": "Japan Science and Technology Agency",
+    "country": "Japan",
+    "income_group": "High income",
+    "region": "East Asia & Pacific",
+    "research_pool": 1717,
+    "orcid_researchers": 1617,
+    "percentage_orcid": 94.18,
+    "orcid_completeness": 39.43
+  },
+  {
+    "funder": "National Aeronautics and Space Administration",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 3408,
+    "orcid_researchers": 3007,
+    "percentage_orcid": 88.23,
+    "orcid_completeness": 39.71
+  },
+  {
+    "funder": "Office of Basic Energy Sciences",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1249,
+    "orcid_researchers": 1204,
+    "percentage_orcid": 96.4,
+    "orcid_completeness": 39.77
+  },
+  {
+    "funder": "National Institute of Food and Agriculture",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 4033,
+    "orcid_researchers": 3588,
+    "percentage_orcid": 88.97,
+    "orcid_completeness": 39.84
+  },
+  {
+    "funder": "Ministry of Higher Education",
+    "country": "Malaysia",
+    "income_group": "Upper middle income",
+    "region": "East Asia & Pacific",
+    "research_pool": 640,
+    "orcid_researchers": 518,
+    "percentage_orcid": 80.94,
+    "orcid_completeness": 40.16
+  },
+  {
+    "funder": "Canada Foundation for Innovation",
+    "country": "Canada",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 2148,
+    "orcid_researchers": 1981,
+    "percentage_orcid": 92.23,
+    "orcid_completeness": 40.28
+  },
+  {
+    "funder": "Fonds de Recherche du Québec – Nature et Technologies",
+    "country": "Canada",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 1236,
+    "orcid_researchers": 1097,
+    "percentage_orcid": 88.75,
+    "orcid_completeness": 40.3
+  },
+  {
+    "funder": "The Research Council of Norway",
+    "country": "Norway",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 3051,
+    "orcid_researchers": 2612,
+    "percentage_orcid": 85.61,
+    "orcid_completeness": 41.46
+  },
+  {
+    "funder": "Swedish Research Council for Health Working Life and Welfare",
+    "country": "Sweden",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1950,
+    "orcid_researchers": 1822,
+    "percentage_orcid": 93.44,
+    "orcid_completeness": 42.47
+  },
+  {
+    "funder": "Bank of Sweden Tercentenary Foundation",
+    "country": "Sweden",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 552,
+    "orcid_researchers": 495,
+    "percentage_orcid": 89.67,
+    "orcid_completeness": 42.54
+  },
+  {
+    "funder": "Russian Foundation for Basic Research",
+    "country": "Russia",
+    "income_group": "Upper middle income",
+    "region": "Europe & Central Asia",
+    "research_pool": 2481,
+    "orcid_researchers": 2152,
+    "percentage_orcid": 86.74,
+    "orcid_completeness": 43.0
+  },
+  {
+    "funder": "Deutsche Forschungsgemeinschaft",
+    "country": "Germany",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 26229,
+    "orcid_researchers": 24012,
+    "percentage_orcid": 91.55,
+    "orcid_completeness": 43.37
+  },
+  {
+    "funder": "Environmental Protection Agency",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 578,
+    "orcid_researchers": 521,
+    "percentage_orcid": 90.14,
+    "orcid_completeness": 43.77
+  },
+  {
+    "funder": "Directorate for Biological Sciences",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 6511,
+    "orcid_researchers": 6172,
+    "percentage_orcid": 94.79,
+    "orcid_completeness": 44.02
+  },
+  {
+    "funder": "Russian Science Foundation",
+    "country": "Russia",
+    "income_group": "Upper middle income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1445,
+    "orcid_researchers": 1344,
+    "percentage_orcid": 93.01,
+    "orcid_completeness": 44.06
+  },
+  {
+    "funder": "Health Research Council of New Zealand",
+    "country": "New Zealand",
+    "income_group": "High income",
+    "region": "East Asia & Pacific",
+    "research_pool": 1694,
+    "orcid_researchers": 1530,
+    "percentage_orcid": 90.32,
+    "orcid_completeness": 44.83
+  },
+  {
+    "funder": "Qatar National Research Fund",
+    "country": "Qatar",
+    "income_group": "High income",
+    "region": "Middle East & North Africa",
+    "research_pool": 1254,
+    "orcid_researchers": 1128,
+    "percentage_orcid": 89.95,
+    "orcid_completeness": 45.18
+  },
+  {
+    "funder": "Swedish Research Council",
+    "country": "Sweden",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 7072,
+    "orcid_researchers": 6574,
+    "percentage_orcid": 92.96,
+    "orcid_completeness": 45.53
+  },
+  {
+    "funder": "Volkswagen Foundation",
+    "country": "Germany",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1286,
+    "orcid_researchers": 1132,
+    "percentage_orcid": 88.02,
+    "orcid_completeness": 46.12
+  },
+  {
+    "funder": "VINNOVA",
+    "country": "Sweden",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 873,
+    "orcid_researchers": 719,
+    "percentage_orcid": 82.36,
+    "orcid_completeness": 46.33
+  },
+  {
+    "funder": "Directorate for Geosciences",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 6406,
+    "orcid_researchers": 5975,
+    "percentage_orcid": 93.27,
+    "orcid_completeness": 46.36
+  },
+  {
+    "funder": "Science and Technology Facilities Council",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1737,
+    "orcid_researchers": 1600,
+    "percentage_orcid": 92.11,
+    "orcid_completeness": 46.73
+  },
+  {
+    "funder": "Coordenação de Aperfeicoamento de Pessoal de Nível Superior",
+    "country": "Brazil",
+    "income_group": "Upper middle income",
+    "region": "Latin America & Caribbean",
+    "research_pool": 55288,
+    "orcid_researchers": 47411,
+    "percentage_orcid": 85.75,
+    "orcid_completeness": 46.89
+  },
+  {
+    "funder": "National Oceanic and Atmospheric Administration",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 593,
+    "orcid_researchers": 502,
+    "percentage_orcid": 84.65,
+    "orcid_completeness": 47.96
+  },
+  {
+    "funder": "Croatian Science Foundation",
+    "country": "Croatia",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 3791,
+    "orcid_researchers": 3227,
+    "percentage_orcid": 85.12,
+    "orcid_completeness": 48.26
+  },
+  {
+    "funder": "Office of Science",
+    "country": "United States",
+    "income_group": "High income",
+    "region": "North America",
+    "research_pool": 784,
+    "orcid_researchers": 572,
+    "percentage_orcid": 72.96,
+    "orcid_completeness": 49.57
+  },
+  {
+    "funder": "Agence Nationale de la Recherche",
+    "country": "France",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 3966,
+    "orcid_researchers": 3802,
+    "percentage_orcid": 95.86,
+    "orcid_completeness": 50.28
+  },
+  {
+    "funder": "Cancer Research UK",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 583,
+    "orcid_researchers": 566,
+    "percentage_orcid": 97.08,
+    "orcid_completeness": 50.53
+  },
+  {
+    "funder": "Dutch Research Council",
+    "country": "Netherlands",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1894,
+    "orcid_researchers": 1758,
+    "percentage_orcid": 92.82,
+    "orcid_completeness": 50.66
+  },
+  {
+    "funder": "European Research Council",
+    "country": "Belgium",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 2068,
+    "orcid_researchers": 2002,
+    "percentage_orcid": 96.81,
+    "orcid_completeness": 50.81
+  },
+  {
+    "funder": "Swiss National Science Foundation",
+    "country": "Switzerland",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 16544,
+    "orcid_researchers": 14996,
+    "percentage_orcid": 90.64,
+    "orcid_completeness": 50.94
+  },
+  {
+    "funder": "Italian Association for Cancer Research",
+    "country": "Italy",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1190,
+    "orcid_researchers": 1169,
+    "percentage_orcid": 98.24,
+    "orcid_completeness": 51.23
+  },
+  {
+    "funder": "Swedish Research Council for Environment Agricultural Sciences and Spatial Planning",
+    "country": "Sweden",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 2536,
+    "orcid_researchers": 2371,
+    "percentage_orcid": 93.49,
+    "orcid_completeness": 51.45
+  },
+  {
+    "funder": "São Paulo Research Foundation",
+    "country": "Brazil",
+    "income_group": "Upper middle income",
+    "region": "Latin America & Caribbean",
+    "research_pool": 7191,
+    "orcid_researchers": 6630,
+    "percentage_orcid": 92.2,
+    "orcid_completeness": 51.89
+  },
+  {
+    "funder": "National Council for Scientific and Technological Development",
+    "country": "Brazil",
+    "income_group": "Upper middle income",
+    "region": "Latin America & Caribbean",
+    "research_pool": 2973,
+    "orcid_researchers": 2723,
+    "percentage_orcid": 91.59,
+    "orcid_completeness": 52.05
+  },
+  {
+    "funder": "Ministry of Education and Science",
+    "country": "Latvia",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1007,
+    "orcid_researchers": 873,
+    "percentage_orcid": 86.69,
+    "orcid_completeness": 52.25
+  },
+  {
+    "funder": "Engineering and Physical Sciences Research Council",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 9329,
+    "orcid_researchers": 8907,
+    "percentage_orcid": 95.48,
+    "orcid_completeness": 52.53
+  },
+  {
+    "funder": "Estonian Research Council",
+    "country": "Estonia",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1713,
+    "orcid_researchers": 1423,
+    "percentage_orcid": 83.07,
+    "orcid_completeness": 52.7
+  },
+  {
+    "funder": "Innovate UK",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 591,
+    "orcid_researchers": 458,
+    "percentage_orcid": 77.5,
+    "orcid_completeness": 53.02
+  },
+  {
+    "funder": "Ministry of Education, Science, Research and Sport of the Slovak Republic",
+    "country": "Slovakia",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 7231,
+    "orcid_researchers": 5936,
+    "percentage_orcid": 82.09,
+    "orcid_completeness": 53.2
+  },
+  {
+    "funder": "Innovation and Technology Commission",
+    "country": "China",
+    "income_group": "Upper middle income",
+    "region": "East Asia & Pacific",
+    "research_pool": 511,
+    "orcid_researchers": 465,
+    "percentage_orcid": 91.0,
+    "orcid_completeness": 53.44
+  },
+  {
+    "funder": "Belgian Federal Science Policy Office",
+    "country": "Belgium",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 3259,
+    "orcid_researchers": 3063,
+    "percentage_orcid": 93.99,
+    "orcid_completeness": 53.72
+  },
+  {
+    "funder": "Royal Society of New Zealand",
+    "country": "New Zealand",
+    "income_group": "High income",
+    "region": "East Asia & Pacific",
+    "research_pool": 552,
+    "orcid_researchers": 534,
+    "percentage_orcid": 96.74,
+    "orcid_completeness": 53.74
+  },
+  {
+    "funder": "Arts and Humanities Research Council",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 2387,
+    "orcid_researchers": 2082,
+    "percentage_orcid": 87.22,
+    "orcid_completeness": 54.07
+  },
+  {
+    "funder": "Medical Research Council",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 6269,
+    "orcid_researchers": 6044,
+    "percentage_orcid": 96.41,
+    "orcid_completeness": 54.11
+  },
+  {
+    "funder": "Slovak Research and Development Agency",
+    "country": "Slovakia",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 3874,
+    "orcid_researchers": 3281,
+    "percentage_orcid": 84.69,
+    "orcid_completeness": 54.29
+  },
+  {
+    "funder": "Wellcome Trust",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 2889,
+    "orcid_researchers": 2768,
+    "percentage_orcid": 95.81,
+    "orcid_completeness": 54.29
+  },
+  {
+    "funder": "National Research Foundation",
+    "country": "South Africa",
+    "income_group": "Upper middle income",
+    "region": "Sub-Saharan Africa",
+    "research_pool": 636,
+    "orcid_researchers": 538,
+    "percentage_orcid": 84.59,
+    "orcid_completeness": 54.46
+  },
+  {
+    "funder": "UK Research and Innovation",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 8670,
+    "orcid_researchers": 8164,
+    "percentage_orcid": 94.16,
+    "orcid_completeness": 54.61
+  },
+  {
+    "funder": "Economic and Social Research Council",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 4037,
+    "orcid_researchers": 3789,
+    "percentage_orcid": 93.86,
+    "orcid_completeness": 55.62
+  },
+  {
+    "funder": "Medical Research Future Fund",
+    "country": "Australia",
+    "income_group": "High income",
+    "region": "East Asia & Pacific",
+    "research_pool": 3587,
+    "orcid_researchers": 3415,
+    "percentage_orcid": 95.2,
+    "orcid_completeness": 55.8
+  },
+  {
+    "funder": "FWF Austrian Science Fund",
+    "country": "Austria",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 2549,
+    "orcid_researchers": 2435,
+    "percentage_orcid": 95.53,
+    "orcid_completeness": 55.85
+  },
+  {
+    "funder": "Academy of Finland",
+    "country": "Finland",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 2347,
+    "orcid_researchers": 2263,
+    "percentage_orcid": 96.42,
+    "orcid_completeness": 56.19
+  },
+  {
+    "funder": "Research Foundation - Flanders",
+    "country": "Belgium",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 2410,
+    "orcid_researchers": 2352,
+    "percentage_orcid": 97.59,
+    "orcid_completeness": 56.7
+  },
+  {
+    "funder": "Czech Science Foundation",
+    "country": "Czechia",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1959,
+    "orcid_researchers": 1916,
+    "percentage_orcid": 97.81,
+    "orcid_completeness": 58.25
+  },
+  {
+    "funder": "National Institute for Health and Care Research",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 2703,
+    "orcid_researchers": 2620,
+    "percentage_orcid": 96.93,
+    "orcid_completeness": 58.55
+  },
+  {
+    "funder": "Technology Agency of the Czech Republic",
+    "country": "Czechia",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 767,
+    "orcid_researchers": 650,
+    "percentage_orcid": 84.75,
+    "orcid_completeness": 59.26
+  },
+  {
+    "funder": "Natural Environment Research Council",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 3595,
+    "orcid_researchers": 3460,
+    "percentage_orcid": 96.24,
+    "orcid_completeness": 59.51
+  },
+  {
+    "funder": "Ministry of Education Youth and Sports",
+    "country": "Czechia",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 698,
+    "orcid_researchers": 667,
+    "percentage_orcid": 95.56,
+    "orcid_completeness": 60.51
+  },
+  {
+    "funder": "Biotechnology and Biological Sciences Research Council",
+    "country": "United Kingdom",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 4851,
+    "orcid_researchers": 4718,
+    "percentage_orcid": 97.26,
+    "orcid_completeness": 60.88
+  },
+  {
+    "funder": "National Health and Medical Research Council",
+    "country": "Australia",
+    "income_group": "High income",
+    "region": "East Asia & Pacific",
+    "research_pool": 1722,
+    "orcid_researchers": 1694,
+    "percentage_orcid": 98.37,
+    "orcid_completeness": 61.54
+  },
+  {
+    "funder": "Agencia Nacional de Investigación y Desarrollo",
+    "country": "Chile",
+    "income_group": "High income",
+    "region": "Latin America & Caribbean",
+    "research_pool": 782,
+    "orcid_researchers": 718,
+    "percentage_orcid": 91.82,
+    "orcid_completeness": 61.7
+  },
+  {
+    "funder": "Australian Research Council",
+    "country": "Australia",
+    "income_group": "High income",
+    "region": "East Asia & Pacific",
+    "research_pool": 8939,
+    "orcid_researchers": 8679,
+    "percentage_orcid": 97.09,
+    "orcid_completeness": 62.35
+  },
+  {
+    "funder": "National Science Center",
+    "country": "Poland",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 4821,
+    "orcid_researchers": 4753,
+    "percentage_orcid": 98.59,
+    "orcid_completeness": 62.43
+  },
+  {
+    "funder": "Science Foundation Ireland",
+    "country": "Ireland",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 547,
+    "orcid_researchers": 523,
+    "percentage_orcid": 95.61,
+    "orcid_completeness": 62.56
+  },
+  {
+    "funder": "Novo Nordisk Foundation",
+    "country": "Denmark",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1348,
+    "orcid_researchers": 1317,
+    "percentage_orcid": 97.7,
+    "orcid_completeness": 63.19
+  },
+  {
+    "funder": "Danish Agency for Science and Higher Education",
+    "country": "Denmark",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 1413,
+    "orcid_researchers": 1378,
+    "percentage_orcid": 97.52,
+    "orcid_completeness": 65.64
+  },
+  {
+    "funder": "Fundação para a Ciência e Tecnologia",
+    "country": "Portugal",
+    "income_group": "High income",
+    "region": "Europe & Central Asia",
+    "research_pool": 9696,
+    "orcid_researchers": 9415,
+    "percentage_orcid": 97.1,
+    "orcid_completeness": 70.2
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "entity": "Biomedical and Clinical Sciences",
+    "field_of_research": "Biomedical and Clinical Sciences",
+    "research_pool": 2328757,
+    "orcid_researchers": 1093079,
+    "percentage_orcid": 46.94,
+    "orcid_completeness": 32.82,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Information and Computing Sciences",
+    "field_of_research": "Information and Computing Sciences",
+    "research_pool": 400574,
+    "orcid_researchers": 246473,
+    "percentage_orcid": 61.53,
+    "orcid_completeness": 37.32,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Mathematical Sciences",
+    "field_of_research": "Mathematical Sciences",
+    "research_pool": 110569,
+    "orcid_researchers": 66395,
+    "percentage_orcid": 60.05,
+    "orcid_completeness": 38.26,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Physical Sciences",
+    "field_of_research": "Physical Sciences",
+    "research_pool": 264931,
+    "orcid_researchers": 162772,
+    "percentage_orcid": 61.44,
+    "orcid_completeness": 40.41,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Law and Legal Studies",
+    "field_of_research": "Law and Legal Studies",
+    "research_pool": 39056,
+    "orcid_researchers": 18546,
+    "percentage_orcid": 47.49,
+    "orcid_completeness": 40.72,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Education",
+    "field_of_research": "Education",
+    "research_pool": 134268,
+    "orcid_researchers": 78933,
+    "percentage_orcid": 58.79,
+    "orcid_completeness": 41.54,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Engineering",
+    "field_of_research": "Engineering",
+    "research_pool": 1019734,
+    "orcid_researchers": 562936,
+    "percentage_orcid": 55.2,
+    "orcid_completeness": 41.78,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Agricultural, Veterinary and Food Sciences",
+    "field_of_research": "Agricultural, Veterinary and Food Sciences",
+    "research_pool": 282695,
+    "orcid_researchers": 147926,
+    "percentage_orcid": 52.33,
+    "orcid_completeness": 41.88,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Commerce, Management, Tourism and Services",
+    "field_of_research": "Commerce, Management, Tourism and Services",
+    "research_pool": 198951,
+    "orcid_researchers": 116184,
+    "percentage_orcid": 58.4,
+    "orcid_completeness": 43.2,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Health Sciences",
+    "field_of_research": "Health Sciences",
+    "research_pool": 294148,
+    "orcid_researchers": 171846,
+    "percentage_orcid": 58.42,
+    "orcid_completeness": 43.28,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Economics",
+    "field_of_research": "Economics",
+    "research_pool": 54919,
+    "orcid_researchers": 31914,
+    "percentage_orcid": 58.11,
+    "orcid_completeness": 44.71,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Philosophy and Religious Studies",
+    "field_of_research": "Philosophy and Religious Studies",
+    "research_pool": 50187,
+    "orcid_researchers": 25754,
+    "percentage_orcid": 51.32,
+    "orcid_completeness": 44.99,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Psychology",
+    "field_of_research": "Psychology",
+    "research_pool": 119435,
+    "orcid_researchers": 77120,
+    "percentage_orcid": 64.57,
+    "orcid_completeness": 45.11,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Environmental Sciences",
+    "field_of_research": "Environmental Sciences",
+    "research_pool": 91076,
+    "orcid_researchers": 51903,
+    "percentage_orcid": 56.99,
+    "orcid_completeness": 45.59,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Human Society",
+    "field_of_research": "Human Society",
+    "research_pool": 168599,
+    "orcid_researchers": 102578,
+    "percentage_orcid": 60.84,
+    "orcid_completeness": 46.83,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Earth Sciences",
+    "field_of_research": "Earth Sciences",
+    "research_pool": 203986,
+    "orcid_researchers": 119487,
+    "percentage_orcid": 58.58,
+    "orcid_completeness": 46.87,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Biological Sciences",
+    "field_of_research": "Biological Sciences",
+    "research_pool": 614788,
+    "orcid_researchers": 369353,
+    "percentage_orcid": 60.08,
+    "orcid_completeness": 47.89,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Language, Communication and Culture",
+    "field_of_research": "Language, Communication and Culture",
+    "research_pool": 89715,
+    "orcid_researchers": 51077,
+    "percentage_orcid": 56.93,
+    "orcid_completeness": 47.98,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "History, Heritage and Archaeology",
+    "field_of_research": "History, Heritage and Archaeology",
+    "research_pool": 48421,
+    "orcid_researchers": 24792,
+    "percentage_orcid": 51.2,
+    "orcid_completeness": 48.59,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Built Environment and Design",
+    "field_of_research": "Built Environment and Design",
+    "research_pool": 38050,
+    "orcid_researchers": 21442,
+    "percentage_orcid": 56.35,
+    "orcid_completeness": 48.85,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Creative Arts and Writing",
+    "field_of_research": "Creative Arts and Writing",
+    "research_pool": 27032,
+    "orcid_researchers": 13921,
+    "percentage_orcid": 51.5,
+    "orcid_completeness": 51.01,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Chemical Sciences",
+    "field_of_research": "Chemical Sciences",
+    "research_pool": 348890,
+    "orcid_researchers": 198241,
+    "percentage_orcid": 56.82,
+    "orcid_completeness": 51.7,
+    "scope": "global",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Biomedical and Clinical Sciences",
+    "field_of_research": "Biomedical and Clinical Sciences",
+    "research_pool": 87731,
+    "orcid_researchers": 57528,
+    "percentage_orcid": 65.57,
+    "orcid_completeness": 33.09,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Mathematical Sciences",
+    "field_of_research": "Mathematical Sciences",
+    "research_pool": 2435,
+    "orcid_researchers": 1774,
+    "percentage_orcid": 72.85,
+    "orcid_completeness": 39.37,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Information and Computing Sciences",
+    "field_of_research": "Information and Computing Sciences",
+    "research_pool": 10431,
+    "orcid_researchers": 7993,
+    "percentage_orcid": 76.63,
+    "orcid_completeness": 41.23,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Economics",
+    "field_of_research": "Economics",
+    "research_pool": 2059,
+    "orcid_researchers": 1488,
+    "percentage_orcid": 72.27,
+    "orcid_completeness": 45.91,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Agricultural, Veterinary and Food Sciences",
+    "field_of_research": "Agricultural, Veterinary and Food Sciences",
+    "research_pool": 6560,
+    "orcid_researchers": 4383,
+    "percentage_orcid": 66.81,
+    "orcid_completeness": 46.45,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Psychology",
+    "field_of_research": "Psychology",
+    "research_pool": 5520,
+    "orcid_researchers": 4353,
+    "percentage_orcid": 78.86,
+    "orcid_completeness": 47.25,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Engineering",
+    "field_of_research": "Engineering",
+    "research_pool": 23094,
+    "orcid_researchers": 16929,
+    "percentage_orcid": 73.3,
+    "orcid_completeness": 47.74,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Health Sciences",
+    "field_of_research": "Health Sciences",
+    "research_pool": 20056,
+    "orcid_researchers": 15440,
+    "percentage_orcid": 76.98,
+    "orcid_completeness": 48.67,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Physical Sciences",
+    "field_of_research": "Physical Sciences",
+    "research_pool": 9327,
+    "orcid_researchers": 7240,
+    "percentage_orcid": 77.62,
+    "orcid_completeness": 48.89,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Earth Sciences",
+    "field_of_research": "Earth Sciences",
+    "research_pool": 7086,
+    "orcid_researchers": 5258,
+    "percentage_orcid": 74.2,
+    "orcid_completeness": 49.44,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Commerce, Management, Tourism and Services",
+    "field_of_research": "Commerce, Management, Tourism and Services",
+    "research_pool": 7035,
+    "orcid_researchers": 5330,
+    "percentage_orcid": 75.76,
+    "orcid_completeness": 51.21,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Environmental Sciences",
+    "field_of_research": "Environmental Sciences",
+    "research_pool": 4526,
+    "orcid_researchers": 3369,
+    "percentage_orcid": 74.44,
+    "orcid_completeness": 53.04,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Philosophy and Religious Studies",
+    "field_of_research": "Philosophy and Religious Studies",
+    "research_pool": 1189,
+    "orcid_researchers": 853,
+    "percentage_orcid": 71.74,
+    "orcid_completeness": 53.51,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Biological Sciences",
+    "field_of_research": "Biological Sciences",
+    "research_pool": 22176,
+    "orcid_researchers": 16746,
+    "percentage_orcid": 75.51,
+    "orcid_completeness": 54.02,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Law and Legal Studies",
+    "field_of_research": "Law and Legal Studies",
+    "research_pool": 1327,
+    "orcid_researchers": 970,
+    "percentage_orcid": 73.1,
+    "orcid_completeness": 54.81,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Built Environment and Design",
+    "field_of_research": "Built Environment and Design",
+    "research_pool": 1414,
+    "orcid_researchers": 1126,
+    "percentage_orcid": 79.63,
+    "orcid_completeness": 56.09,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Human Society",
+    "field_of_research": "Human Society",
+    "research_pool": 5888,
+    "orcid_researchers": 4585,
+    "percentage_orcid": 77.87,
+    "orcid_completeness": 56.15,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Chemical Sciences",
+    "field_of_research": "Chemical Sciences",
+    "research_pool": 8386,
+    "orcid_researchers": 6234,
+    "percentage_orcid": 74.34,
+    "orcid_completeness": 57.38,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Language, Communication and Culture",
+    "field_of_research": "Language, Communication and Culture",
+    "research_pool": 2143,
+    "orcid_researchers": 1727,
+    "percentage_orcid": 80.59,
+    "orcid_completeness": 58.77,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Education",
+    "field_of_research": "Education",
+    "research_pool": 4230,
+    "orcid_researchers": 3391,
+    "percentage_orcid": 80.17,
+    "orcid_completeness": 58.95,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "History, Heritage and Archaeology",
+    "field_of_research": "History, Heritage and Archaeology",
+    "research_pool": 1380,
+    "orcid_researchers": 1041,
+    "percentage_orcid": 75.43,
+    "orcid_completeness": 60.54,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  },
+  {
+    "entity": "Creative Arts and Writing",
+    "field_of_research": "Creative Arts and Writing",
+    "research_pool": 941,
+    "orcid_researchers": 723,
+    "percentage_orcid": 76.83,
+    "orcid_completeness": 60.81,
+    "scope": "australia",
+    "date_range": "2020-2024"
+  }
+]

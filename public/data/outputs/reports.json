@@ -1,0 +1,302 @@
+[
+  {
+    "client_id": "cern.zenodo",
+    "repository": "Zenodo",
+    "reports": 32841,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Office of Scientific and Technical Information (OSTI)",
+    "reports": 24427,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "tib.tib",
+    "repository": "TIB Hannover",
+    "reports": 21808,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Reserve Bank of Australia",
+    "reports": 8679,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "INPLASY - International Platform of Registered Systematic Review and Meta-analysis Protocols",
+    "reports": 6977,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "National Bureau of Economic Research",
+    "reports": 6720,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Inter-American Development Bank",
+    "reports": 3009,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Organisation for Economic Co-Operation and Development (OECD)",
+    "reports": 2942,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "AARP Research",
+    "reports": 2239,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "International Food Policy Research Institute",
+    "reports": 1856,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Monash University",
+    "reports": 1822,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "The IFS",
+    "reports": 1413,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Asian Development Bank",
+    "reports": 1387,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Iowa State University",
+    "reports": 1214,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Natural Resources Canada/CMSS/Information Management",
+    "reports": 1204,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Engineer Research and Development Center (U.S.)",
+    "reports": 1140,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Microbiology Society",
+    "reports": 1092,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "FAO",
+    "reports": 1035,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "East Asia Forum",
+    "reports": 1027,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "RFC Editor",
+    "reports": 987,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Institute of Development Studies",
+    "reports": 919,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "National Institute of Standards and Technology (U.S.)",
+    "reports": 837,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "unsw.repo",
+    "repository": "University of New South Wales",
+    "reports": 821,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "Population Council",
+    "reports": 773,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "National Park Service",
+    "reports": 717,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "ACAMH",
+    "reports": 713,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "delft.rivm",
+    "repository": "RIVM - Rijksinstituut voor Volksgezondheid en Milieu",
+    "reports": 713,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "UNU-WIDER",
+    "reports": 628,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "crossref",
+    "repository": "National Institute of Standards and Technology",
+    "reports": 607,
+    "source": "Crossref"
+  },
+  {
+    "client_id": "msu.core",
+    "repository": "Knowledge Commons Works",
+    "reports": 449,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "fzao.otzltg",
+    "repository": "Tunisian Scientific and Technical Information Portal",
+    "reports": 303,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "inist.humanum",
+    "repository": "NAKALA",
+    "reports": 293,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "lzi.drops",
+    "repository": "Dagstuhl Research Online Publication Server",
+    "reports": 280,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "csic.digital",
+    "repository": "Digital CSIC",
+    "reports": 273,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "tind.agecon",
+    "repository": "AgEcon Search",
+    "reports": 256,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "tib.awi",
+    "repository": "Alfred Wegener Institute",
+    "reports": 250,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "uutah.marriott",
+    "repository": "J. Willard Marriott Library",
+    "reports": 243,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "cnic.casdc",
+    "repository": "\u4e2d\u56fd\u79d1\u5b66\u9662\u79d1\u5b66\u6570\u636e\u4e2d\u5fc3",
+    "reports": 238,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "rice.fondren",
+    "repository": "Fondren Library",
+    "reports": 224,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "nrc.ir",
+    "repository": "NRC Digital Repository",
+    "reports": 218,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "unibe.boris-portal",
+    "repository": "Open Access CRIS of the University of Bern",
+    "reports": 156,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "ardcx.wsu",
+    "repository": "Western Sydney University ResearchDirect",
+    "reports": 155,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "bl.kcl",
+    "repository": "King's College London",
+    "reports": 129,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "tib.ubgi",
+    "repository": "Universit\u00e4tsbibliothek Gie\u00dfen",
+    "reports": 128,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "lnav.mr",
+    "repository": "Mines Repository",
+    "reports": 123,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "harvardu.cap",
+    "repository": "Cell Annotation Platform",
+    "reports": 120,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "nsyy.wuebir",
+    "repository": "Wroclaw University of Economics and Business A knowledge and research potential platform",
+    "reports": 117,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "tib.baua-doi",
+    "repository": "Bundesanstalt f\u00fcr Arbeitsschutz und Arbeitsmedizin (BAuA)",
+    "reports": 111,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "uvgc.fb1000",
+    "repository": "Forschungsberichte/Fachpublikationen",
+    "reports": 109,
+    "source": "DataCite"
+  },
+  {
+    "client_id": "fude.acatech",
+    "repository": "acatech - Deutsche Akademie der Technikwissenschaften",
+    "reports": 108,
+    "source": "DataCite"
+  }
+]

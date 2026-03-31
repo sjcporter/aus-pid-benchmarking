@@ -1,0 +1,127 @@
+[
+  {
+    "facility": "QIMR Berghofer Medical Research Institute",
+    "grid_id": "grid.1049.c",
+    "publications": 3961
+  },
+  {
+    "facility": "Hunter Medical Research Institute",
+    "grid_id": "grid.413648.c",
+    "publications": 3013
+  },
+  {
+    "facility": "George Institute for Global Health",
+    "grid_id": "grid.415508.d",
+    "publications": 2251
+  },
+  {
+    "facility": "Telethon Kids Institute",
+    "grid_id": "grid.414659.b",
+    "publications": 2114
+  },
+  {
+    "facility": "Neuroscience Research Australia",
+    "grid_id": "grid.250407.4",
+    "publications": 1963
+  },
+  {
+    "facility": "CSIRO Agriculture and Food",
+    "grid_id": "grid.493032.f",
+    "publications": 1569
+  },
+  {
+    "facility": "CSIRO Oceans and Atmosphere",
+    "grid_id": "grid.492990.f",
+    "publications": 1291
+  },
+  {
+    "facility": "CSIRO Land and Water",
+    "grid_id": "grid.469914.7",
+    "publications": 1252
+  },
+  {
+    "facility": "Translational Research Institute",
+    "grid_id": "grid.489335.0",
+    "publications": 1232
+  },
+  {
+    "facility": "Australian Synchrotron",
+    "grid_id": "grid.248753.f",
+    "publications": 1158
+  },
+  {
+    "facility": "Westmead Institute for Medical Research",
+    "grid_id": "grid.452919.2",
+    "publications": 1041
+  },
+  {
+    "facility": "ARC Centre of Excellence for All-Sky Astrophysics",
+    "grid_id": "grid.494535.a",
+    "publications": 1022
+  },
+  {
+    "facility": "CSIRO Manufacturing",
+    "grid_id": "grid.494571.a",
+    "publications": 1019
+  },
+  {
+    "facility": "Centre for Eye Research Australia",
+    "grid_id": "grid.418002.f",
+    "publications": 969
+  },
+  {
+    "facility": "Westmead Institute",
+    "grid_id": "grid.476921.f",
+    "publications": 947
+  },
+  {
+    "facility": "Australian Institute of Marine Science",
+    "grid_id": "grid.1046.3",
+    "publications": 908
+  },
+  {
+    "facility": "Centenary Institute of Cancer Medicine and Cell Biology",
+    "grid_id": "grid.248902.5",
+    "publications": 870
+  },
+  {
+    "facility": "Woolcock Institute of Medical Research",
+    "grid_id": "grid.417229.b",
+    "publications": 802
+  },
+  {
+    "facility": "Peter Doherty Institute",
+    "grid_id": "grid.483778.7",
+    "publications": 734
+  },
+  {
+    "facility": "ARC Centre of Excellence for Coral Reef Studies",
+    "grid_id": "grid.301066.2",
+    "publications": 719
+  },
+  {
+    "facility": "Perron Institute for Neurological and Translational Science",
+    "grid_id": "grid.482226.8",
+    "publications": 670
+  },
+  {
+    "facility": "Illawarra Health and Medical Research Institute",
+    "grid_id": "grid.510958.0",
+    "publications": 608
+  },
+  {
+    "facility": "Centre for Cancer Biology",
+    "grid_id": "grid.470344.0",
+    "publications": 576
+  },
+  {
+    "facility": "Australian e-Health Research Centre",
+    "grid_id": "grid.467740.6",
+    "publications": 570
+  },
+  {
+    "facility": "Children's Medical Research Institute",
+    "grid_id": "grid.414235.5",
+    "publications": 567
+  }
+]
