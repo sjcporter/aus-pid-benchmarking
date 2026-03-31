@@ -5,6 +5,7 @@ import Sidebar from "@/components/layout/Sidebar";
 import TopBar from "@/components/layout/TopBar";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 import AnnotationPanel from "@/components/interactive/AnnotationPanel";
+import GateScreen from "@/components/auth/GateScreen";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -33,15 +34,17 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full`}
     >
       <body className="h-full flex flex-col antialiased">
-        <TopBar />
-        <div className="flex flex-1 overflow-hidden">
-          <Sidebar />
-          <main className="flex-1 overflow-y-auto">
-            <Breadcrumb />
-            <div className="px-6 pb-8">{children}</div>
-          </main>
-        </div>
-        <AnnotationPanel />
+        <GateScreen>
+          <TopBar />
+          <div className="flex flex-1 overflow-hidden">
+            <Sidebar />
+            <main className="flex-1 overflow-y-auto">
+              <Breadcrumb />
+              <div className="px-6 pb-8">{children}</div>
+            </main>
+          </div>
+          <AnnotationPanel />
+        </GateScreen>
       </body>
     </html>
   );
